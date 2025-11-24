@@ -1,0 +1,675 @@
+{
+  "id": "intro-ciencias-exactas",
+  "title": {
+    "es": "Introducción a Ciencias Exactas",
+    "en": "Introduction to Exact Sciences",
+    "fr": "Introduction aux sciences exactes",
+    "it": "Introduzione alle scienze esatte",
+    "de": "Einführung in die exakten Wissenschaften"
+  },
+  "difficulty": "beginner",
+  "duration": {
+    "es": "4 horas 30 minutos",
+    "en": "4 hours 30 minutes",
+    "fr": "4 heures 30 minutes",
+    "it": "4 ore e 30 minuti",
+    "de": "4 Stunden 30 Minuten"
+  },
+  "description": {
+    "es": "Curso introductorio que abarca los fundamentos esenciales de las matemáticas y álgebra lineal. Perfecto para estudiantes que desean fortalecer sus bases antes de cursos más avanzados.",
+    "en": "Introductory course covering the essential fundamentals of mathematics and linear algebra. Perfect for students who wish to strengthen their foundation before more advanced courses.",
+    "fr": "Cours d'introduction couvrant les bases essentielles des mathématiques et de l'algèbre linéaire. Parfait pour les étudiants qui souhaitent renforcer leurs bases avant de suivre des cours plus avancés.",
+    "it": "Corso introduttivo che copre i fondamenti essenziali della matematica e dell'algebra lineare. Perfetto per gli studenti che desiderano rafforzare le proprie basi prima di corsi più avanzati.",
+    "de": "Einführungskurs, der die wesentlichen Grundlagen der Mathematik und der linearen Algebra vermittelt. Perfekt für Studenten, die ihre Grundlagen vor weiterführenden Kursen stärken wollen."
+  },
+  "thumbnail_url": "/img/courses/ciencias-exactas-intro.png",
+  "tags": {
+    "es": [
+      "Matemáticas",
+      "Álgebra Lineal",
+      "Fundamentos",
+      "Ciencias Exactas",
+      "Universidad"
+    ],
+    "en": [
+      "Mathematics",
+      "Linear Algebra",
+      "Fundamentals",
+      "Exact Sciences",
+      "University"
+    ],
+    "fr": [
+      "Mathématiques",
+      "Algèbre linéaire",
+      "Principes de base",
+      "Sciences exactes",
+      "Université"
+    ],
+    "it": [
+      "Matematica",
+      "Algebra lineare",
+      "Fondamenti",
+      "Scienze esatte",
+      "Università"
+    ],
+    "de": [
+      "Mathematik",
+      "Lineare Algebra",
+      "Grundlagen",
+      "Exakte Wissenschaften",
+      "Universität"
+    ]
+  },
+  "modules": [
+    {
+      "title": {
+        "es": "Fundamentos de Matemáticas",
+        "en": "Fundamentals of Mathematics",
+        "fr": "Principes de base des mathématiques",
+        "it": "Fondamenti di matematica",
+        "de": "Grundlagen der Mathematik"
+      },
+      "duration": {
+        "es": "2 horas",
+        "en": "2 hours",
+        "fr": "2 heures",
+        "it": "2 ore",
+        "de": "2 Stunden"
+      },
+      "lessons": [
+        {
+          "id": "lesson-1-1",
+          "title": {
+            "es": "¿Qué son los Números y Operaciones Básicas?",
+            "en": "what are Basic Numbers and Operations?",
+            "fr": "qu'est-ce que les nombres et les opérations de base ?",
+            "it": "cosa sono i numeri e le operazioni di base?",
+            "de": "was sind Grundzahlen und Operationen?"
+          },
+          "content_type": "text",
+          "content": {
+            "es": "<h3>Los Números Reales</h3><p>Los números reales son la base fundamental de la matemática. Se dividen en varias categorías: los números naturales (1, 2, 3, ...), los números enteros (..., -2, -1, 0, 1, 2, ...), los números racionales (fracciones como 1/2, 3/4) y los números irracionales (como π y √2).</p><p><strong>Operaciones Básicas:</strong></p><ul><li><strong>Suma:</strong> Combina dos o más números. Ejemplo: 5 + 3 = 8</li><li><strong>Resta:</strong> Encuentra la diferencia entre dos números. Ejemplo: 8 - 3 = 5</li><li><strong>Multiplicación:</strong> Repetir una suma. Ejemplo: 5 × 3 = 15</li><li><strong>División:</strong> Repartir un número en partes iguales. Ejemplo: 15 ÷ 3 = 5</li></ul><p>Estas operaciones siguen el orden PEMDAS (Paréntesis, Exponentes, Multiplicación y División, Adición y Sustracción), que determina el orden en que debe resolver operaciones complejas.</p><p><strong>Propiedades importantes:</strong></p><ul><li><strong>Conmutatividad:</strong> El orden no importa en suma y multiplicación (3 + 5 = 5 + 3)</li><li><strong>Asociatividad:</strong> Agrupar números de diferentes formas da el mismo resultado ((2 + 3) + 4 = 2 + (3 + 4))</li><li><strong>Distributividad:</strong> 3 × (4 + 5) = 3 × 4 + 3 × 5</li></ul>",
+            "en": "<h3>Real Numbers</h3><p>The real numbers are the fundamental basis of mathematics. They are divided into several categories: natural numbers (1, 2, 3, ...), integers (..., -2, -1, 0, 1, 2, ...), rational numbers (fractions such as 1/2, 3/4) and irrational numbers (such as π and √2).</p><p><strong>Basic Operations:</strong></p><ul><li><strong>Addition:</strong> combine two or more numbers. Example: 5 + 3 = 8</li><li><strong>Subtraction:</strong> Find the difference between two numbers. Example: 8 - 3 = 5</li><li><strong>Multiplication:</strong> Repeat an addition. Example: 5 × 3 = 15</li><li><strong>Division:</strong> Dividing a number into equal parts. Example: 15 ÷ 3 = 5</li></ul><p>These operations follow the PEMDAS order (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction), which determines the order in which you should solve complex operations.</p><p><strong>Important properties:</strong></p><ul><li><strong>Commutativity:</strong> order does not matter in addition and multiplication (3 + 5 = 5 + 3)</li><li><strong>Associativity:</strong> Grouping numbers of different forms gives the same result ((2 + 3) + 4 = 2 + (3 + 4))</li><li><strong>Distributivity:</strong> 3 × (4 + 5) = 3 × 4 + 3 × 5</li></ul>",
+            "fr": "<h3>Les nombres réels</h3><p>Les nombres réels constituent la base fondamentale des mathématiques. Ils sont divisés en plusieurs catégories : les nombres naturels (1, 2, 3, ...), les nombres entiers (..., -2, -1, 0, 1, 2, ...), les nombres rationnels (fractions telles que 1/2, 3/4) et les nombres irrationnels (tels que π et √2).</p><p><strong>Opérations de base :</strong></p><ul><li><strong>Addition :</strong> Combinaison de deux ou plusieurs nombres. Exemple : 5 + 3 = 8</li><li><strong>Soustraction :</strong> trouver la différence entre deux nombres. Exemple : 8 - 3 = 5</li><li><strong>Multiplication :</strong> répéter une addition. Exemple : 5 × 3 = 15</li><li><strong>Division :</strong> diviser un nombre en parties égales. Exemple : 15 ÷ 3 = 5</li></ul><p>Ces opérations suivent l'ordre PEMDAS (parenthèses, exposants, multiplication et division, addition et soustraction), qui détermine l'ordre dans lequel vous devez résoudre les opérations complexes.</p><p><strong>Propriétés importantes :</strong></p><ul><li><strong>Commutativité : l</strong> 'ordre n'a pas d'importance dans l'addition et la multiplication (3 + 5 = 5 + 3)</li><li><strong>Associativité :</strong> le fait de regrouper des nombres de différentes manières donne le même résultat ((2 + 3) + 4 = 2 + (3 + 4))</li><li><strong>Distributivité :</strong> 3 × (4 + 5) = 3 × 4 + 3 × 5</li></ul>",
+            "it": "<h3>I numeri reali</h3><p>I numeri reali sono la base fondamentale della matematica. Si dividono in diverse categorie: numeri naturali (1, 2, 3, ...), numeri interi (..., -2, -1, 0, 1, 2, ...), numeri razionali (frazioni come 1/2, 3/4) e numeri irrazionali (come π e √2).</p><p><strong>Operazioni di base:</strong></p><ul><li><strong>Addizione:</strong> combina due o più numeri. Esempio: 5 + 3 = 8</li><li><strong>Sottrazione:</strong> trova la differenza tra due numeri. Esempio: 8 - 3 = 5</li><li><strong>Moltiplicazione:</strong> ripete un'addizione. Esempio: 5 × 3 = 15</li><li><strong>Divisione:</strong> dividere un numero in parti uguali. Esempio: 15 ÷ 3 = 5</li></ul><p>Queste operazioni seguono l'ordine PEMDAS (Parentesi, Esponenti, Moltiplicazione e Divisione, Addizione e Sottrazione), che determina l'ordine di risoluzione delle operazioni complesse.</p><p><strong>Proprietà importanti:</strong></p><ul><li><strong>Commutatività: l'</strong> ordine non ha importanza nell'addizione e nella moltiplicazione (3 + 5 = 5 + 3)</li><li><strong>Associatività:</strong> raggruppando i numeri in modi diversi si ottiene lo stesso risultato ((2 + 3) + 4 = 2 + (3 + 4))</li><li><strong>Distributività:</strong> 3 × (4 + 5) = 3 × 4 + 3 × 5</li></ul>",
+            "de": "<h3>Die reellen Zahlen</h3><p>Die reellen Zahlen sind die grundlegende Basis der Mathematik. Sie werden in mehrere Kategorien unterteilt: natürliche Zahlen (1, 2, 3, ...), ganze Zahlen (..., -2, -1, 0, 1, 2, ...), rationale Zahlen (Brüche wie 1/2, 3/4) und irrationale Zahlen (wie π und √2).</p><p><strong>Grundlegende Operationen:</strong></p><ul><li><strong>Addition:</strong> Kombiniert zwei oder mehr Zahlen. Beispiel: 5 + 3 = 8</li><li><strong>Subtraktion:</strong> Ermittelt die Differenz zwischen zwei Zahlen. Beispiel: 8 - 3 = 5</li><li><strong>Multiplikation:</strong> Wiederholung einer Addition. Beispiel: 5 × 3 = 15</li><li><strong>Division:</strong> Eine Zahl in gleiche Teile zerlegen. Beispiel: 15 ÷ 3 = 5</li></ul><p>Diese Operationen folgen der PEMDAS-Reihenfolge (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction), die die Reihenfolge festlegt, in der man komplexe Operationen lösen sollte.</p><p><strong>Wichtige Eigenschaften:</strong></p><ul><li><strong>Kommutativität:</strong> Die Reihenfolge spielt bei der Addition und Multiplikation keine Rolle (3 + 5 = 5 + 3)</li><li><strong>Assoziativität:</strong> Wenn man Zahlen auf unterschiedliche Weise gruppiert, erhält man das gleiche Ergebnis ((2 + 3) + 4 = 2 + (3 + 4))</li><li><strong>Distributivität:</strong> 3 × (4 + 5) = 3 × 4 + 3 × 5</li></ul>"
+          },
+          "duration": {
+            "es": "Lectura de 10 min",
+            "en": "10 min reading",
+            "fr": "10 min de lecture",
+            "it": "10 minuti di lettura",
+            "de": "10 min Lesen"
+          }
+        },
+        {
+          "id": "lesson-1-1-video",
+          "title": {
+            "es": "Video: Números y Operaciones Básicas",
+            "en": "Video: Basic Numbers and Operations",
+            "fr": "Vidéo : Nombres et opérations de base",
+            "it": "Video: Numeri e operazioni di base",
+            "de": "Video: Zahlen und Grundrechenarten"
+          },
+          "content_type": "video",
+          "video_url": "https://www.youtube.com/watch?v=q5w2-RRniOY",
+          "description": {
+            "es": "Refuerzo visual de los conceptos de números y operaciones fundamentales",
+            "en": "Visual reinforcement of number concepts and fundamental operations",
+            "fr": "Renforcement visuel des concepts fondamentaux des nombres et des opérations",
+            "it": "Rafforzamento visivo dei concetti e delle operazioni numeriche fondamentali",
+            "de": "Visuelle Verstärkung der grundlegenden Zahlenkonzepte und -operationen"
+          },
+          "duration": {
+            "es": "3:18",
+            "en": "3:18",
+            "fr": "3:18",
+            "it": "3:18",
+            "de": "3:18"
+          }
+        },
+        {
+          "id": "lesson-1-2",
+          "title": {
+            "es": "Fracciones y Decimales",
+            "en": "Fractions and Decimals",
+            "fr": "Fractions et décimales",
+            "it": "Frazioni e decimali",
+            "de": "Brüche und Dezimalzahlen"
+          },
+          "content_type": "text",
+          "content": {
+            "es": "<h3>Fracciones: Partes de un Entero</h3><p>Una fracción representa una parte de un todo. Se compone de un numerador (arriba) y un denominador (abajo). Por ejemplo, en la fracción 3/4, el 3 es el numerador (cuántas partes tenemos) y el 4 es el denominador (en cuántas partes se divide el entero).</p><p><strong>Tipos de fracciones:</strong></p><ul><li><strong>Propias:</strong> El numerador es menor que el denominador (3/4, 1/2)</li><li><strong>Impropias:</strong> El numerador es mayor o igual al denominador (5/3, 7/4)</li><li><strong>Mixtas:</strong> Combinan un entero con una fracción (2 1/3 significa 2 + 1/3)</li></ul><p><strong>Operaciones con fracciones:</strong></p><ul><li><strong>Suma/Resta:</strong> Necesitas un denominador común. Ejemplo: 1/4 + 1/3 = 3/12 + 4/12 = 7/12</li><li><strong>Multiplicación:</strong> Multiplica numeradores y denominadores: 2/3 × 3/4 = 6/12 = 1/2</li><li><strong>División:</strong> Multiplica por el recíproco: (2/3) ÷ (3/4) = (2/3) × (4/3) = 8/9</li></ul><h3>Decimales: Otra Forma de Expresar Fracciones</h3><p>Los decimales son otra manera de escribir fracciones, especialmente las que tienen denominadores que son potencias de 10. Por ejemplo, 1/10 = 0.1, 3/100 = 0.03, 1/4 = 0.25.</p><p><strong>Conversiones:</strong></p><ul><li>Para convertir fracción a decimal: divide el numerador entre el denominador</li><li>Para convertir decimal a fracción: cuenta los lugares decimales y usa eso como potencia de 10</li></ul><p><strong>Operaciones con decimales:</strong> Se realizan igual que con números enteros, pero debes tener cuidado con la posición del punto decimal en multiplicación y división.</p>",
+            "en": "<h3>Fractions: Parts of a Whole</h3><p>A fraction represents a part of a whole. It is composed of a numerator (top) and a denominator (bottom). For example, in the fraction 3/4, the 3 is the numerator (how many parts we have) and the 4 is the denominator (how many parts the whole is divided into).</p><p><strong>Types of fractions:</strong></p><ul><li><strong>Proper:</strong> The numerator is less than the denominator (3/4, 1/2)</li><li><strong>Improper:</strong> Numerator is greater than or equal to the denominator (5/3, 7/4)</li><li><strong>Mixed:</strong> Combine an integer with a fraction (2 1/3 means 2 + 1/3)</li></ul><p><strong>Operations with fractions:</strong></p><ul><li><strong>Addition/Subtraction:</strong> You need a common denominator. Example: 1/4 + 1/3 = 3/12 + 4/12 = 7/12</li><li><strong>Multiplication:</strong> Multiplies numerators and denominators: 2/3 × 3/4 = 6/12 = 1/2</li><li><strong>Division:</strong> Multiply by the reciprocal: (2/3) ÷ (3/4) = (2/3) × (4/3) = 8/9</li></ul><h3>Decimals: Another Way to Express Fractions</h3><p>Decimals are another way to write fractions, especially those with denominators that are powers of 10. For example, 1/10 = 0.1, 3/100 = 0.03, 1/4 = 0.25.</p><p><strong>Conversions:</strong></p><ul><li>To convert fraction to decimal: divide the numerator by the denominator</li><li>To convert decimal to fraction: count the decimal places and use that as a power of 10</li></ul><p><strong>Operations with decimals:</strong> They are performed the same as with whole numbers, but you must be careful with the position of the decimal point in multiplication and division.</p>",
+            "fr": "<h3>Fractions : Parties d'un tout</h3><p>Une fraction représente une partie d'un tout. Elle est composée d'un numérateur (en haut) et d'un dénominateur (en bas). Par exemple, dans la fraction 3/4, 3 est le numérateur (le nombre de parties que nous avons) et 4 est le dénominateur (le nombre de parties en lesquelles le tout est divisé).</p><p><strong>Types de fractions :</strong></p><ul><li><strong>Propres :</strong> le numérateur est plus petit que le dénominateur (3/4, 1/2)</li><li><strong>Mauvaise :</strong> le numérateur est supérieur ou égal au dénominateur (5/3, 7/4)</li><li><strong>Mixte :</strong> Combinaison d'un nombre entier et d'une fraction (2 1/3 signifie 2 + 1/3)</li></ul><p><strong>Opérations avec les fractions :</strong></p><ul><li><strong>Addition/soustraction :</strong> il faut un dénominateur commun. Exemple : 1/4 + 1/3 = 3/12 + 4/12 = 7/12</li><li><strong>Multiplication :</strong> Multipliez les numérateurs et les dénominateurs : 2/3 × 3/4 = 6/12 = 1/2</li><li><strong>Division :</strong> Multiplier par la réciproque : (2/3) ÷ (3/4) = (2/3) × (4/3) = 8/9</li></ul><h3>Les décimales : une autre façon d'exprimer les fractions</h3><p>Les décimales sont une autre façon d'écrire les fractions, en particulier celles dont le dénominateur est une puissance de 10. Par exemple, 1/10 = 0,1, 3/100 = 0,03, 1/4 = 0,25.</p><p><strong>Conversions :</strong></p><ul><li>Pour convertir une fraction en décimal : diviser le numérateur par le dénominateur</li><li>Pour convertir un nombre décimal en fraction : comptez les décimales et utilisez-les comme puissance de 10</li></ul><p><strong>Opérations avec les décimaux :</strong> elles se font de la même manière qu'avec les nombres entiers, mais il faut faire attention à la position de la virgule dans les multiplications et les divisions.</p>",
+            "it": "<h3>Frazioni: Parti di un intero</h3><p>Una frazione rappresenta una parte di un intero. È composta da un numeratore (in alto) e da un denominatore (in basso). Ad esempio, nella frazione 3/4, 3 è il numeratore (quante parti abbiamo) e 4 è il denominatore (in quante parti è diviso l'intero).</p><p><strong>Tipi di frazioni:</strong></p><ul><li><strong>Corretta:</strong> il numeratore è più piccolo del denominatore (3/4, 1/2)</li><li><strong>Improprio:</strong> il numeratore è maggiore o uguale al denominatore (5/3, 7/4)</li><li><strong>Mista:</strong> combina un numero intero con una frazione (2 1/3 significa 2 + 1/3)</li></ul><p><strong>Operazioni con le frazioni:</strong></p><ul><li><strong>Addizione/Sottrazione:</strong> è necessario un denominatore comune. Esempio: 1/4 + 1/3 = 3/12 + 4/12 = 7/12</li><li><strong>Moltiplicazione:</strong> moltiplicare numeratori e denominatori: 2/3 × 3/4 = 6/12 = 1/2</li><li><strong>Divisione:</strong> moltiplicare per il reciproco: (2/3) ÷ (3/4) = (2/3) × (4/3) = 8/9</li></ul><h3>Decimali: un altro modo di esprimere le frazioni</h3><p>I decimali sono un altro modo di scrivere le frazioni, soprattutto quelle con denominatori che sono potenze di 10. Ad esempio, 1/10 = 0,1, 3/100 = 0,03, 1/4 = 0,25.</p><p><strong>Conversioni:</strong></p><ul><li>Per convertire una frazione in decimale: dividere il numeratore per il denominatore</li><li>Per convertire un decimale in frazione: contare le cifre decimali e usarle come potenza di 10</li></ul><p><strong>Operazioni con i decimali:</strong> si eseguono allo stesso modo dei numeri interi, ma bisogna fare attenzione alla posizione del punto decimale nelle moltiplicazioni e nelle divisioni.</p>",
+            "de": "<h3>Brüche: Teile eines Ganzen</h3><p>Ein Bruch stellt einen Teil eines Ganzen dar. Er setzt sich aus einem Zähler (oben) und einem Nenner (unten) zusammen. Bei dem Bruch 3/4 ist beispielsweise 3 der Zähler (wie viele Teile wir haben) und 4 der Nenner (wie viele Teile das Ganze hat).</p><p><strong>Arten von Brüchen:</strong></p><ul><li><strong>Richtig:</strong> Der Zähler ist kleiner als der Nenner (3/4, 1/2)</li><li><strong>Unrichtig:</strong> Der Zähler ist größer oder gleich dem Nenner (5/3, 7/4)</li><li><strong>Gemischt:</strong> Kombiniert eine ganze Zahl mit einem Bruch (2 1/3 bedeutet 2 + 1/3)</li></ul><p><strong>Operationen mit Brüchen:</strong></p><ul><li><strong>Addition/Subtraktion:</strong> Sie benötigen einen gemeinsamen Nenner. Beispiel: 1/4 + 1/3 = 3/12 + 4/12 = 7/12</li><li><strong>Multiplikation:</strong> Multiplikation von Zähler und Nenner: 2/3 × 3/4 = 6/12 = 1/2</li><li><strong>Division:</strong> Multiplizieren mit dem Kehrwert: (2/3) ÷ (3/4) = (2/3) × (4/3) = 8/9</li></ul><h3>Dezimalzahlen: Eine weitere Möglichkeit, Brüche auszudrücken</h3><p>Dezimalzahlen sind eine weitere Möglichkeit, Brüche auszudrücken, insbesondere solche, deren Nenner eine Potenz von 10 ist, z. B. 1/10 = 0,1, 3/100 = 0,03, 1/4 = 0,25.</p><p><strong>Umrechnungen:</strong></p><ul><li>Um Bruch in Dezimalzahlen umzuwandeln: Zähler durch Nenner dividieren</li><li>Um Dezimalzahlen in Brüche umzuwandeln: Zählen Sie die Dezimalstellen und verwenden Sie diese als Potenz von 10</li></ul><p><strong>Operationen mit Dezimalzahlen:</strong> Sie werden genauso durchgeführt wie mit ganzen Zahlen, aber Sie müssen bei der Multiplikation und Division auf die Position des Dezimalkommas achten.</p>"
+          },
+          "duration": {
+            "es": "Lectura de 10 min",
+            "en": "10 min reading",
+            "fr": "10 min de lecture",
+            "it": "10 minuti di lettura",
+            "de": "10 min Lesen"
+          }
+        },
+        {
+          "id": "lesson-1-2-video",
+          "title": {
+            "es": "Video: Fracciones y Decimales",
+            "en": "Video: Fractions and Decimals",
+            "fr": "Vidéo : Fractions et décimales",
+            "it": "Video: Frazioni e decimali",
+            "de": "Video: Brüche und Dezimalzahlen"
+          },
+          "content_type": "video",
+          "video_url": "https://www.youtube.com/embed/7IchEKDNHXc",
+          "description": {
+            "es": "Refuerzo visual sobre fracciones y decimales con ejemplos prácticos",
+            "en": "Visual reinforcement on fractions and decimals with practical examples",
+            "fr": "Renforcement visuel sur les fractions et les décimales avec des exemples pratiques",
+            "it": "Rafforzamento visivo di frazioni e decimali con esempi pratici",
+            "de": "Visuelle Verstärkung von Brüchen und Dezimalzahlen mit praktischen Beispielen"
+          },
+          "duration": {
+            "es": "14:30",
+            "en": "14:30",
+            "fr": "14:30",
+            "it": "14:30",
+            "de": "14:30"
+          }
+        },
+        {
+          "id": "lesson-1-3",
+          "title": {
+            "es": "Potencias y Raíces",
+            "en": "Powers and Roots",
+            "fr": "Pouvoirs et racines",
+            "it": "Poteri e radici",
+            "de": "Mächte und Wurzeln"
+          },
+          "content_type": "text",
+          "content": {
+            "es": "<h3>Potencias: Multiplicación Repetida</h3><p>Una potencia es una forma abreviada de escribir una multiplicación repetida. Se compone de una base (el número que se multiplica) y un exponente (cuántas veces se multiplica). Por ejemplo, 2³ significa 2 × 2 × 2 = 8, donde 2 es la base y 3 es el exponente.</p><p><strong>Reglas de potencias:</strong></p><ul><li><strong>Producto de potencias:</strong> 2³ × 2² = 2^(3+2) = 2⁵</li><li><strong>Cociente de potencias:</strong> 2⁵ ÷ 2² = 2^(5-2) = 2³</li><li><strong>Potencia de una potencia:</strong> (2³)² = 2^(3×2) = 2⁶</li><li><strong>Exponente cero:</strong> Cualquier número a la potencia 0 es 1 (excepto 0⁰)</li><li><strong>Exponentes negativos:</strong> 2^(-3) = 1/(2³) = 1/8</li></ul><h3>Raíces: La Operación Inversa</h3><p>Una raíz es la operación inversa de una potencia. La raíz cuadrada (√) pregunta: ¿qué número multiplicado por sí mismo da este resultado? Por ejemplo, √16 = 4 porque 4 × 4 = 16.</p><p><strong>Tipos de raíces:</strong></p><ul><li><strong>Raíz cuadrada (√):</strong> ¿Qué número elevado al cuadrado da el número bajo el radical? √9 = 3</li><li><strong>Raíz cúbica (∛):</strong> ¿Qué número elevado al cubo da el número? ∛8 = 2 (porque 2³ = 8)</li><li><strong>Raíz enésima:</strong> ⁿ√x pregunta qué número elevado a n da x</li></ul><p><strong>Propiedades de raíces:</strong></p><ul><li>√(a × b) = √a × √b</li><li>√(a ÷ b) = √a ÷ √b (cuando b ≠ 0)</li><li>√(a²) = |a| (el valor absoluto de a)</li></ul>",
+            "en": "<h3>Powers: Repeated Multiplication</h3><p>A power is a shorthand way of writing repeated multiplication. It consists of a base (the number being multiplied) and an exponent (how many times it is multiplied). For example, 2³ means 2 × 2 × 2 × 2 = 8, where 2 is the base and 3 is the exponent.</p><p><strong>Power rules:</strong></p><ul><li><strong>Product of powers:</strong> 2³ × 2² = 2^(3+2) = 2⁵</li><li><strong>Quotient of powers:</strong> 2⁵ ÷ 2² = 2^(5-2) = 2³</li><li><strong>Power of a power:</strong> (2³)² = 2^(3×2) = 2⁶</li><li><strong>Zero exponent:</strong> Any number to the power 0 is 1 (except 0⁰)</li><li><strong>Negative exponents:</strong> 2^(-3) = 1/(2³) = 1/8</li></ul><h3>Roots: The Inverse Operation</h3><p>A root is the inverse operation of a power. The square root (√) asks: what number multiplied by itself gives this result? For example, √16 = 4 because 4 × 4 = 16.</p><p><strong>Types of roots:</strong></p><ul><li><strong>Square root (√):</strong> what number squared gives the number under the radical? √9 = 3</li><li><strong>Cube root (∛):</strong> what number raised to the cube gives the number? ∛8 = 2 (because 2³ = 8)</li><li><strong>Nth root:</strong> ⁿ√x asks what number raised to n gives x</li></ul><p><strong>Root properties:</strong></p><ul><li>√(a × b) = √a × √b</li><li>√(a ÷ b) = √a ÷ √b (when b ≠ 0)</li><li>√(a²) = |a| (the absolute value of a)</li></ul>",
+            "fr": "<h3>Puissances : multiplication répétée</h3><p>Une puissance est une façon abrégée d'écrire une multiplication répétée. Elle se compose d'une base (le nombre multiplié) et d'un exposant (le nombre de fois qu'il est multiplié). Par exemple, 2³ signifie 2 × 2 × 2 × 2 = 8, où 2 est la base et 3 l'exposant.</p><p><strong>Règles des puissances :</strong></p><ul><li><strong>Produit de puissances :</strong> 2³ × 2² = 2^(3+2) = 2⁵</li><li><strong>Quotient de puissances :</strong> 2⁵ ÷ 2² = 2^(5-2) = 2³</li><li><strong>Puissance d'une puissance :</strong> (2³)² = 2^(3×2) = 2⁶</li><li><strong>Exposant nul :</strong> tout nombre à la puissance 0 vaut 1 (sauf 0⁰)</li><li><strong>Exposants négatifs :</strong> 2^(-3) = 1/(2³) = 1/8</li></ul><h3>Racines : l'opération inverse</h3><p>Une racine est l'opération inverse d'une puissance. La racine carrée (√) pose la question suivante : quel nombre multiplié par lui-même donne ce résultat ? Par exemple, √16 = 4 car 4 × 4 = 16.</p><p><strong>Types de racines :</strong></p><ul><li><strong>Racine carrée (√) :</strong> quel nombre élevé au carré donne le nombre sous le radical ? √9 = 3</li><li>Racine cubique<strong>(∛) :</strong> quel nombre cubé donne le nombre ? ∛8 = 2 (car 2³ = 8)</li><li>Racine<strong>nième :</strong> ⁿ√x demande quel nombre élevé à n donne x</li></ul><p><strong>Propriétés de la racine :</strong></p><ul><li>√(a × b) = √a × √b</li><li>√(a ÷ b) = √a ÷ √b (lorsque b ≠ 0)</li><li>√(a²) = |a| (la valeur absolue de a)</li></ul>",
+            "it": "<h3>Potenze: moltiplicazione ripetuta</h3><p>Una potenza è un modo abbreviato di scrivere una moltiplicazione ripetuta. È composta da una base (il numero che viene moltiplicato) e da un esponente (quante volte viene moltiplicato). Ad esempio, 2³ significa 2 × 2 × 2 × 2 = 8, dove 2 è la base e 3 l'esponente.</p><p><strong>Regole delle potenze:</strong></p><ul><li><strong>Prodotto di potenze:</strong> 2³ × 2² = 2^(3+2) = 2⁵</li><li><strong>Quoziente di potenze:</strong> 2⁵ ÷ 2² = 2^(5-2) = 2³</li><li><strong>Potenza di una potenza:</strong> (2³)² = 2^(3×2) = 2⁶</li><li><strong>Esponente zero:</strong> qualsiasi numero alla potenza 0 è 1 (tranne 0⁰)</li><li><strong>Esponenti negativi:</strong> 2^(-3) = 1/(2³) = 1/8</li></ul><h3>Radici: l'operazione inversa</h3><p>Una radice è l'operazione inversa di una potenza. La radice quadrata (√) chiede: quale numero moltiplicato per se stesso dà questo risultato? Ad esempio, √16 = 4 perché 4 × 4 = 16.</p><p><strong>Tipi di radici:</strong></p><ul><li><strong>Radice quadrata (√):</strong> quale numero al quadrato dà il numero sotto il radicale? √9 = 3</li><li><strong>Radice cubica (∛):</strong> quale numero al cubo dà il numero? ∛8 = 2 (perché 2³ = 8)</li><li><strong>Radice ennesima:</strong> ⁿ√x chiede quale numero elevato a n dà x</li></ul><p><strong>Proprietà della radice:</strong></p><ul><li>√(a × b) = √a × √b</li><li>√(a ÷ b) = √a ÷ √b (quando b ≠ 0)</li><li>√(a²) = |a| (il valore assoluto di a)</li></ul>",
+            "de": "<h3>Potenzen: Wiederholte Multiplikation</h3><p>Eine Potenz ist eine Kurzform für die wiederholte Multiplikation. Sie besteht aus einer Basis (die zu multiplizierende Zahl) und einem Exponenten (wie oft sie multipliziert wird). Zum Beispiel bedeutet 2³: 2 × 2 × 2 × 2 = 8, wobei 2 die Basis und 3 der Exponent ist.</p><p><strong>Potenzregeln:</strong></p><ul><li><strong>Produkt von Potenzen:</strong> 2³ × 2² = 2^(3+2) = 2⁵</li><li><strong>Quotient von Potenzen:</strong> 2⁵ ÷ 2² = 2^(5-2) = 2³</li><li><strong>Potenz einer Potenz:</strong> (2³)² = 2^(3×2) = 2⁶</li><li><strong>Nullexponent:</strong> Jede Zahl in der Potenz 0 ist 1 (außer 0⁰)</li><li><strong>Negative Exponenten:</strong> 2^(-3) = 1/(2³) = 1/8</li></ul><h3>Wurzeln: Die umgekehrte Operation</h3><p>Eine Wurzel ist die Umkehroperation einer Potenz. Die Quadratwurzel (√) fragt: Welche Zahl, mit sich selbst multipliziert, ergibt dieses Ergebnis? Zum Beispiel ist √16 = 4, weil 4 × 4 = 16 ist.</p><p><strong>Arten von Wurzeln:</strong></p><ul><li><strong>Quadratwurzel (√):</strong> Welche Zahl zum Quadrat ergibt die Zahl unter dem Radikal? √9 = 3</li><li><strong>Kubikwurzel (∛):</strong> Welche Zahl kubiert ergibt die Zahl? ∛8 = 2 (weil 2³ = 8)</li><li><strong>N-te Wurzel:</strong> ⁿ√x fragt, welche Zahl erhöht mit n x ergibt</li></ul><p><strong>Eigenschaften der Wurzel:</strong></p><ul><li>√(a × b) = √a × √b</li><li>√(a ÷ b) = √a ÷ √b (wenn b ≠ 0)</li><li>√(a²) = |a| (der absolute Wert von a)</li></ul>"
+          },
+          "duration": {
+            "es": "Lectura de 10 min",
+            "en": "10 min reading",
+            "fr": "10 min de lecture",
+            "it": "10 minuti di lettura",
+            "de": "10 min Lesen"
+          }
+        },
+        {
+          "id": "lesson-1-3-video",
+          "title": {
+            "es": "Video: Potencias y Raíces",
+            "en": "Video: Powers and Roots",
+            "fr": "Vidéo : Pouvoirs et racines",
+            "it": "Video: Poteri e radici",
+            "de": "Video: Mächte und Wurzeln"
+          },
+          "content_type": "video",
+          "video_url": "https://www.youtube.com/embed/8G-s-DnFqSE",
+          "description": {
+            "es": "Refuerzo visual sobre potencias, raíces cuadradas y raíces cúbicas",
+            "en": "Visual reinforcement on powers, square roots and cube roots",
+            "fr": "Renforcement visuel sur les puissances, les racines carrées et les racines cubiques",
+            "it": "Rinforzo visivo su potenze, radici quadrate e radici cubiche",
+            "de": "Visuelle Verstärkung von Potenzen, Quadratwurzeln und Kubikwurzeln"
+          },
+          "duration": {
+            "es": "13:20",
+            "en": "13:20",
+            "fr": "13:20",
+            "it": "13:20",
+            "de": "13:20"
+          }
+        },
+        {
+          "id": "lesson-1-4",
+          "title": {
+            "es": "Ecuaciones de Primer Grado",
+            "en": "First Degree Equations",
+            "fr": "Equations du premier degré",
+            "it": "Equazioni di primo grado",
+            "de": "Gleichungen ersten Grades"
+          },
+          "content_type": "text",
+          "content": {
+            "es": "<h3>¿Qué es una Ecuación?</h3><p>Una ecuación es una afirmación matemática que dos expresiones son iguales, separadas por el signo =. Una ecuación de primer grado (también llamada ecuación lineal) es aquella donde la variable (generalmente x) aparece solo con exponente 1. Ejemplo: 2x + 3 = 7.</p><p><strong>Elementos de una ecuación:</strong></p><ul><li><strong>Variable:</strong> La letra (usualmente x) que representa el número desconocido que queremos encontrar</li><li><strong>Coeficientes:</strong> Los números que multiplican a las variables</li><li><strong>Términos:</strong> Las partes sumadas (2x, 3, 7)</li><li><strong>Miembros:</strong> Izquierda y derecha del signo =</li></ul><h3>Resolución de Ecuaciones Lineales</h3><p>El objetivo es aislar la variable (despejar x) en un lado de la ecuación. Usamos operaciones inversas:</p><p><strong>Pasos básicos:</strong></p><ol><li><strong>Simplifica:</strong> Combina términos similares en cada lado</li><li><strong>Mueve variables:</strong> Pasa todos los términos con x a un lado</li><li><strong>Mueve constantes:</strong> Pasa todos los números al otro lado</li><li><strong>Divide por el coeficiente:</strong> Para aislar completamente x</li></ol><p><strong>Ejemplo:</strong> Resuelve 2x + 3 = 7</p><ul><li>Resta 3 de ambos lados: 2x + 3 - 3 = 7 - 3 → 2x = 4</li><li>Divide ambos lados entre 2: 2x/2 = 4/2 → x = 2</li><li>Verificación: 2(2) + 3 = 4 + 3 = 7 ✓</li></ul><p><strong>Regla de oro:</strong> Lo que hagas a un lado de la ecuación, debes hacerlo al otro lado para mantener el equilibrio.</p>",
+            "en": "<h3>what is an Equation?</h3><p>An equation is a mathematical statement that two expressions are equal, separated by the sign =. A first degree equation (also called a linear equation) is one where the variable (usually x) appears only with exponent 1. Example: 2x + 3 = 7.</p><p><strong>Elements of an equation:</strong></p><ul><li><strong>Variable:</strong> The letter (usually x) representing the unknown number we want to find</li><li><strong>Coefficients:</strong> The numbers that multiply the variables</li><li><strong>Terms:</strong> The sum parts (2x, 3, 7)</li><li><strong>Members:</strong> Left and right of the = sign</li></ul><h3>Solving Linear Equations</h3><p>The goal is to isolate the variable (clear x) on one side of the equation. We use inverse operations:</p><p><strong>Basic steps:</strong></p><ol><li><strong>Simplify:</strong> Combine like terms on each side</li><li><strong>Move variables:</strong> Move all terms with x to one side</li><li><strong>Move constants:</strong> Move all numbers to the other side</li><li><strong>Divide by the coefficient:</strong> To completely isolate x</li></ol><p><strong>Example:</strong> Solve 2x + 3 = 7</p><ul><li>Subtract 3 from both sides: 2x + 3 - 3 = 7 - 3 → 2x = 4</li><li>Divide both sides by 2: 2x/2 = 4/2 → x = 2</li><li>Verification: 2(2) + 3 = 4 + 3 = 7 ✓</li></ul><p><strong>Rule of thumb:</strong> Whatever you do on one side of the equation, you must do on the other side to maintain balance.</p>",
+            "fr": "<h3>qu'est-ce qu'une équation ?</h3><p>Une équation est une affirmation mathématique selon laquelle deux expressions sont égales, séparées par le signe =. Une équation du premier degré (également appelée équation linéaire) est une équation dans laquelle la variable (généralement x) n'apparaît qu'avec l'exposant 1. Exemple : 2x + 3 = 7.</p><p><strong>Éléments d'une équation :</strong></p><ul><li><strong>Variable :</strong> la lettre (généralement x) représentant le nombre inconnu que nous voulons trouver</li><li><strong>Coefficients :</strong> Les nombres qui multiplient les variables</li><li><strong>Termes :</strong> Les parties de la somme (2x, 3, 7)</li><li><strong>Membres :</strong> à gauche et à droite du signe =</li></ul><h3>Résolution d'équations linéaires</h3><p>L'objectif est d'isoler la variable (en clair x) d'un côté de l'équation. Nous utilisons les opérations inverses :</p><p><strong>Étapes de base :</strong></p><ol><li><strong>Simplifier :</strong> combiner les termes similaires de chaque côté</li><li><strong>Déplacer les variables :</strong> Déplacer tous les termes avec x d'un côté<strong></strong> </li><li><strong>Déplacer les constantes :</strong> Déplacer tous les nombres de l'autre côté</li><li><strong>Diviser par le coefficient :</strong> Pour isoler complètement x</li></ol><p><strong>Exemple :</strong> Résoudre 2x + 3 = 7</p><ul><li>Soustraire 3 des deux côtés : 2x + 3 - 3 = 7 - 3 → 2x = 4</li><li>Diviser les deux côtés par 2 : 2x/2 = 4/2 → x = 2</li><li>Vérifier : 2(2) + 3 = 4 + 3 = 7 ✓</li></ul><p><strong>Règle de base :</strong> Tout ce que vous faites d'un côté de l'équation, vous devez le faire de l'autre côté pour maintenir l'équilibre.</p>",
+            "it": "<h3>che cos'è un'equazione?</h3><p>Un'equazione è una dichiarazione matematica che indica che due espressioni sono uguali, separate dal segno =. Un'equazione di primo grado (detta anche equazione lineare) è un'equazione in cui la variabile (di solito la x) compare solo con l'esponente 1. Esempio: 2x + 3 = 7.</p><p><strong>Elementi di un'equazione:</strong></p><ul><li><strong>Variabile:</strong> la lettera (di solito x) che rappresenta il numero sconosciuto che vogliamo trovare</li><li><strong>Coefficienti:</strong> I numeri che moltiplicano le variabili</li><li><strong>Termini:</strong> Le parti della somma (2x, 3, 7)</li><li><strong>Membri:</strong> a sinistra e a destra del segno =</li></ul><h3>Risolvere le equazioni lineari</h3><p>L'obiettivo è isolare la variabile (chiara x) da un lato dell'equazione. Si utilizzano le operazioni inverse:</p><p><strong>Fasi fondamentali:</strong></p><ol><li><strong>Semplificare:</strong> combinare i termini simili su ogni lato</li><li><strong>Spostare le variabili:</strong> spostare tutti i termini con x su un lato<strong></strong> </li><li><strong>Spostare le costanti:</strong> Spostare tutti i numeri dall'altra parte</li><li><strong>Dividere per il coefficiente:</strong> Per isolare completamente x</li></ol><p><strong>Esempio:</strong> risolvere 2x + 3 = 7</p><ul><li>Sottrarre 3 da entrambi i lati: 2x + 3 - 3 = 7 - 3 → 2x = 4</li><li>Dividere entrambi i lati per 2: 2x/2 = 4/2 → x = 2</li><li>Verifica: 2(2) + 3 = 4 + 3 = 7 ✓</li></ul><p><strong>Regola empirica:</strong> qualsiasi cosa si faccia su un lato dell'equazione, si deve fare anche sull'altro lato per mantenere l'equilibrio.</p>",
+            "de": "<h3>was ist eine Gleichung?</h3><p>Eine Gleichung ist eine mathematische Aussage, dass zwei Ausdrücke gleich sind, getrennt durch das Zeichen =. Eine Gleichung ersten Grades (auch lineare Gleichung genannt) ist eine Gleichung, bei der die Variable (normalerweise x) nur mit dem Exponenten 1 auftritt. Beispiel: 2x + 3 = 7.</p><p><strong>Elemente einer Gleichung:</strong></p><ul><li><strong>Variable:</strong> Der Buchstabe (normalerweise x), der die unbekannte Zahl darstellt, die wir finden wollen</li><li><strong>Koeffizienten:</strong> Die Zahlen, mit denen die Variablen multipliziert werden</li><li><strong>Terme:</strong> Die Teile der Summe (2x, 3, 7)</li><li><strong>Glieder:</strong> Links und rechts vom =-Zeichen</li></ul><h3>Lösen von linearen Gleichungen</h3><p>Das Ziel ist es, die Variable (klares x) auf einer Seite der Gleichung zu isolieren. Wir verwenden Umkehroperationen:</p><p><strong>Grundlegende Schritte:</strong></p><ol><li><strong>Vereinfachen:</strong> Gleiche Terme auf jeder Seite zusammenfassen</li><li><strong>Variablen verschieben:</strong> Alle Terme mit x auf eine Seite verschieben<strong></strong> </li><li><strong>Konstanten verschieben:</strong> Alle Zahlen auf die andere Seite verschieben</li><li><strong>Dividieren durch den Koeffizienten:</strong> Um x vollständig zu isolieren</li></ol><p><strong>Beispiel:</strong> Lösen von 2x + 3 = 7</p><ul><li>Subtrahiere 3 von beiden Seiten: 2x + 3 - 3 = 7 - 3 → 2x = 4</li><li>Dividiere beide Seiten durch 2: 2x/2 = 4/2 → x = 2</li><li>Prüfen: 2(2) + 3 = 4 + 3 = 7 ✓</li></ul><p><strong>Faustregel:</strong> Was immer du auf einer Seite der Gleichung tust, musst du auch auf der anderen Seite tun, um das Gleichgewicht zu halten.</p>"
+          },
+          "duration": {
+            "es": "Lectura de 10 min",
+            "en": "10 min reading",
+            "fr": "10 min de lecture",
+            "it": "10 minuti di lettura",
+            "de": "10 min Lesen"
+          }
+        },
+        {
+          "id": "lesson-1-4-video",
+          "title": {
+            "es": "Video: Ecuaciones de Primer Grado",
+            "en": "Video: First Degree Equations",
+            "fr": "Vidéo : Equations du premier degré",
+            "it": "Video: Equazioni di primo grado",
+            "de": "Video: Gleichungen ersten Grades"
+          },
+          "content_type": "video",
+          "video_url": "https://www.youtube.com/embed/H1W5-wQcMZk",
+          "description": {
+            "es": "Refuerzo visual sobre resolución de ecuaciones lineales y aplicaciones",
+            "en": "Visual reinforcement on solving linear equations and applications",
+            "fr": "Renforcement visuel de la résolution d'équations linéaires et applications",
+            "it": "Rinforzo visivo sulla risoluzione di equazioni lineari e applicazioni",
+            "de": "Visuelle Verstärkung beim Lösen linearer Gleichungen und Anwendungen"
+          },
+          "duration": {
+            "es": "16:00",
+            "en": "16:00",
+            "fr": "16:00",
+            "it": "16:00",
+            "de": "16:00"
+          }
+        },
+        {
+          "id": "lesson-1-5",
+          "title": {
+            "es": "Conceptos de Proporcionalidad",
+            "en": "Proportionality Concepts",
+            "fr": "Concepts de proportionnalité",
+            "it": "Concetti di proporzionalità",
+            "de": "Konzepte der Proportionalität"
+          },
+          "content_type": "text",
+          "content": {
+            "es": "<h3>¿Qué es la Proporcionalidad?</h3><p>La proporcionalidad estudia la relación entre dos magnitudes. Cuando una cantidad aumenta o disminuye, la otra lo hace de manera predecible. Esto es fundamental en la vida real: recetas de cocina, escalas en mapas, conversión de unidades, etc.</p><p><strong>Proporcionalidad Directa:</strong></p><p>Dos cantidades son directamente proporcionales cuando su razón es constante. Si x aumenta, y aumenta en la misma proporción. Matemáticamente: y = kx, donde k es la constante de proporcionalidad.</p><p>Ejemplo: Si 3 kilos de manzanas cuesta $15, entonces 6 kilos cuesta $30. La razón es siempre 15/3 = 30/6 = 5 (el precio por kilo).</p><p><strong>Proporcionalidad Inversa:</strong></p><p>Dos cantidades son inversamente proporcionales cuando su producto es constante. Si x aumenta, y disminuye. Matemáticamente: y = k/x.</p><p>Ejemplo: Si 10 obreros pueden terminar un trabajo en 20 días, entonces 20 obreros lo terminarán en 10 días. El producto es siempre 10 × 20 = 20 × 10 = 200.</p><h3>Regla de Tres</h3><p>La regla de tres es una técnica para resolver problemas de proporcionalidad sin necesidad de encontrar explícitamente la constante k.</p><p><strong>Regla de tres simple directa:</strong></p><p>Si a corresponde a b, ¿a qué corresponde c? Respuesta: (c × b) ÷ a</p><p>Ejemplo: Si 5 metros de tela cuesta $50, ¿cuánto cuesta 8 metros?</p><p>Solución: (8 × 50) ÷ 5 = 400 ÷ 5 = $80</p><p><strong>Regla de tres simple inversa:</strong></p><p>Si a corresponde a b (inversamente), ¿a qué corresponde c? Respuesta: (a × b) ÷ c</p>",
+            "en": "<h3>what is Proportionality?</h3><p>Proportionality studies the relationship between two quantities. When one quantity increases or decreases, the other increases or decreases in a predictable way. This is fundamental in real life: cooking recipes, map scales, unit conversions, etc.</p><p><strong>Direct Proportionality:</strong></p><p>Two quantities are directly proportional when their ratio is constant. If x increases, y increases in the same proportion. Mathematically: y = kx, where k is the constant of proportionality.</p><p>Example: If 3 kilos of apples cost $15, then 6 kilos cost $30. The ratio is always 15/3 = 30/6 = 5 (the price per kilo).</p><p><strong>Inverse Proportionality:</strong></p><p>Two quantities are inversely proportional when their product is constant. If x increases, y decreases. Mathematically: y = k/x.</p><p>Example: If 10 workers can finish a job in 20 days, then 20 workers will finish it in 10 days. The product is always 10 × 20 = 20 × 10 = 200.</p><h3>Rule of Three</h3><p>The rule of three is a technique for solving proportionality problems without the need to explicitly find the constant k.</p><p><strong>Simple straightforward rule of three:</strong></p><p>If a corresponds to b, what does c correspond to? Answer: (c × b) ÷ a</p><p>Example: If 5 meters of cloth costs $50, how much does 8 meters cost?</p><p>Solution: (8 × 50) ÷ 5 = 400 ÷ 5 = $80</p><p><strong>Simple inverse rule of three:</strong></p><p>If a corresponds to b (inversely), what does c correspond to? Answer: (a × b) ÷ c</p>",
+            "fr": "<h3>qu'est-ce que la proportionnalité ?</h3><p>La proportionnalité étudie la relation entre deux quantités. Lorsqu'une quantité augmente ou diminue, l'autre augmente ou diminue de manière prévisible. Cette relation est fondamentale dans la vie réelle : recettes de cuisine, échelles cartographiques, conversions d'unités, etc.</p><p><strong>Proportionnalité directe :</strong></p><p>Deux quantités sont directement proportionnelles lorsque leur rapport est constant. Si x augmente, y augmente dans la même proportion. Mathématiquement : y = kx, où k est la constante de proportionnalité.</p><p>Exemple : si 3 kilos de pommes coûtent 15 dollars, 6 kilos coûtent 30 dollars. Le rapport est toujours 15/3 = 30/6 = 5 (le prix au kilo).</p><p><strong>Proportionnalité inverse :</strong></p><p>Deux quantités sont inversement proportionnelles lorsque leur produit est constant. Si x augmente, y diminue. Mathématiquement : y = k/x.</p><p>Exemple : si 10 travailleurs peuvent terminer un travail en 20 jours, alors 20 travailleurs le termineront en 10 jours. Le produit est toujours 10 × 20 = 20 × 10 = 200.</p><h3>Règle de trois</h3><p>La règle de trois est une technique permettant de résoudre les problèmes de proportionnalité sans avoir à trouver explicitement la constante k.</p><p><strong>Règle de trois simple et directe :</strong></p><p>Si a correspond à b, à quoi correspond c ? Réponse : (c × b) ÷ a</p><p>Exemple : Si 5 mètres de tissu coûtent 50 $, combien coûtent 8 mètres ?</p><p>Solution : (8 × 50) ÷ 5 = 400 ÷ 5 = 80</p><p><strong>Règle de trois inverse simple :</strong></p><p>Si a correspond à b (inversement), à quoi correspond c ? Réponse : (a × b) ÷ c</p>",
+            "it": "<h3>che cos'è la proporzionalità?</h3><p>La proporzionalità studia la relazione tra due quantità. Quando una quantità aumenta o diminuisce, l'altra aumenta o diminuisce in modo prevedibile. È un aspetto fondamentale nella vita reale: ricette di cucina, scale di carte geografiche, conversioni di unità di misura, ecc.</p><p><strong>Proporzionalità diretta:</strong></p><p>Due quantità sono direttamente proporzionali quando il loro rapporto è costante. Se x aumenta, y aumenta nella stessa proporzione. Matematicamente: y = kx, dove k è la costante di proporzionalità.</p><p>Esempio: se 3 chili di mele costano 15 dollari, 6 chili costano 30 dollari. Il rapporto è sempre 15/3 = 30/6 = 5 (il prezzo al chilo).</p><p><strong>Proporzionalità inversa:</strong></p><p>Due quantità sono inversamente proporzionali quando il loro prodotto è costante. Se x aumenta, y diminuisce. Matematicamente: y = k/x.</p><p>Esempio: se 10 operai possono finire un lavoro in 20 giorni, allora 20 operai lo finiranno in 10 giorni. Il prodotto è sempre 10 × 20 = 20 × 10 = 200.</p><h3>Regola del tre</h3><p>La regola del tre è una tecnica per risolvere i problemi di proporzionalità senza la necessità di trovare esplicitamente la costante k.</p><p><strong>Regola del tre semplice e diretta:</strong></p><p>Se a corrisponde a b, a cosa corrisponde c? Risposta: (c × b) ÷ a</p><p>Esempio: se 5 metri di stoffa costano 50 dollari, quanto costano 8 metri?</p><p>Soluzione: (8 × 50) ÷ 5 = 400 ÷ 5 = 80 $</p><p><strong>Regola del tre inversa semplice:</strong></p><p>Se a corrisponde a b (inversamente), a cosa corrisponde c? Risposta: (a × b) ÷ c</p>",
+            "de": "<h3>was ist Proportionalität?</h3><p>Die Proportionalität untersucht die Beziehung zwischen zwei Größen. Wenn sich eine Größe vergrößert oder verkleinert, vergrößert oder verkleinert sich auch die andere auf vorhersehbare Weise. Dies ist im wirklichen Leben von grundlegender Bedeutung: Kochrezepte, Kartenmaßstäbe, Umrechnung von Einheiten usw.</p><p><strong>Direkte Proportionalität:</strong></p><p>Zwei Größen sind direkt proportional, wenn ihr Verhältnis konstant ist. Wenn x zunimmt, nimmt y im gleichen Verhältnis zu. Mathematisch ausgedrückt: y = kx, wobei k die Proportionalitätskonstante ist.</p><p>Beispiel: Wenn 3 Kilo Äpfel 15 $ kosten, dann kosten 6 Kilo 30 $. Das Verhältnis ist immer 15/3 = 30/6 = 5 (der Preis pro Kilo).</p><p><strong>Umgekehrte Proportionalität:</strong></p><p>Zwei Mengen sind umgekehrt proportional, wenn ihr Produkt konstant ist. Wenn x zunimmt, nimmt y ab. Mathematisch: y = k/x.</p><p>Beispiel: Wenn 10 Arbeiter einen Auftrag in 20 Tagen erledigen können, dann erledigen ihn 20 Arbeiter in 10 Tagen. Das Produkt ist immer 10 × 20 = 20 × 10 = 200.</p><h3>Dreisatz</h3><p>Der Dreisatz ist eine Technik zur Lösung von Proportionalitätsproblemen, ohne dass die Konstante k explizit ermittelt werden muss.</p><p><strong>Einfacher, direkter Dreisatz:</strong></p><p>Wenn a dem Wert b entspricht, was entspricht dann c? Antwort: (c × b) ÷ a</p><p>Beispiel: Wenn 5 Meter Stoff 50 Dollar kosten, wie viel kosten dann 8 Meter?</p><p>Lösung: (8 × 50) ÷ 5 = 400 ÷ 5 = 80 Dollar</p><p><strong>Einfache umgekehrte Dreisatzregel:</strong></p><p>Wenn a dem b (umgekehrt) entspricht, was entspricht dann c? Antwort: (a × b) ÷ c</p>"
+          },
+          "duration": {
+            "es": "Lectura de 10 min",
+            "en": "10 min reading",
+            "fr": "10 min de lecture",
+            "it": "10 minuti di lettura",
+            "de": "10 min Lesen"
+          }
+        },
+        {
+          "id": "lesson-1-5-video",
+          "title": {
+            "es": "Video: Conceptos de Proporcionalidad",
+            "en": "Video: Concepts of Proportionality",
+            "fr": "Vidéo : Concepts de proportionnalité",
+            "it": "Video: Concetti di proporzionalità",
+            "de": "Video: Konzepte der Proportionalität"
+          },
+          "content_type": "video",
+          "video_url": "https://www.youtube.com/embed/vIwQ-pjDdWE",
+          "description": {
+            "es": "Refuerzo visual sobre proporciones directas, inversas y regla de tres",
+            "en": "Visual reinforcement on direct and inverse proportions and rule of three",
+            "fr": "Renforcement visuel sur les proportions directes et inverses et la règle de trois",
+            "it": "Rinforzo visivo sulle proporzioni dirette e inverse e sulla regola del tre",
+            "de": "Visuelle Verstärkung der direkten und inversen Proportionen und des Dreisatzes"
+          },
+          "duration": {
+            "es": "11:30",
+            "en": "11:30",
+            "fr": "11:30",
+            "it": "11:30",
+            "de": "11:30"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "es": "Álgebra Lineal: Introducción",
+        "en": "Linear Algebra: Introduction",
+        "fr": "Algèbre linéaire : Introduction",
+        "it": "Algebra lineare: introduzione",
+        "de": "Lineare Algebra: Einführung"
+      },
+      "duration": {
+        "es": "2 horas 30 minutos",
+        "en": "2 hours 30 minutes",
+        "fr": "2 heures 30 minutes",
+        "it": "2 ore e 30 minuti",
+        "de": "2 Stunden 30 Minuten"
+      },
+      "lessons": [
+        {
+          "id": "lesson-2-1",
+          "title": {
+            "es": "¿Qué es el Álgebra Lineal?",
+            "en": "what is Linear Algebra?",
+            "fr": "qu'est-ce que l'algèbre linéaire ?",
+            "it": "che cos'è l'algebra lineare?",
+            "de": "was ist Lineare Algebra?"
+          },
+          "content_type": "text",
+          "content": {
+            "es": "<h3>Definición y Contexto</h3><p>El álgebra lineal es la rama de las matemáticas que estudia objetos algebraicos llamados vectores, matrices y espacios vectoriales. A diferencia del álgebra clásica que trabaja principalmente con números individuales, el álgebra lineal trabaja con colecciones de números organizados en estructuras.</p><h3>¿Por qué es Importante?</h3><p>El álgebra lineal es fundamental en muchas disciplinas modernas:</p><ul><li><strong>Ingeniería:</strong> Diseño de estructuras, análisis de circuitos eléctricos</li><li><strong>Informática:</strong> Gráficos por computadora, machine learning, compresión de datos</li><li><strong>Física:</strong> Representación de fuerzas, campos electromagnéticos, mecánica cuántica</li><li><strong>Economía:</strong> Modelos de sistemas económicos, programación lineal</li><li><strong>Estadística:</strong> Análisis de datos, regresión lineal</li></ul><h3>Conceptos Clave que Aprenderemos</h3><p><strong>Vectores:</strong> Objetos que tienen magnitud y dirección, representados como flechas en el espacio o como listas de números.</p><p><strong>Matrices:</strong> Arreglos rectangulares de números organizados en filas y columnas. Muy útiles para resolver sistemas de ecuaciones y transformar espacios.</p><p><strong>Transformaciones Lineales:</strong> Formas de cambiar vectores de manera predecible y proporcional.</p><p><strong>Sistemas de Ecuaciones Lineales:</strong> Conjuntos de múltiples ecuaciones que deben satisfacerse simultáneamente.</p><p>En este curso introductorio, nos enfocaremos en construir una base sólida en estos conceptos fundamentales que luego podrás aplicar a problemas complejos en tu carrera profesional.</p>",
+            "en": "<h3>Definition and Context</h3><p>Linear algebra is the branch of mathematics that studies algebraic objects called vectors, matrices and vector spaces. Unlike classical algebra which works mainly with single numbers, linear algebra works with collections of numbers organized into structures.</p><h3>why is it Important?</h3><p>Linear algebra is fundamental to many modern disciplines:</p><ul><li><strong>Engineering:</strong> design of structures, analysis of electrical circuits</li><li><strong>Computer science:</strong> computer graphics, machine learning, data compression</li><li><strong>Physics:</strong> Representation of forces, electromagnetic fields, quantum mechanics</li><li><strong>Economics:</strong> Models of economic systems, linear programming</li><li><strong>Statistics:</strong> Data analysis, linear regression, linear regression</li></ul><h3>Key concepts we will learn</h3><p><strong>Vectors:</strong> Objects that have magnitude and direction, represented as arrows in space or as lists of numbers.</p><p><strong>Matrices:</strong> Rectangular arrays of numbers organized in rows and columns. Very useful for solving systems of equations and transforming spaces.</p><p><strong>Linear Transformations:</strong> Ways to change vectors in a predictable and proportional way.</p><p><strong>Systems of Linear Equations:</strong> Sets of multiple equations that must be satisfied simultaneously.</p><p>In this introductory course, we will focus on building a solid foundation in these fundamental concepts that you can then apply to complex problems in your professional career.</p>",
+            "fr": "<h3>Définition et contexte</h3><p>L'algèbre linéaire est la branche des mathématiques qui étudie les objets algébriques appelés vecteurs, matrices et espaces vectoriels. Contrairement à l'algèbre classique, qui travaille principalement avec des nombres isolés, l'algèbre linéaire travaille avec des collections de nombres organisés en structures.</p><h3>quelle est l'importance de l'algèbre linéaire ?</h3><p>L'algèbre linéaire est fondamentale pour de nombreuses disciplines modernes :</p><ul><li><strong>Ingénierie :</strong> conception de structures, analyse de circuits électriques</li><li><strong>Informatique :</strong> infographie, apprentissage automatique, compression de données</li><li><strong>Physique :</strong> représentation des forces, champs électromagnétiques, mécanique quantique</li><li><strong>Économie :</strong> modèles de systèmes économiques, programmation linéaire</li><li><strong>Statistiques :</strong> analyse des données, régression linéaire</li></ul><h3>Concepts clés que nous apprendrons</h3><p><strong>Vecteurs :</strong> objets ayant une magnitude et une direction, représentés sous forme de flèches dans l'espace ou de listes de nombres.</p><p><strong>Matrices :</strong> tableaux rectangulaires de nombres disposés en lignes et en colonnes. Très utiles pour résoudre des systèmes d'équations et transformer l'espace.</p><p><strong>Transformations linéaires :</strong> manières de modifier les vecteurs de manière prévisible et proportionnelle.</p><p><strong>Systèmes d'équations linéaires :</strong> ensembles d'équations multiples qui doivent être satisfaites simultanément.</p><p>Dans ce cours d'introduction, nous nous concentrerons sur la construction d'une base solide dans ces concepts fondamentaux que vous pourrez ensuite appliquer à des problèmes complexes dans votre carrière professionnelle.</p>",
+            "it": "<h3>Definizione e contesto</h3><p>L'algebra lineare è la branca della matematica che studia gli oggetti algebrici chiamati vettori, matrici e spazi vettoriali. A differenza dell'algebra classica, che lavora principalmente con singoli numeri, l'algebra lineare lavora con collezioni di numeri organizzati in strutture.</p><h3>perché è importante?</h3><p>L'algebra lineare è fondamentale per molte discipline moderne:</p><ul><li><strong>Ingegneria:</strong> progettazione di strutture, analisi di circuiti elettrici</li><li><strong>Informatica:</strong> computer grafica, apprendimento automatico, compressione dei dati</li><li><strong>Fisica:</strong> rappresentazione delle forze, campi elettromagnetici, meccanica quantistica</li><li><strong>Economia:</strong> modelli di sistemi economici, programmazione lineare</li><li><strong>Statistica:</strong> analisi dei dati, regressione lineare</li></ul><h3>Concetti chiave che impareremo</h3><p><strong>Vettori:</strong> oggetti che hanno grandezza e direzione, rappresentati come frecce nello spazio o come elenchi di numeri.</p><p><strong>Matrici:</strong> matrici rettangolari di numeri disposti in righe e colonne. Molto utili per risolvere sistemi di equazioni e trasformare lo spazio.</p><p><strong>Trasformazioni lineari:</strong> modi per modificare i vettori in modo prevedibile e proporzionale.</p><p><strong>Sistemi di equazioni lineari:</strong> insiemi di più equazioni che devono essere soddisfatte contemporaneamente.</p><p>In questo corso introduttivo, ci concentreremo sulla costruzione di una solida base di questi concetti fondamentali che potrete poi applicare a problemi complessi nella vostra carriera professionale.</p>",
+            "de": "<h3>Definition und Kontext</h3><p>Die lineare Algebra ist der Zweig der Mathematik, der sich mit algebraischen Objekten, den so genannten Vektoren, Matrizen und Vektorräumen beschäftigt. Im Gegensatz zur klassischen Algebra, die hauptsächlich mit einzelnen Zahlen arbeitet, beschäftigt sich die lineare Algebra mit Sammlungen von Zahlen, die in Strukturen organisiert sind.</p><h3>warum ist sie so wichtig?</h3><p>Lineare Algebra ist für viele moderne Disziplinen von grundlegender Bedeutung:</p><ul><li><strong>Ingenieurwesen:</strong> Entwurf von Strukturen, Analyse elektrischer Schaltungen</li><li><strong>Informatik:</strong> Computergrafik, maschinelles Lernen, Datenkompression</li><li><strong>Physik:</strong> Darstellung von Kräften, elektromagnetische Felder, Quantenmechanik</li><li><strong>Wirtschaftswissenschaften:</strong> Modelle von Wirtschaftssystemen, lineare Programmierung</li><li><strong>Statistik:</strong> Datenanalyse, lineare Regression</li></ul><h3>Wichtige Konzepte, die wir lernen werden</h3><p><strong>Vektoren:</strong> Objekte, die Größe und Richtung haben, dargestellt als Pfeile im Raum oder als Listen von Zahlen.</p><p><strong>Matrizen:</strong> Rechteckige Anordnungen von Zahlen, die in Zeilen und Spalten angeordnet sind. Sehr nützlich zum Lösen von Gleichungssystemen und zum Transformieren von Räumen.</p><p><strong>Lineare Transformationen:</strong> Möglichkeiten, Vektoren in vorhersehbarer und proportionaler Weise zu verändern.</p><p><strong>Lineare Gleichungssysteme:</strong> Sätze von mehreren Gleichungen, die gleichzeitig erfüllt werden müssen.</p><p>In diesem Einführungskurs werden wir uns darauf konzentrieren, eine solide Grundlage in diesen grundlegenden Konzepten zu schaffen, die Sie dann in Ihrer beruflichen Laufbahn auf komplexe Probleme anwenden können.</p>"
+          },
+          "duration": {
+            "es": "Lectura de 8 min",
+            "en": "8 min reading",
+            "fr": "8 min de lecture",
+            "it": "8 min lettura",
+            "de": "8 min Lesen"
+          }
+        },
+        {
+          "id": "lesson-2-2",
+          "title": {
+            "es": "Introducción a Vectores",
+            "en": "Introduction to Vectors",
+            "fr": "Introduction aux vecteurs",
+            "it": "Introduzione ai vettori",
+            "de": "Einführung in die Vektoren"
+          },
+          "content_type": "text",
+          "content": {
+            "es": "<h3>¿Qué es un Vector?</h3><p>Un vector es un objeto matemático que tiene dos características principales: magnitud (longitud) y dirección. En la geometría, un vector se representa como una flecha que comienza en un punto inicial y termina en un punto terminal.</p><h3>Representación de Vectores</h3><p><strong>Notación:</strong> Los vectores generalmente se denotan con letras en negrita (v) o con una flecha encima (→v). Por ejemplo: v = (3, 4) o v = ⟨3, 4⟩</p><p><strong>En dos dimensiones (2D):</strong> Un vector se describe con dos componentes (x, y). Por ejemplo, el vector v = (3, 4) significa moverse 3 unidades en la dirección x y 4 unidades en la dirección y desde el origen (0, 0).</p><p><strong>En tres dimensiones (3D):</strong> Un vector se describe con tres componentes (x, y, z). Por ejemplo, v = (1, 2, 3) representa movimiento en el espacio tridimensional.</p><h3>Magnitud de un Vector</h3><p>La magnitud (o longitud) de un vector v = (x, y) se calcula usando el teorema de Pitágoras:</p><p>||v|| = √(x² + y²)</p><p>Ejemplo: Para v = (3, 4), la magnitud es √(3² + 4²) = √(9 + 16) = √25 = 5</p><h3>Vector Unitario</h3><p>Un vector unitario es un vector con magnitud igual a 1. Es útil para indicar dirección sin preocuparse por la longitud. Se obtiene dividiendo cada componente por la magnitud total:</p><p>ũ = v / ||v||</p><p>Para v = (3, 4) con magnitud 5: ũ = (3/5, 4/5) = (0.6, 0.8)</p><h3>Vectores Especiales</h3><p><strong>Vector cero:</strong> Es el vector (0, 0) o (0, 0, 0). No tiene dirección ni magnitud.</p><p><strong>Vectores base:</strong> En 2D, los vectores unitarios i = (1, 0) y j = (0, 1) forman la base estándar. Cualquier vector en 2D puede expresarse como combinación de estos.</p>",
+            "en": "<h3>what is a Vector?</h3><p>A vector is a mathematical object that has two main characteristics: magnitude (length) and direction. In geometry, a vector is represented as an arrow that starts at an initial point and ends at a terminal point.</p><h3>Vector Representation</h3><p><strong>Notation:</strong> Vectors are usually denoted with bold letters (v) or with an arrow above (→v). For example: v = (3, 4) or v = ⟨3, 4⟩</p><p><strong>In two dimensions (2D):</strong> a vector is described by two components (x, y). For example, the vector v = (3, 4) means moving 3 units in the x-direction and 4 units in the y-direction from the origin (0, 0).</p><p><strong>In three dimensions (3D):</strong> A vector is described by three components (x, y, z). For example, v = (1, 2, 3) represents motion in three-dimensional space.</p><h3>Magnitude of a Vector</h3><p>The magnitude (or length) of a vector v = (x, y) is calculated using the Pythagorean theorem:</p><p>||v|| = √(x² + y²)</p><p>Example: For v = (3, 4), the magnitude is √(3² + 4²) = √(9 + 16) = √25 = 5</p><h3>Unit Vector</h3><p>A unit vector is a vector with magnitude equal to 1. It is useful for indicating direction without concern for length. It is obtained by dividing each component by the total magnitude:</p><p>ũ = v / ||v||</p><p>For v = (3, 4) with magnitude 5: ũ = (3/5, 4/5) = (0.6, 0.8)</p><h3>Special Vectors</h3><p><strong>Zero vector:</strong> It is the vector (0, 0) or (0, 0, 0, 0). It has no direction or magnitude.</p><p><strong>Base Vectors:</strong> In 2D, the unit vectors i = (1, 0) and j = (0, 1) form the standard basis. Any vector in 2D can be expressed as a combination of these.</p>",
+            "fr": "<h3>qu'est-ce qu'un vecteur ?</h3><p>Un vecteur est un objet mathématique qui possède deux caractéristiques principales : la magnitude (longueur) et la direction. En géométrie, un vecteur est représenté par une flèche qui part d'un point initial et aboutit à un point terminal.</p><h3>Représentation des vecteurs</h3><p><strong>Notation :</strong> Les vecteurs sont généralement désignés par des lettres grasses (v) ou par une flèche au-dessus (→v). Par exemple : v = (3, 4) ou v = ⟨3, 4⟩</p><p><strong>En deux dimensions (2D) :</strong> un vecteur est décrit par deux composantes (x, y). Par exemple, le vecteur v = (3, 4) signifie que l'on se déplace de 3 unités dans la direction x et de 4 unités dans la direction y à partir de l'origine (0, 0).</p><p><strong>En trois dimensions (3D) :</strong> un vecteur est décrit par trois composantes (x, y, z). Par exemple, v = (1, 2, 3) représente un mouvement dans un espace à trois dimensions.</p><h3>Ampleur d'un vecteur</h3><p>La magnitude (ou longueur) d'un vecteur v = (x, y) est calculée à l'aide du théorème de Pythagore :</p><p>||v||| = √(x² + y²)</p><p>Exemple : pour v = (3, 4), la magnitude est √(3² + 4²) = √(9 + 16) = √25 = 5</p><h3>Vecteur unitaire</h3><p>Un vecteur unitaire est un vecteur dont la magnitude est égale à 1. Il est utile pour indiquer la direction sans se soucier de la longueur. Il est obtenu en divisant chaque composante par la magnitude totale :</p><p>ũ = v / ||v||</p><p>Pour v = (3, 4) de magnitude 5 : ũ = (3/5, 4/5) = (0.6, 0.8)</p><h3>Vecteurs spéciaux</h3><p><strong>Vecteur nul :</strong> il s'agit du vecteur (0, 0) ou (0, 0, 0, 0). Il n'a ni direction ni ampleur.</p><p><strong>Vecteurs de base :</strong> en 2D, les vecteurs unitaires i = (1, 0) et j = (0, 1) constituent la base standard. Tout vecteur en 2D peut être exprimé comme une combinaison de ces vecteurs.</p>",
+            "it": "<h3>che cos'è un vettore?</h3><p>Un vettore è un oggetto matematico che presenta due caratteristiche principali: la grandezza (lunghezza) e la direzione. In geometria, un vettore è rappresentato come una freccia che parte da un punto iniziale e termina in un punto finale.</p><h3>Rappresentazione dei vettori</h3><p><strong>Notazione:</strong> I vettori sono solitamente indicati con lettere in grassetto (v) o con una freccia sopra (→v). Ad esempio: v = (3, 4) o v = ⟨3, 4⟩</p><p><strong>In due dimensioni (2D):</strong> un vettore è descritto da due componenti (x, y). Ad esempio, il vettore v = (3, 4) significa muoversi di 3 unità in direzione x e di 4 unità in direzione y dall'origine (0, 0).</p><p><strong>In tre dimensioni (3D):</strong> un vettore è descritto da tre componenti (x, y, z). Ad esempio, v = (1, 2, 3) rappresenta il movimento nello spazio tridimensionale.</p><h3>Grandezza di un vettore</h3><p>La grandezza (o lunghezza) di un vettore v = (x, y) si calcola con il teorema di Pitagora:</p><p>||v|| = √(x² + y²)</p><p>Esempio: per v = (3, 4), la grandezza è √(3² + 4²) = √(9 + 16) = √25 = 5</p><h3>Vettore unitario</h3><p>Un vettore unitario è un vettore con magnitudine uguale a 1. È utile per indicare la direzione senza preoccuparsi della lunghezza. Si ottiene dividendo ogni componente per la grandezza totale:</p><p>ũ = v / ||v||</p><p>Per v = (3, 4) con magnitudine 5: ũ = (3/5, 4/5) = (0,6, 0,8)</p><h3>Vettori speciali</h3><p><strong>Vettore zero:</strong> è il vettore (0, 0) o (0, 0, 0, 0). Non ha direzione né grandezza.</p><p><strong>Vettori base:</strong> in 2D, i vettori unitari i = (1, 0) e j = (0, 1) formano la base standard. Qualsiasi vettore in 2D può essere espresso come una combinazione di questi.</p>",
+            "de": "<h3>was ist ein Vektor?</h3><p>Ein Vektor ist ein mathematisches Objekt, das zwei Hauptmerkmale aufweist: Größe (Länge) und Richtung. In der Geometrie wird ein Vektor als ein Pfeil dargestellt, der an einem Anfangspunkt beginnt und an einem Endpunkt endet.</p><h3>Darstellung von Vektoren</h3><p><strong>Schreibweise:</strong> Vektoren werden in der Regel mit fetten Buchstaben (v) oder mit einem Pfeil darüber (→v) dargestellt. Zum Beispiel: v = (3, 4) oder v = ⟨3, 4⟩</p><p><strong>In zwei Dimensionen (2D):</strong> Ein Vektor wird durch zwei Komponenten (x, y) beschrieben. Zum Beispiel bedeutet der Vektor v = (3, 4), dass man sich vom Ursprung (0, 0) aus 3 Einheiten in x-Richtung und 4 Einheiten in y-Richtung bewegt.</p><p><strong>In drei Dimensionen (3D):</strong> Ein Vektor wird durch drei Komponenten (x, y, z) beschrieben. Zum Beispiel stellt v = (1, 2, 3) eine Bewegung im dreidimensionalen Raum dar.</p><h3>Größe eines Vektors</h3><p>Der Betrag (oder die Länge) eines Vektors v = (x, y) wird mit Hilfe des Satzes von Pythagoras berechnet:</p><p>||v| = √(x² + y²)</p><p>Beispiel: Für v = (3, 4) ist der Betrag √(3² + 4²) = √(9 + 16) = √25 = 5</p><h3>Einheitsvektor</h3><p>Ein Einheitsvektor ist ein Vektor, dessen Betrag gleich 1 ist. Er ist nützlich, um die Richtung anzugeben, ohne sich um die Länge zu kümmern. Man erhält ihn, indem man jede Komponente durch den Gesamtbetrag dividiert:</p><p>ũ = v / ||v||</p><p>Für v = (3, 4) mit dem Betrag 5: ũ = (3/5, 4/5) = (0,6, 0,8)</p><h3>Spezielle Vektoren</h3><p><strong>Nullvektor:</strong> Dies ist der Vektor (0, 0) oder (0, 0, 0, 0). Er hat keine Richtung oder Größe.</p><p><strong>Basisvektoren</strong>: In 2D bilden die Einheitsvektoren i = (1, 0) und j = (0, 1) die Standardbasis. Jeder Vektor in 2D kann als eine Kombination dieser Vektoren ausgedrückt werden.</p>"
+          },
+          "duration": {
+            "es": "Lectura de 10 min",
+            "en": "10 min reading",
+            "fr": "10 min de lecture",
+            "it": "10 minuti di lettura",
+            "de": "10 min Lesen"
+          }
+        },
+        {
+          "id": "lesson-2-2-video",
+          "title": {
+            "es": "Video: Introducción a Vectores",
+            "en": "Video: Introduction to Vectors",
+            "fr": "Vidéo : Introduction aux vecteurs",
+            "it": "Video: Introduzione ai vettori",
+            "de": "Video: Einführung in Vektoren"
+          },
+          "content_type": "video",
+          "video_url": "https://www.youtube.com/embed/r4bH66vYjss",
+          "description": {
+            "es": "Refuerzo visual de conceptos de vectores, componentes y representación geométrica",
+            "en": "Visual reinforcement of vector concepts, components and geometric representation",
+            "fr": "Renforcement visuel des concepts de vecteurs, de composantes et de représentation géométrique",
+            "it": "Rafforzamento visivo dei concetti di vettori, componenti e rappresentazione geometrica",
+            "de": "Visuelle Verstärkung der Konzepte von Vektoren, Komponenten und geometrischer Darstellung"
+          },
+          "duration": {
+            "es": "18:45",
+            "en": "18:45",
+            "fr": "18:45",
+            "it": "18:45",
+            "de": "18:45"
+          }
+        },
+        {
+          "id": "lesson-2-3",
+          "title": {
+            "es": "Operaciones con Vectores",
+            "en": "Vector Operations",
+            "fr": "Opérations vectorielles",
+            "it": "Operazioni vettoriali",
+            "de": "Vektorielle Operationen"
+          },
+          "content_type": "text",
+          "content": {
+            "es": "<h3>Suma de Vectores</h3><p>Para sumar dos vectores, sumamos sus componentes correspondientes. Si u = (u₁, u₂) y v = (v₁, v₂), entonces u + v = (u₁ + v₁, u₂ + v₂).</p><p><strong>Ejemplo:</strong> Si u = (2, 3) y v = (1, 4), entonces u + v = (2+1, 3+4) = (3, 7)</p><p><strong>Interpretación geométrica:</strong> La suma de vectores se puede visualizar como colocar el inicio de un vector en la punta del otro. El vector resultante va desde el inicio del primero hasta la punta del segundo.</p><h3>Resta de Vectores</h3><p>Para restar vectores, restamos sus componentes: u - v = (u₁ - v₁, u₂ - v₂).</p><p><strong>Ejemplo:</strong> Si u = (5, 3) y v = (2, 1), entonces u - v = (5-2, 3-1) = (3, 2)</p><p><strong>Nota importante:</strong> La resta u - v es equivalente a sumar u con el opuesto de v: u - v = u + (-v)</p><h3>Multiplicación por un Escalar</h3><p>Un escalar es simplemente un número real. Multiplicar un vector por un escalar magnifica o reduce su magnitud y puede cambiar su dirección (si el escalar es negativo).</p><p>Si v = (v₁, v₂) y k es un escalar, entonces kv = (kv₁, kv₂)</p><p><strong>Ejemplo:</strong> Si v = (2, 3) y k = 2, entonces 2v = (4, 6). El nuevo vector tiene el doble de longitud.</p><p><strong>Casos especiales:</strong></p><ul><li>k = 1: El vector no cambia</li><li>k = -1: El vector se invierte de dirección pero mantiene su magnitud</li><li>0 < k < 1: El vector se acorta</li><li>k > 1: El vector se alarga</li><li>k < 0: El vector cambia de dirección</li></ul><h3>Producto Punto (Producto Escalar)</h3><p>El producto punto de dos vectores produce un número (escalar), no un vector. Si u = (u₁, u₂) y v = (v₁, v₂), entonces:</p><p>u · v = u₁v₁ + u₂v₂</p><p><strong>Ejemplo:</strong> Si u = (2, 3) y v = (4, 1), entonces u · v = (2)(4) + (3)(1) = 8 + 3 = 11</p><p><strong>Interpretación geométrica:</strong> El producto punto mide qué tanto \"apunta\" un vector en la dirección del otro. Si es cero, los vectores son perpendiculares.</p><p><strong>Fórmula alternativa:</strong> u · v = ||u|| ||v|| cos(θ), donde θ es el ángulo entre los vectores</p>",
+            "en": "<h3>Vector Addition</h3><p>To sum two vectors, we add their corresponding components. If u = (u₁, u₂) and v = (v₁, v₂), then u + v = (u₁ + v₁, u₂ + v₂).</p><p><strong>Example:</strong> If u = (2, 3) and v = (1, 4), then u + v = (2+1, 3+4) = (3, 7)</p><p><strong>Geometric Interpretation:</strong> The sum of vectors can be visualized as placing the start of one vector at the tip of the other. The resulting vector goes from the beginning of the first to the tip of the second.</p><h3>Vector Subtraction</h3><p>To subtract vectors, we subtract their components: u - v = (u₁ - v₁, u₂ - v₂).</p><p><strong>Example:</strong> If u = (5, 3) and v = (2, 1), then u - v = (5-2, 3-1) = (3, 2)</p><p><strong>Important note:</strong> Subtracting u - v is equivalent to adding u with the opposite of v: u - v = u + (-v)</p><h3>Multiplication by a Scalar</h3><p>A scalar is simply a real number. Multiplying a vector by a scalar magnifies or reduces its magnitude and can change its direction (if the scalar is negative).</p><p>If v = (v₁, v₂) and k is a scalar, then kv = (kv₁, kv₂)</p><p><strong>Example:</strong> if v = (2, 3) and k = 2, then 2v = (4, 6). The new vector is twice as long.</p><p><strong>Special cases:</strong></p><ul><li>k = 1: The vector does not change</li><li>k = -1: The vector reverses direction but keeps its magnitude</li><li>0 &lt; k &lt; 1: The vector shortens</li><li>k &gt; 1: The vector lengthens</li><li>k &lt; 0: Vector changes direction</li></ul><h3>Dot Product (Scalar Product)</h3><p>The dot product of two vectors produces a number (scalar), not a vector. If u = (u₁, u₂) and v = (v₁, v₂), then:</p><p>u - v = u₁v₁ + u₂v₂</p><p><strong>Example:</strong> If u = (2, 3) and v = (4, 1), then u - v = (2)(4) + (3)(1) = 8 + 3 = 11</p><p><strong>Geometric interpretation:</strong> The dot product measures how much one vector \"points\" in the direction of the other. If it is zero, the vectors are perpendicular.</p><p><strong>Alternative formula:</strong> u - v = ||u||| ||v||| cos(θ), where θ is the angle between the vectors</p>",
+            "fr": "<h3>Addition de vecteurs</h3><p>Pour additionner deux vecteurs, on additionne leurs composantes correspondantes. Si u = (u₁, u₂) et v = (v₁, v₂), alors u + v = (u₁ + v₁, u₂ + v₂).</p><p><strong>Exemple :</strong> si u = (2, 3) et v = (1, 4), alors u + v = (2+1, 3+4) = (3, 7)</p><p><strong>Interprétation géométrique :</strong> l'addition de vecteurs peut être visualisée comme le fait de placer le début d'un vecteur à l'extrémité de l'autre. Le vecteur résultant va du début du premier vecteur à l'extrémité du second.</p><h3>Soustraction de vecteurs</h3><p>Pour soustraire des vecteurs, on soustrait leurs composantes : u - v = (u₁ - v₁, u₂ - v₂).</p><p><strong>Exemple :</strong> si u = (5, 3) et v = (2, 1), alors u - v = (5-2, 3-1) = (3, 2)</p><p><strong>Remarque importante :</strong> soustraire u - v équivaut à additionner u avec l'opposé de v : u - v = u + (-v)</p><h3>Multiplication par un scalaire</h3><p>Un scalaire est simplement un nombre réel. La multiplication d'un vecteur par un scalaire amplifie ou réduit sa magnitude et peut changer sa direction (si le scalaire est négatif).</p><p>Si v = (v₁, v₂) et k est un scalaire, alors kv = (kv₁, kv₂)</p><p><strong>Exemple :</strong> si v = (2, 3) et k = 2, alors 2v = (4, 6). Le nouveau vecteur est deux fois plus long.</p><p><strong>Cas particuliers :</strong></p><ul><li>k = 1 : le vecteur ne change pas</li><li>k = -1 : le vecteur inverse sa direction mais conserve sa magnitude</li><li>0 &lt; k &lt; 1 : Le vecteur se raccourcit</li><li>k &gt; 1 : le vecteur s'allonge</li><li>k &lt; 0 : le vecteur change de direction</li></ul><h3>Produit point (produit scalaire)</h3><p>Le produit point de deux vecteurs produit un nombre (scalaire), et non un vecteur. Si u = (u₁, u₂) et v = (v₁, v₂), alors :</p><p>u - v = u₁v₁ + u₂v₂</p><p><strong>Exemple :</strong> si u = (2, 3) et v = (4, 1), alors u - v = (2)(4) + (3)(1) = 8 + 3 = 11</p><p><strong>Interprétation géométrique :</strong> le produit de points mesure à quel point un vecteur \"pointe\" dans la direction de l'autre. S'il est nul, les vecteurs sont perpendiculaires.</p><p><strong>Formule alternative :</strong> u - v = ||u||| ||v|| cos(θ), où θ est l'angle entre les vecteurs</p>",
+            "it": "<h3>Addizione di vettori</h3><p>Per sommare due vettori, si sommano le loro componenti corrispondenti. Se u = (u₁, u₂) e v = (v₁, v₂), allora u + v = (u₁ + v₁, u₂ + v₂).</p><p><strong>Esempio:</strong> se u = (2, 3) e v = (1, 4), allora u + v = (2+1, 3+4) = (3, 7)</p><p><strong>Interpretazione geometrica: l'</strong> addizione vettoriale può essere visualizzata come il posizionamento dell'inizio di un vettore all'estremità dell'altro. Il vettore risultante va dall'inizio del primo alla punta del secondo.</p><h3>Sottrazione di vettori</h3><p>Per sottrarre i vettori, si sottraggono le loro componenti: u - v = (u₁ - v₁, u₂ - v₂).</p><p><strong>Esempio:</strong> se u = (5, 3) e v = (2, 1), allora u - v = (5-2, 3-1) = (3, 2)</p><p><strong>Nota importante:</strong> la sottrazione di u - v è equivalente all'addizione di u con l'opposto di v: u - v = u + (-v)</p><h3>Moltiplicazione per uno scalare</h3><p>Uno scalare è semplicemente un numero reale. La moltiplicazione di un vettore per uno scalare ne ingrandisce o riduce la grandezza e può cambiarne la direzione (se lo scalare è negativo).</p><p>Se v = (v₁, v₂) e k è uno scalare, allora kv = (kv₁, kv₂)</p><p><strong>Esempio:</strong> se v = (2, 3) e k = 2, allora 2v = (4, 6). Il nuovo vettore è lungo il doppio.</p><p><strong>Casi speciali:</strong></p><ul><li>k = 1: il vettore non cambia</li><li>k = -1: il vettore inverte la direzione ma mantiene la sua grandezza</li><li>0 &lt; k &lt; 1: Il vettore si accorcia</li><li>k &gt; 1: Il vettore si allunga</li><li>k &lt; 0: Il vettore cambia direzione</li></ul><h3>Prodotto dei punti (prodotto scalare)</h3><p>Il prodotto del punto di due vettori produce un numero (scalare), non un vettore. Se u = (u₁, u₂) e v = (v₁, v₂), allora:</p><p>u - v = u₁v₁ + u₂v₂</p><p><strong>Esempio:</strong> se u = (2, 3) e v = (4, 1), allora u - v = (2)(4) + (3)(1) = 8 + 3 = 11</p><p><strong>Interpretazione geometrica:</strong> il prodotto del punto misura quanto un vettore \"punta\" nella direzione dell'altro. Se è zero, i vettori sono perpendicolari.</p><p><strong>Formula alternativa:</strong> u - v = ||u||| ||v||| cos(θ), dove θ è l'angolo tra i vettori</p>",
+            "de": "<h3>Addition von Vektoren</h3><p>Um zwei Vektoren zu addieren, addieren wir ihre entsprechenden Komponenten. Wenn u = (u₁, u₂) und v = (v₁, v₂), dann ist u + v = (u₁ + v₁, u₂ + v₂).</p><p><strong>Beispiel:</strong> Wenn u = (2, 3) und v = (1, 4), dann ist u + v = (2+1, 3+4) = (3, 7)</p><p><strong>Geometrische Interpretation:</strong> Die Addition von Vektoren kann man sich so vorstellen, dass man den Anfang des einen Vektors an die Spitze des anderen setzt. Der resultierende Vektor reicht vom Anfang des ersten bis zur Spitze des zweiten.</p><h3>Vektorsubtraktion</h3><p>Um Vektoren zu subtrahieren, subtrahieren wir ihre Komponenten: u - v = (u₁ - v₁, u₂ - v₂).</p><p><strong>Beispiel:</strong> Wenn u = (5, 3) und v = (2, 1), dann ist u - v = (5-2, 3-1) = (3, 2)</p><p><strong>Wichtiger Hinweis:</strong> Die Subtraktion von u - v ist äquivalent zur Addition von u mit dem Gegenteil von v: u - v = u + (-v)</p><h3>Multiplikation mit einem Skalar</h3><p>Ein Skalar ist einfach eine reelle Zahl. Die Multiplikation eines Vektors mit einem Skalar vergrößert oder verkleinert seinen Betrag und kann seine Richtung ändern (wenn der Skalar negativ ist).</p><p>Wenn v = (v₁, v₂) und k ein Skalar ist, dann ist kv = (kv₁, kv₂)</p><p><strong>Beispiel:</strong> Wenn v = (2, 3) und k = 2, dann ist 2v = (4, 6). Der neue Vektor ist doppelt so lang.</p><p><strong>Sonderfälle:</strong></p><ul><li>k = 1: Der Vektor ändert sich nicht</li><li>k = -1: Der Vektor kehrt seine Richtung um, behält aber seinen Betrag bei</li><li>0 &lt; k &lt; 1: Der Vektor wird verkürzt</li><li>k &gt; 1: Der Vektor verlängert sich</li><li>k &lt; 0: Der Vektor ändert seine Richtung</li></ul><h3>Punktprodukt (Skalarprodukt)</h3><p>Das Punktprodukt zweier Vektoren ergibt eine (skalare) Zahl, nicht einen Vektor. Wenn u = (u₁, u₂) und v = (v₁, v₂), dann:</p><p>u - v = u₁v₁ + u₂v₂</p><p><strong>Beispiel:</strong> Wenn u = (2, 3) und v = (4, 1), dann ist u - v = (2)(4) + (3)(1) = 8 + 3 = 11</p><p><strong>Geometrische Interpretation:</strong> Das Punktprodukt misst, wie sehr ein Vektor in die Richtung des anderen \"zeigt\". Ist es gleich Null, stehen die Vektoren senkrecht zueinander.</p><p><strong>Alternative Formel:</strong> u - v = ||u||| ||v||| cos(θ), wobei θ der Winkel zwischen den Vektoren ist</p>"
+          },
+          "duration": {
+            "es": "Lectura de 12 min",
+            "en": "12 min reading",
+            "fr": "12 min de lecture",
+            "it": "12 min di lettura",
+            "de": "12 min Lesen"
+          }
+        },
+        {
+          "id": "lesson-2-3-video",
+          "title": {
+            "es": "Video: Operaciones con Vectores",
+            "en": "Video: Operations with Vectors",
+            "fr": "Vidéo : Opérations avec les vecteurs",
+            "it": "Video: Operazioni con i vettori",
+            "de": "Video: Operationen mit Vektoren"
+          },
+          "content_type": "video",
+          "video_url": "https://www.youtube.com/embed/Ejs3YLHUc70",
+          "description": {
+            "es": "Refuerzo visual sobre suma, resta y multiplicación escalar de vectores",
+            "en": "Visual reinforcement on addition, subtraction and scalar multiplication of vectors",
+            "fr": "Renforcement visuel sur l'addition, la soustraction et la multiplication scalaire des vecteurs",
+            "it": "Rinforzo visivo su addizione, sottrazione e moltiplicazione scalare di vettori",
+            "de": "Visuelle Verstärkung bei der Addition, Subtraktion und skalaren Multiplikation von Vektoren"
+          },
+          "duration": {
+            "es": "15:20",
+            "en": "15:20",
+            "fr": "15:20",
+            "it": "15:20",
+            "de": "15:20"
+          }
+        },
+        {
+          "id": "lesson-2-4",
+          "title": {
+            "es": "Introducción a Matrices",
+            "en": "Introduction to Matrices",
+            "fr": "Introduction aux matrices",
+            "it": "Introduzione alle matrici",
+            "de": "Einführung in Matrizen"
+          },
+          "content_type": "text",
+          "content": {
+            "es": "<h3>¿Qué es una Matriz?</h3><p>Una matriz es un arreglo rectangular de números organizados en filas (horizontales) y columnas (verticales). Las matrices son herramientas poderosas para resolver sistemas de ecuaciones lineales, representar transformaciones geométricas y procesar datos.</p><h3>Notación y Dimensión</h3><p>Una matriz se denota usualmente con una letra mayúscula como A, B, C, etc. Las dimensiones se expresan como m × n, donde m es el número de filas y n es el número de columnas.</p><p><strong>Ejemplo de matriz 3 × 3:</strong></p><p>A = ⎡1  2  3⎤<br>    ⎢4  5  6⎥<br>    ⎣7  8  9⎦</p><p>Los elementos se denotan como a₍ᵢⱼ₎, donde i es la fila y j es la columna. Por ejemplo, a₍₂,₃₎ = 6 (fila 2, columna 3).</p><h3>Tipos de Matrices</h3><p><strong>Matriz cuadrada:</strong> Tiene el mismo número de filas y columnas (m = n). Ejemplo: matriz 2 × 2.</p><p><strong>Matriz rectangular:</strong> Tiene diferente número de filas y columnas. Ejemplo: matriz 3 × 2.</p><p><strong>Vector fila:</strong> Una matriz con una sola fila. Ejemplo: [1  2  3] (matriz 1 × 3).</p><p><strong>Vector columna:</strong> Una matriz con una sola columna. Ejemplo: ⎡1⎤<br>                  ⎢2⎥ (matriz 3 × 1)<br>                  ⎣3⎦</p><p><strong>Matriz diagonal:</strong> Una matriz cuadrada donde todos los elementos fuera de la diagonal principal son cero:</p><p>D = ⎡2  0  0⎤<br>    ⎢0  5  0⎥<br>    ⎣0  0  3⎦</p><p><strong>Matriz identidad (I):</strong> Una matriz diagonal especial donde todos los elementos de la diagonal son 1:</p><p>I = ⎡1  0  0⎤<br>    ⎢0  1  0⎥<br>    ⎣0  0  1⎦</p><p><strong>Matriz transpuesta (Aᵀ):</strong> Se obtiene intercambiando filas por columnas. Si A es 3 × 2, entonces Aᵀ es 2 × 3.</p><p><strong>Matriz cero:</strong> Todos sus elementos son 0:</p><p>O = ⎡0  0⎤<br>    ⎢0  0⎥</p>",
+            "en": "<h3>what is a Matrix?</h3><p>A matrix is a rectangular array of numbers organized into rows (horizontal) and columns (vertical). Matrices are powerful tools for solving systems of linear equations, representing geometric transformations and processing data.</p><h3>Notation and Dimension</h3><p>A matrix is usually denoted by a capital letter such as A, B, C, etc. Dimensions are expressed as m × n, where m is the number of rows and n is the number of columns.</p><p><strong>Example of 3 × 3 matrix:</strong></p><p>A = ⎡1 2 3⎤<br>    ⎢4 5 6⎥<br>    ⎣7 8 9⎦</p><p>The elements are denoted as a₍ᵢⱼ₎, where i is the row and j is the column. For example, a₍₂,₃₎ = 6 (row 2, column 3).</p><h3>Types of Matrices</h3><p><strong>Square matrix:</strong> has the same number of rows and columns (m = n). Example: 2 × 2 matrix.</p><p><strong>Rectangular matrix:</strong> Has different number of rows and columns. Example: 3 × 2 matrix.</p><p><strong>Row vector:</strong> A matrix with only one row. Example: [1 2 3] (1 × 3 matrix).</p><p><strong>Column vector:</strong> A matrix with only one column. Example: ⎡1⎤<br>                  ⎢2⎥ (3 × 1 matrix)<br>                  ⎣3⎦</p><p><strong>Diagonal matrix:</strong> a square matrix where all elements outside the main diagonal are zero:</p><p>D = ⎡2 0 0⎤<br>    ⎢0 5 0⎥<br>    ⎣0 0 3⎦</p><p><strong>Identity matrix (I):</strong> a special diagonal matrix where all the elements of the diagonal are 1:</p><p>I = ⎡1 0 0⎤<br>    ⎢0 1 0⎥<br>    ⎣0 0 1⎦</p><p><strong>Transposed matrix (Aᵀ):</strong> it is obtained by exchanging rows for columns. If A is 3 × 2, then Aᵀ is 2 × 3.</p><p><strong>Zero matrix:</strong> All its elements are 0:</p><p>O = ⎡0 0⎤<br>    ⎢0 0⎥</p>",
+            "fr": "<h3>qu'est-ce qu'une matrice ?</h3><p>Une matrice est un tableau rectangulaire de nombres disposés en lignes (horizontales) et en colonnes (verticales). Les matrices sont des outils puissants pour résoudre des systèmes d'équations linéaires, représenter des transformations géométriques et traiter des données.</p><h3>Notation et dimension</h3><p>Une matrice est généralement désignée par une lettre majuscule telle que A, B, C, etc. Les dimensions sont exprimées en m × n, où m est le nombre de lignes et n le nombre de colonnes.</p><p><strong>Exemple d'une matrice 3 × 3 :</strong></p><p>A = ⎡1 2 3⎤<br>    ⎢4 5 6⎥<br>    ⎣7 8 9⎦</p><p>Les éléments sont désignés par a₍ᵢⱼ₎, où i est la ligne et j la colonne. Par exemple, a₍₂,₃₎ = 6 (ligne 2, colonne 3).</p><h3>Types de matrices</h3><p><strong>Matrice carrée :</strong> elle a le même nombre de lignes et de colonnes (m = n). Exemple : matrice 2 × 2.</p><p><strong>Matrice rectangulaire :</strong> a un nombre différent de lignes et de colonnes. Exemple : matrice 3 × 2.</p><p><strong>Vecteur de ligne :</strong> matrice ne comportant qu'une seule ligne. Exemple : [1 2 3] (matrice 1 × 3).</p><p>Vecteur <strong>colonne :</strong> matrice ne comportant qu'une seule colonne. Exemple : ⎡1⎤ (matrice 1 × 3)<br>                  ⎢2⎥ (matrice 3 × 1)<br>                  ⎣3⎦</p><p><strong>Matrice diagonale :</strong> matrice carrée dont tous les éléments situés en dehors de la diagonale principale sont nuls :</p><p>D = ⎡2 0 0⎤<br>    ⎢0 5 0⎥<br>    ⎣0 0 3⎦</p><p><strong>Matrice identité (I) :</strong> matrice diagonale particulière dont tous les éléments de la diagonale valent 1 :</p><p>I = ⎡1 0 0⎤<br>    ⎢0 1 0⎥<br>    ⎣0 0 1⎦</p><p><strong>Matrice transposée (Aᵀ) :</strong> elle est obtenue en échangeant des lignes contre des colonnes. Si A est 3 × 2, Aᵀ est 2 × 3.</p><p><strong>Matrice zéro :</strong> tous ses éléments sont égaux à 0 :</p><p>O = ⎡0 0⎤<br>    ⎢0 0⎥</p>",
+            "it": "<h3>che cos'è una matrice?</h3><p>Una matrice è una serie rettangolare di numeri disposti in righe (orizzontali) e colonne (verticali). Le matrici sono strumenti potenti per risolvere sistemi di equazioni lineari, rappresentare trasformazioni geometriche ed elaborare dati.</p><h3>Notazione e dimensione</h3><p>Una matrice è solitamente indicata con una lettera maiuscola, come A, B, C, ecc. Le dimensioni sono espresse come m × n, dove m è il numero di righe e n il numero di colonne.</p><p><strong>Esempio di matrice 3 × 3:</strong></p><p>A = ⎡1 2 3⎤<br>    ⎢4 5 6⎥<br>    ⎣7 8 9⎦</p><p>Gli elementi sono indicati come a₍ᵢⱼ₎, dove i è la riga e j è la colonna. Ad esempio, a₍₂,₃₎ = 6 (riga 2, colonna 3).</p><h3>Tipi di matrici</h3><p><strong>Matrice quadrata:</strong> ha lo stesso numero di righe e colonne (m = n). Esempio: matrice 2 × 2.</p><p><strong>Matrice rettangolare:</strong> ha un numero diverso di righe e colonne. Esempio: matrice 3 × 2.</p><p><strong>Vettore di righe:</strong> matrice con una sola riga. Esempio: [1 2 3] (matrice 1 × 3).</p><p><strong>Vettore colonna:</strong> matrice con una sola colonna. Esempio: ⎡1⎤<br>                  ⎢2⎥ (matrice 3 × 1)<br>                  ⎣3⎦</p><p><strong>Matrice diagonale:</strong> matrice quadrata in cui tutti gli elementi al di fuori della diagonale principale sono zero:</p><p>D = ⎡2 0 0⎤<br>    ⎢0 5 0⎥<br>    ⎣0 0 3⎦</p><p><strong>Matrice di identità (I):</strong> matrice diagonale speciale in cui tutti gli elementi della diagonale sono 1:</p><p>I = ⎡1 0 0⎤<br>    ⎢0 1 0⎥<br>    ⎣0 0 1⎦</p><p><strong>Matrice trasposta (Aᵀ):</strong> si ottiene scambiando le righe con le colonne. Se A è 3 × 2, allora Aᵀ sarà 2 × 3.</p><p><strong>Matrice zero:</strong> tutti i suoi elementi sono 0:</p><p>O = ⎡0 0⎤<br>    ⎢0 0⎥</p>",
+            "de": "<h3>was ist eine Matrix?</h3><p>Eine Matrix ist eine rechteckige Anordnung von Zahlen, die in Zeilen (horizontal) und Spalten (vertikal) angeordnet sind. Matrizen sind leistungsstarke Werkzeuge zur Lösung linearer Gleichungssysteme, zur Darstellung geometrischer Transformationen und zur Datenverarbeitung.</p><h3>Notation und Dimension</h3><p>Eine Matrix wird gewöhnlich mit einem Großbuchstaben wie A, B, C usw. bezeichnet. Die Dimensionen werden als m × n ausgedrückt, wobei m für die Anzahl der Zeilen und n für die Anzahl der Spalten steht.</p><p><strong>Beispiel für eine 3 × 3-Matrix:</strong></p><p>A = ⎡1 2 3⎤<br>    ⎢4 5 6⎥<br>    ⎣7 8 9⎦</p><p>Die Elemente werden mit a₍ᵢⱼ₎ bezeichnet, wobei i für die Zeile und j für die Spalte steht. Zum Beispiel: a₍₂,₃₎ = 6 (Zeile 2, Spalte 3).</p><h3>Arten von Matrizen</h3><p><strong>Quadratische Matrix:</strong> Hat die gleiche Anzahl von Zeilen und Spalten (m = n). Beispiel: 2 × 2-Matrix.</p><p><strong>Rechteckige Matrix:</strong> Hat eine unterschiedliche Anzahl von Zeilen und Spalten. Beispiel: 3 × 2-Matrix.</p><p><strong>Zeilenvektor:</strong> Eine Matrix mit nur einer Zeile. Beispiel: [1 2 3] (1 × 3-Matrix).</p><p><strong>Spaltenvektor:</strong> Eine Matrix mit nur einer Spalte. Beispiel: ⎡1⎤<br>                  ⎢2⎥ (Matrix 3 × 1)<br>                  ⎣3⎦</p><p><strong>Diagonalmatrix:</strong> Eine quadratische Matrix, bei der alle Elemente außerhalb der Hauptdiagonalen Null sind:</p><p>D = ⎡2 0 0⎤<br>    ⎢0 5 0⎥<br>    ⎣0 0 3⎦</p><p><strong>Identitätsmatrix (I):</strong> Eine spezielle Diagonalmatrix, bei der alle Elemente der Diagonalen 1 sind:</p><p>I = ⎡1 0 0⎤<br>    ⎢0 1 0⎥<br>    ⎣0 0 1⎦</p><p><strong>Transponierte Matrix (Aᵀ):</strong> Man erhält sie, indem man die Zeilen mit den Spalten vertauscht. Wenn A 3 × 2 ist, dann ist Aᵀ 2 × 3.</p><p><strong>Nullmatrix:</strong> Alle ihre Elemente sind 0:</p><p>O = ⎡0 0⎤<br>    ⎢0 0⎥</p>"
+          },
+          "duration": {
+            "es": "Lectura de 12 min",
+            "en": "12 min reading",
+            "fr": "12 min de lecture",
+            "it": "12 min di lettura",
+            "de": "12 min Lesen"
+          }
+        },
+        {
+          "id": "lesson-2-4-video",
+          "title": {
+            "es": "Video: Introducción a Matrices",
+            "en": "Video: Introduction to Matrices",
+            "fr": "Vidéo : Introduction aux matrices",
+            "it": "Video: Introduzione alle matrici",
+            "de": "Video: Einführung in Matrizen"
+          },
+          "content_type": "video",
+          "video_url": "https://www.youtube.com/embed/ROIZQ2Pc2Fc",
+          "description": {
+            "es": "Refuerzo visual sobre concepto de matriz, tipos de matrices y notación matricial",
+            "en": "Visual reinforcement on the concept of matrix, types of matrices and matrix notation",
+            "fr": "Renforcement visuel du concept de matrice, des types de matrices et de la notation matricielle",
+            "it": "Rafforzamento visivo del concetto di matrice, dei tipi di matrice e della notazione matriciale",
+            "de": "Visuelle Verstärkung des Matrixkonzepts, der Matrixtypen und der Matrixnotation"
+          },
+          "duration": {
+            "es": "16:32",
+            "en": "16:32",
+            "fr": "16:32",
+            "it": "16:32",
+            "de": "16:32"
+          }
+        },
+        {
+          "id": "lesson-2-5",
+          "title": {
+            "es": "Operaciones Básicas con Matrices",
+            "en": "Basic Operations with Matrices",
+            "fr": "Opérations matricielles de base",
+            "it": "Operazioni matriciali di base",
+            "de": "Grundlegende Matrixoperationen"
+          },
+          "content_type": "text",
+          "content": {
+            "es": "<h3>Suma de Matrices</h3><p>Para sumar dos matrices, deben tener las mismas dimensiones. Se suma elemento por elemento en las posiciones correspondientes.</p><p><strong>Ejemplo:</strong> Si A = ⎡1  2⎤ y B = ⎡3  1⎤, entonces:</p><p>            ⎢3  4⎥      ⎢2  5⎥</p><p>A + B = ⎡1+3  2+1⎤ = ⎡4  3⎤<br>        ⎢3+2  4+5⎥   ⎢5  9⎥</p><h3>Resta de Matrices</h3><p>Funciona igual que la suma, pero se restan los elementos correspondientes:</p><p>A - B = ⎡1-3  2-1⎤ = ⎡-2  1⎤<br>        ⎢3-2  4-5⎥   ⎢1  -1⎥</p><h3>Multiplicación por un Escalar</h3><p>Se multiplica cada elemento de la matriz por el escalar k:</p><p><strong>Ejemplo:</strong> Si A = ⎡1  2⎤ y k = 3, entonces:</p><p>            ⎢3  4⎥</p><p>3A = ⎡3×1  3×2⎤ = ⎡3   6⎤<br>     ⎢3×3  3×4⎥   ⎢9  12⎥</p><h3>Multiplicación de Matrices</h3><p>La multiplicación de matrices es más compleja. Para multiplicar A (dimensión m × n) por B (dimensión n × p), el número de columnas de A debe ser igual al número de filas de B. El resultado es una matriz de dimensión m × p.</p><p><strong>Cómo se calcula:</strong> El elemento (i, j) de la matriz resultante AB es el producto punto de la fila i de A con la columna j de B.</p><p><strong>Ejemplo: Matriz 2 × 2 por Matriz 2 × 2</strong></p><p>A = ⎡1  2⎤    B = ⎡5  6⎤<br>    ⎢3  4⎥        ⎢7  8⎥</p><p>AB = ⎡(1×5 + 2×7)  (1×6 + 2×8)⎤ = ⎡19  22⎤<br>     ⎢(3×5 + 4×7)  (3×6 + 4×8)⎥   ⎢43  50⎥</p><p><strong>Propiedades importantes:</strong></p><ul><li><strong>No es conmutativa:</strong> AB ≠ BA en general</li><li><strong>Es asociativa:</strong> (AB)C = A(BC)</li><li><strong>Distributiva:</strong> A(B + C) = AB + AC</li><li><strong>Multiplicación por identidad:</strong> AI = IA = A</li></ul><h3>Transposición de Matrices</h3><p>La transpuesta de una matriz A (denotada Aᵀ) se obtiene intercambiando filas y columnas.</p><p><strong>Ejemplo:</strong> Si A = ⎡1  2  3⎤, entonces Aᵀ = ⎡1  4⎤<br>                  ⎢4  5  6⎥              ⎢2  5⎥<br>                                         ⎣3  6⎦</p><p>Note que A es 2 × 3 y Aᵀ es 3 × 2.</p><p><strong>Propiedades:</strong></p><ul><li>(Aᵀ)ᵀ = A (la transpuesta de la transpuesta es la original)</li><li>(A + B)ᵀ = Aᵀ + Bᵀ</li><li>(AB)ᵀ = BᵀAᵀ (¡el orden se invierte!)</li></ul>",
+            "en": "<h3>Addition of Matrices</h3><p>To add two matrices, they must have the same dimensions. You add element by element at the corresponding positions.</p><p><strong>Example:</strong> If A = ⎡1 2⎤ and B = ⎡3 1⎤, then:</p><p>            ⎢3 4⎥ ⎢2 5⎥</p><p>A + B = ⎡1+3 2+1⎤ = ⎡4 3⎤<br>        ⎢3+2 4+5⎥ ⎢5 9⎥</p><h3>Subtraction of Matrices</h3><p>Works the same as addition, but the corresponding elements are subtracted:</p><p>A - B = ⎡1-3 2-1⎤ = ⎡-2 1⎤<br>        ⎢3-2 4-5⎥ ⎢1 -1⎥</p><h3>Multiplication by a Scalar</h3><p>Each element of the matrix is multiplied by the scalar k:</p><p><strong>Example:</strong> if A = ⎡1 2⎤ and k = 3, then:</p><p>            ⎢3 4⎥</p><p>3A = ⎡3×1 3×2⎤ = ⎡3 6⎤<br>     ⎢3×3 3×4⎥ ⎢9 12⎥</p><h3>Matrix Multiplication</h3><p>Matrix multiplication is more complex. To multiply A (dimension m × n) by B (dimension n × p), the number of columns of A must be equal to the number of rows of B. The result is a matrix of dimension m × p.</p><p><strong>How to calculate:</strong> The element (i, j) of the resulting matrix AB is the dot product of row i of A with column j of B.</p><p><strong>Example: Matrix 2 × 2 by Matrix 2 × 2</strong></p><p>A = ⎡1 2⎤ B = ⎡5 6⎤<br>    ⎢3 4⎥ ⎢7 8⎥</p><p>AB = ⎡(1×5 + 2×7) (1×6 + 2×8)⎤ = ⎡19 22⎤<br>     ⎢(3×5 + 4×7) (3×6 + 4×8)⎥ ⎢43 50⎥</p><p><strong>Important properties:</strong></p><ul><li><strong>It is not commutative:</strong> AB ≠ BA in general</li><li><strong>It is associative:</strong> (AB)C = A(BC)</li><li><strong>Distributive:</strong> A(B + C) = AB + AC</li><li><strong>Multiplication by identity:</strong> AI = IA = A</li></ul><h3>Transpose of Matrices</h3><p>The transpose of a matrix A (denoted Aᵀ) is obtained by interchanging rows and columns.</p><p><strong>Example:</strong> If A = ⎡1 2 3⎤, then Aᵀ = ⎡1 4⎤<br>                  ⎢4 5 6⎥ ⎢2 5⎥<br>                                         ⎣3 6⎦</p><p>Note that A is 2 × 3 and Aᵀ is 3 × 2.</p><p><strong>Properties:</strong></p><ul><li>(Aᵀ)ᵀ = A (the transpose of the transpose is the original)</li><li>(A + B)ᵀ = Aᵀ + Bᵀ</li><li>(AB)ᵀ = BᵀAᵀ (the order is reversed!)</li></ul>",
+            "fr": "<h3>Addition de matrices</h3><p>Pour additionner deux matrices, il faut qu'elles aient les mêmes dimensions. On ajoute élément par élément aux positions correspondantes.</p><p><strong>Exemple :</strong> Si A = ⎡1 2⎤ et B = ⎡3 1⎤, alors :</p><p>            ⎢3 4⎥ ⎢2 5⎥</p><p>A + B = ⎡1+3 2+1⎤ = ⎡4 3⎤<br>        ⎢3+2 4+5⎥ ⎢5 9⎥</p><h3>Soustraction de matrices</h3><p>Fonctionne de la même manière que l'addition, mais les éléments correspondants sont soustraits :</p><p>A - B = ⎡1-3 2-1⎤ = ⎡-2 1⎤<br>        ⎢3-2 4-5⎥ ⎢1 -1⎥</p><h3>Multiplication par un scalaire</h3><p>Chaque élément de la matrice est multiplié par le scalaire k :</p><p><strong>Exemple :</strong> Si A = ⎡1 2⎤ et k = 3, alors :</p><p>            ⎢3 4⎥</p><p>3A = ⎡3×1 3×2⎤ = ⎡3 6⎤<br>     ⎢3×3 3×4⎥ ⎢9 12⎥</p><h3>Multiplication matricielle</h3><p>La multiplication matricielle est plus complexe. Pour multiplier A (dimension m × n) par B (dimension n × p), le nombre de colonnes de A doit être égal au nombre de lignes de B. Le résultat est une matrice de dimension m × p.</p><p><strong>Mode de calcul :</strong> L'élément (i, j) de la matrice AB résultante est le produit en points de la ligne i de A avec la colonne j de B.</p><p><strong>Exemple : Matrice 2 × 2 par Matrice 2 × 2</strong></p><p>A = ⎡1 2⎤ B = ⎡5 6⎤<br>    ⎢3 4⎥ ⎢7 8⎥</p><p>AB = ⎡(1×5 + 2×7) (1×6 + 2×8)⎤ = ⎡19 22⎤<br>     ⎢(3×5 + 4×7) (3×6 + 4×8)⎥ ⎢43 50⎥</p><p><strong>Propriétés importantes :</strong></p><ul><li><strong>Non-commutatif :</strong> AB ≠ BA en général</li><li><strong>Il est associatif :</strong> (AB)C = A(BC)</li><li><strong>Distributive :</strong> A(B + C) = AB + AC</li><li><strong>Multiplication par identité :</strong> AI = IA = A</li></ul><h3>Transposition de matrices</h3><p>La transposée d'une matrice A (notée Aᵀ) est obtenue en intervertissant les lignes et les colonnes.</p><p><strong>Exemple :</strong> Si A = ⎡1 2 3⎤, alors Aᵀ = ⎡1 4⎤<br>                  ⎢4 5 6⎥ ⎢2 5⎥<br>                                         ⎣3 6⎦</p><p>On remarque que A est 2 × 3 et que Aᵀ est 3 × 2.</p><p><strong>Propriétés :</strong></p><ul><li>(Aᵀ)ᵀ = A (la transposée de la transposée est l'originale)</li><li>(A + B)ᵀ = Aᵀ + Bᵀ</li><li>(AB)ᵀ = BᵀAᵀ (l'ordre est inversé !)</li></ul>",
+            "it": "<h3>Addizione di matrici</h3><p>Per sommare due matrici, queste devono avere le stesse dimensioni. Si aggiunge elemento per elemento nelle posizioni corrispondenti.</p><p><strong>Esempio:</strong> se A = ⎡1 2⎤ e B = ⎡3 1⎤, allora:</p><p>            ⎢3 4⎥ ⎢2 5⎥</p><p>A + B = ⎡1+3 2+1⎤ = ⎡4 3⎤<br>        ⎢3+2 4+5⎥ ⎢5 9⎥</p><h3>Sottrazione di matrici</h3><p>Funziona come l'addizione, ma gli elementi corrispondenti vengono sottratti:</p><p>A - B = ⎡1-3 2-1⎤ = ⎡-2 1⎤<br>        ⎢3-2 4-5⎥ ⎢1 -1⎥</p><h3>Moltiplicazione per uno scalare</h3><p>Ciascun elemento della matrice viene moltiplicato per lo scalare k:</p><p><strong>Esempio:</strong> se A = ⎡1 2⎤ e k = 3, allora:</p><p>            ⎢3 4⎥</p><p>3A = ⎡3×1 3×2⎤ = ⎡3 6⎤<br>     ⎢3×3 3×4⎥ ⎢9 12⎥</p><h3>Moltiplicazione di matrici</h3><p>La moltiplicazione di matrici è più complessa. Per moltiplicare A (di dimensione m × n) per B (di dimensione n × p), il numero di colonne di A deve essere uguale al numero di righe di B. Il risultato è una matrice di dimensione m × p.</p><p><strong>Come si calcola:</strong> L'elemento (i, j) della matrice risultante AB è il prodotto di punti della riga i di A con la colonna j di B.</p><p><strong>Esempio: matrice 2 × 2 per matrice 2 × 2</strong></p><p>A = ⎡1 2⎤ B = ⎡5 6⎤<br>    ⎢3 4⎥ ⎢7 8⎥</p><p>AB = ⎡(1×5 + 2×7) (1×6 + 2×8)⎤ = ⎡19 22⎤<br>     ⎢(3×5 + 4×7) (3×6 + 4×8)⎥ ⎢43 50⎥</p><p><strong>Proprietà importanti:</strong></p><ul><li><strong>Non è commutativa:</strong> AB ≠ BA in generale</li><li><strong>È associativo:</strong> (AB)C = A(BC)</li><li><strong>Distributivo:</strong> A(B + C) = AB + AC</li><li><strong>Moltiplicazione per identità:</strong> AI = IA = A</li></ul><h3>Trasposizione di matrici</h3><p>La trasposizione di una matrice A (indicata con Aᵀ) si ottiene scambiando le righe e le colonne.</p><p><strong>Esempio:</strong> se A = ⎡1 2 3⎤, allora Aᵀ = ⎡1 4⎤<br>                  ⎢4 5 6⎥ ⎢2 5⎥<br>                                         ⎣3 6⎦</p><p>Si noti che A è 2 × 3 e che Aᵀ è 3 × 2.</p><p><strong>Proprietà:</strong></p><ul><li>(Aᵀ)ᵀ = A (la trasposizione della trasposizione è l'originale)</li><li>(A + B)ᵀ = Aᵀ + Bᵀ</li><li>(AB)ᵀ = BᵀAᵀ (l'ordine è invertito!)</li></ul>",
+            "de": "<h3>Addition von Matrizen</h3><p>Um zwei Matrizen zu addieren, müssen sie die gleichen Abmessungen haben. Man addiert Element für Element an den entsprechenden Stellen.</p><p><strong>Beispiel:</strong> Wenn A = ⎡1 2⎤ und B = ⎡3 1⎤, dann:</p><p>            ⎢3 4⎥ ⎢2 5⎥</p><p>A + B = ⎡1+3 2+1⎤ = ⎡4 3⎤<br>        ⎢3+2 4+5⎥ ⎢5 9⎥</p><h3>Subtraktion von Matrizen</h3><p>Funktioniert genauso wie die Addition, aber die entsprechenden Elemente werden subtrahiert:</p><p>A - B = ⎡1-3 2-1⎤ = ⎡-2 1⎤<br>        ⎢3-2 4-5⎥ ⎢1 -1⎥</p><h3>Multiplikation mit einem Skalar</h3><p>Jedes Element der Matrix wird mit dem Skalar k multipliziert:</p><p><strong>Beispiel:</strong> Wenn A = ⎡1 2⎤ und k = 3, dann:</p><p>            ⎢3 4⎥</p><p>3A = ⎡3×1 3×2⎤ = ⎡3 6⎤<br>     ⎢3×3 3×4⎥ ⎢9 12⎥</p><h3>Matrix-Multiplikation</h3><p>Die Matrixmultiplikation ist etwas komplizierter. Um A (Dimension m × n) mit B (Dimension n × p) zu multiplizieren, muss die Anzahl der Spalten von A gleich der Anzahl der Zeilen von B sein. Das Ergebnis ist eine Matrix der Dimension m × p.</p><p><strong>Berechnung:</strong> Das Element (i, j) der resultierenden Matrix AB ist das Punktprodukt der Zeile i von A mit der Spalte j von B.</p><p><strong>Beispiel: Matrix 2 × 2 durch Matrix 2 × 2</strong></p><p>A = ⎡1 2⎤ B = ⎡5 6⎤<br>    ⎢3 4⎥ ⎢7 8⎥</p><p>AB = ⎡(1×5 + 2×7) (1×6 + 2×8)⎤ = ⎡19 22⎤<br>     ⎢(3×5 + 4×7) (3×6 + 4×8)⎥ ⎢43 50⎥</p><p><strong>Wichtige Eigenschaften:</strong></p><ul><li><strong>Nicht-kommutativ:</strong> AB ≠ BA im Allgemeinen</li><li><strong>Es ist assoziativ:</strong> (AB)C = A(BC)</li><li><strong>Verteilend:</strong> A(B + C) = AB + AC</li><li><strong>Multiplikation mit Identität:</strong> AI = IA = A</li></ul><h3>Transponierung von Matrizen</h3><p>Die Transponierung einer Matrix A (bezeichnet mit Aᵀ) erhält man durch Vertauschen von Zeilen und Spalten.</p><p><strong>Beispiel:</strong> Wenn A = ⎡1 2 3⎤, dann ist Aᵀ = ⎡1 4⎤<br>                  ⎢4 5 6⎥ ⎢2 5⎥<br>                                         ⎣3 6⎦</p><p>Man beachte, dass A 2 × 3 ist und Aᵀ 3 × 2 ist.</p><p><strong>Eigenschaften:</strong></p><ul><li>(Aᵀ)ᵀ = A (die Transponierte der Transponierten ist das Original)</li><li>(A + B)ᵀ = Aᵀ + Bᵀ</li><li>(AB)ᵀ = BᵀAᵀ (die Reihenfolge ist vertauscht!)</li></ul>"
+          },
+          "duration": {
+            "es": "Lectura de 12 min",
+            "en": "12 min reading",
+            "fr": "12 min de lecture",
+            "it": "12 min di lettura",
+            "de": "12 min Lesen"
+          }
+        },
+        {
+          "id": "lesson-2-5-video",
+          "title": {
+            "es": "Video: Operaciones con Matrices",
+            "en": "Video: Operations with Matrices",
+            "fr": "Vidéo : Opérations avec les matrices",
+            "it": "Video: Operazioni con le matrici",
+            "de": "Video: Operationen mit Matrizen"
+          },
+          "content_type": "video",
+          "video_url": "https://www.youtube.com/embed/example-matrix-ops",
+          "description": {
+            "es": "Refuerzo visual sobre suma, multiplicación y transposición de matrices",
+            "en": "Visual reinforcement on addition, multiplication and transposition of matrices",
+            "fr": "Renforcement visuel sur l'addition, la multiplication et la transposition des matrices",
+            "it": "Rinforzo visivo su addizione, moltiplicazione e trasposizione di matrici",
+            "de": "Visuelle Verstärkung bei der Addition, Multiplikation und Transposition von Matrizen"
+          },
+          "duration": {
+            "es": "17:15",
+            "en": "17:15",
+            "fr": "17:15",
+            "it": "17:15",
+            "de": "17:15"
+          }
+        },
+        {
+          "id": "lesson-2-6",
+          "title": {
+            "es": "Sistemas de Ecuaciones Lineales",
+            "en": "Systems of Linear Equations",
+            "fr": "Systèmes d'équations linéaires",
+            "it": "Sistemi di equazioni lineari",
+            "de": "Lineare Gleichungssysteme"
+          },
+          "content_type": "text",
+          "content": {
+            "es": "<h3>¿Qué es un Sistema de Ecuaciones Lineales?</h3><p>Un sistema de ecuaciones lineales es un conjunto de dos o más ecuaciones lineales que comparten las mismas variables. El objetivo es encontrar los valores de las variables que satisfacen todas las ecuaciones simultáneamente.</p><p><strong>Ejemplo de sistema 2 × 2:</strong></p><p>2x + y = 5<br>x - y = 1</p><p><strong>Tipos de sistemas:</strong></p><ul><li><strong>Sistema compatible determinado:</strong> Tiene exactamente una solución</li><li><strong>Sistema compatible indeterminado:</strong> Tiene infinitas soluciones</li><li><strong>Sistema incompatible:</strong> No tiene solución</li></ul><h3>Métodos de Resolución</h3><p><strong>Método de sustitución:</strong> Despeja una variable en una ecuación y sustituye en la otra.</p><p><strong>Ejemplo:</strong> Del sistema anterior, despejamos x de la segunda ecuación: x = y + 1<br>Sustituimos en la primera: 2(y + 1) + y = 5 → 2y + 2 + y = 5 → 3y = 3 → y = 1<br>Luego x = 1 + 1 = 2. Solución: (2, 1)</p><p><strong>Método de eliminación:</strong> Suma o resta ecuaciones para eliminar una variable.</p><p><strong>Ejemplo:</strong> Sumamos las dos ecuaciones directamente:<br>(2x + y) + (x - y) = 5 + 1 → 3x = 6 → x = 2<br>Sustituimos en cualquier ecuación: 2(2) + y = 5 → 4 + y = 5 → y = 1</p><p><strong>Método de matrices:</strong> Representa el sistema como AX = B, donde A es la matriz de coeficientes, X es el vector de variables y B es el vector de términos independientes.</p><p>Para nuestro ejemplo:<br>A = ⎡2   1⎤, X = ⎡x⎤, B = ⎡5⎤<br>    ⎢1  -1⎥      ⎢y⎥      ⎢1⎥</p><p>La solución sería X = A⁻¹B (si A es invertible)</p><h3>Interpretación Geométrica</h3><p>En dos dimensiones, cada ecuación representa una recta. La solución del sistema es el punto de intersección de las rectas:</p><ul><li>Una solución: las rectas se cortan en un punto</li><li>Infinitas soluciones: las rectas son coincidentes</li><li>Sin solución: las rectas son paralelas</li></ul>",
+            "en": "<h3>what is a System of Linear Equations?</h3><p>A system of linear equations is a set of two or more linear equations that share the same variables. The objective is to find the values of the variables that satisfy all the equations simultaneously.</p><p><strong>Example of a 2 × 2 system:</strong></p><p>2x + y = 5<br>x - y = 1</p><p><strong>Types of systems:</strong></p><ul><li><strong>Determined compatible system:</strong> has exactly one solution</li><li><strong>Indeterminate compatible system:</strong> It has infinite solutions<strong></strong> </li><li><strong>Incompatible system:</strong> It has no solution</li></ul><h3>Solving Methods</h3><p><strong>Substitution method:</strong> Clear a variable in one equation and substitute in the other.</p><p><strong>Example:</strong> From the previous system, we clear x from the second equation: x = y + 1<br>We substitute into the first equation: 2(y + 1) + y = 5 → 2y + 2 + 2 + y = 5 → 3y = 3 → y = 1<br>Then x = 1 + 1 = 2. Solution: (2, 1)</p><p><strong>Elimination method:</strong> Add or subtract equations to eliminate a variable.</p><p><strong>Example:</strong> We add the two equations directly:<br>(2x + y) + (x - y) = 5 + 1 → 3x = 6 → x = 2<br>Substitute in any equation: 2(2) + y = 5 → 4 + y = 5 → y = 1</p><p><strong>Matrix method:</strong> represent the system as AX = B, where A is the coefficient matrix, X is the vector of variables, and B is the vector of independent terms.</p><p>For our example:<br>A = ⎡2 1⎤, X = ⎡x⎤, B = ⎡5⎤<br>    ⎢1 -1⎥ ⎢y⎥ ⎢1⎥</p><p>The solution would be X = A-¹B (if A is invertible)</p><h3>Geometric Interpretation</h3><p>In two dimensions, each equation represents a line. The solution of the system is the intersection point of the lines:</p><ul><li>One solution: the lines intersect at a point</li><li>Infinite solutions: the lines are coincident</li><li>No solution: the lines are parallel</li></ul>",
+            "fr": "<h3>qu'est-ce qu'un système d'équations linéaires ?</h3><p>Un système d'équations linéaires est un ensemble de deux équations linéaires ou plus qui partagent les mêmes variables. L'objectif est de trouver les valeurs des variables qui satisfont simultanément toutes les équations.</p><p><strong>Exemple d'un système 2 × 2 :</strong></p><p>2x + y = 5<br>x - y = 1</p><p><strong>Types de systèmes :</strong></p><ul><li><strong>Système compatible déterminé :</strong> possède exactement une solution</li><li><strong>Système compatible indéterminé :</strong> il a une infinité de solutions<strong></strong> </li><li><strong>Système incompatible :</strong> il n'a pas de solution</li></ul><h3>Méthodes de résolution</h3><p><strong>Méthode de substitution : on</strong> supprime une variable dans une équation et on la remplace dans l'autre.</p><p><strong>Exemple :</strong> dans le système précédent, nous supprimons x de la deuxième équation : x = y + 1<br>Substituer dans la première équation : 2(y + 1) + y = 5 → 2y + 2 + 2 + y = 5 → 3y = 3 → y = 1<br>Alors x = 1 + 1 = 2. Solution : (2, 1)</p><p><strong>Méthode d'élimination :</strong> ajouter ou soustraire des équations pour éliminer une variable.</p><p><strong>Exemple :</strong> nous additionnons directement les deux équations :<br>(2x + y) + (x - y) = 5 + 1 → 3x = 6 → x = 2<br>Substituer dans l'une ou l'autre équation : 2(2) + y = 5 → 4 + y = 5 → y = 1</p><p><strong>Méthode matricielle :</strong> représentez le système sous la forme AX = B, où A est la matrice des coefficients, X est le vecteur des variables et B est le vecteur des termes indépendants.</p><p>Pour notre exemple :<br>A = ⎡2 1⎤, X = ⎡x⎤, B = ⎡5⎤<br>    ⎢1 -1⎥ ⎢y⎥ ⎢1⎥</p><p>La solution serait X = A-¹B (si A est inversible)</p><h3>Interprétation géométrique</h3><p>En deux dimensions, chaque équation représente une droite. La solution du système est le point d'intersection des droites :</p><ul><li>Une solution : les droites se coupent en un point</li><li>Une infinité de solutions : les droites coïncident</li><li>Pas de solution : les droites sont parallèles</li></ul>",
+            "it": "<h3>che cos'è un sistema di equazioni lineari?</h3><p>Un sistema di equazioni lineari è un insieme di due o più equazioni lineari che condividono le stesse variabili. L'obiettivo è trovare i valori delle variabili che soddisfano contemporaneamente tutte le equazioni.</p><p><strong>Esempio di un sistema 2 × 2:</strong></p><p>2x + y = 5<br>x - y = 1</p><p><strong>Tipi di sistemi:</strong></p><ul><li><strong>Sistema compatibile determinato:</strong> ha esattamente una soluzione</li><li><strong>Sistema compatibile indeterminato:</strong> ha un numero infinito di soluzioni</li><li><strong>Sistema incompatibile:</strong> non ha soluzioni<strong></strong> </li></ul><h3>Metodi risolutivi</h3><p><strong>Metodo della sostituzione:</strong> cancellare una variabile in un'equazione e sostituirla nell'altra.</p><p><strong>Esempio:</strong> dal sistema precedente, cancelliamo x dalla seconda equazione: x = y + 1<br>Sostituiamo nella prima equazione: 2(y + 1) + y = 5 → 2y + 2 + 2 + y = 5 → 3y = 3 → y = 1<br>Allora x = 1 + 1 = 2. Soluzione: (2, 1)</p><p><strong>Metodo di eliminazione:</strong> aggiungere o sottrarre equazioni per eliminare una variabile.</p><p><strong>Esempio:</strong> aggiungiamo direttamente le due equazioni:<br>(2x + y) + (x - y) = 5 + 1 → 3x = 6 → x = 2<br>Sostituire in qualsiasi equazione: 2(2) + y = 5 → 4 + y = 5 → y = 1</p><p><strong>Metodo matriciale:</strong> rappresentare il sistema come AX = B, dove A è la matrice dei coefficienti, X è il vettore delle variabili e B è il vettore dei termini indipendenti.</p><p>Per il nostro esempio:<br>A = ⎡2 1⎤, X = ⎡x⎤, B = ⎡5⎤<br>    ⎢1 -1⎥ ⎢y⎥ ⎢1⎥</p><p>La soluzione sarebbe X = A-¹B (se A è invertibile)</p><h3>Interpretazione geometrica</h3><p>In due dimensioni, ogni equazione rappresenta una retta. La soluzione del sistema è il punto di intersezione delle rette:</p><ul><li>Una soluzione: le rette si intersecano in un punto</li><li>Infinite soluzioni: le rette sono coincidenti</li><li>Nessuna soluzione: le rette sono parallele</li></ul>",
+            "de": "<h3>was ist ein System von linearen Gleichungen?</h3><p>Ein System linearer Gleichungen ist ein Satz von zwei oder mehr linearen Gleichungen, die dieselben Variablen enthalten. Das Ziel ist es, die Werte der Variablen zu finden, die alle Gleichungen gleichzeitig erfüllen.</p><p><strong>Beispiel für ein 2 × 2-System:</strong></p><p>2x + y = 5<br>x - y = 1</p><p><strong>Arten von Systemen:</strong></p><ul><li><strong>Bestimmtes kompatibles System:</strong> Hat genau eine Lösung</li><li><strong>Unbestimmtes kompatibles System:</strong> Hat unendlich viele Lösungen</li><li><strong>Unverträgliches System:</strong> Es hat keine Lösung</li></ul><h3>Methoden zum Lösen</h3><p><strong>Substitutionsmethode:</strong> Streichen Sie eine Variable in einer Gleichung und ersetzen Sie sie in der anderen.</p><p><strong>Beispiel:</strong> Aus dem vorherigen System streichen wir x aus der zweiten Gleichung: x = y + 1<br>Einsetzen in die erste Gleichung: 2(y + 1) + y = 5 → 2y + 2 + 2 + y = 5 → 3y = 3 → y = 1<br>Dann ist x = 1 + 1 = 2. Lösung: (2, 1)</p><p><strong>Eliminationsmethode:</strong> Addiere oder subtrahiere Gleichungen, um eine Variable zu eliminieren.</p><p><strong>Beispiel:</strong> Wir addieren die beiden Gleichungen direkt:<br>(2x + y) + (x - y) = 5 + 1 → 3x = 6 → x = 2<br>Einsetzen in eine beliebige Gleichung: 2(2) + y = 5 → 4 + y = 5 → y = 1</p><p><strong>Matrixmethode:</strong> Stellen Sie das System als AX = B dar, wobei A die Koeffizientenmatrix, X der Vektor der Variablen und B der Vektor der unabhängigen Terme ist.</p><p>Für unser Beispiel:<br>A = ⎡2 1⎤, X = ⎡x⎤, B = ⎡5⎤<br>    ⎢1 -1⎥ ⎢y⎥ ⎢1⎥</p><p>Die Lösung wäre X = A-¹B (wenn A invertierbar ist)</p><h3>Geometrische Deutung</h3><p>In zwei Dimensionen stellt jede Gleichung eine Linie dar. Die Lösung des Systems ist der Schnittpunkt der Geraden:</p><ul><li>Eine Lösung: Die Geraden schneiden sich in einem Punkt</li><li>Unendliche Lösungen: die Linien fallen zusammen</li><li>Keine Lösung: die Geraden sind parallel</li></ul>"
+          },
+          "duration": {
+            "es": "Lectura de 10 min",
+            "en": "10 min reading",
+            "fr": "10 min de lecture",
+            "it": "10 minuti di lettura",
+            "de": "10 min Lesen"
+          }
+        },
+        {
+          "id": "lesson-2-6-video",
+          "title": {
+            "es": "Video: Sistemas de Ecuaciones Lineales",
+            "en": "Video: Systems of Linear Equations",
+            "fr": "Vidéo : Systèmes d'équations linéaires",
+            "it": "Video: Sistemi di equazioni lineari",
+            "de": "Video: Lineare Gleichungssysteme"
+          },
+          "content_type": "video",
+          "video_url": "https://www.youtube.com/embed/example-systems",
+          "description": {
+            "es": "Refuerzo visual sobre métodos de resolución de sistemas lineales",
+            "en": "Visual reinforcement on methods for solving linear systems",
+            "fr": "Renforcement visuel des méthodes de résolution des systèmes linéaires",
+            "it": "Rinforzo visivo sui metodi di risoluzione dei sistemi lineari",
+            "de": "Visuelle Verstärkung von Methoden zur Lösung linearer Systeme"
+          },
+          "duration": {
+            "es": "14:45",
+            "en": "14:45",
+            "fr": "14:45",
+            "it": "14:45",
+            "de": "14:45"
+          }
+        },
+        {
+          "id": "lesson-2-7",
+          "title": {
+            "es": "Ejercicios Prácticos Integradores",
+            "en": "Integrating Practical Exercises",
+            "fr": "Intégration d'exercices pratiques",
+            "it": "Integrazione di esercizi pratici",
+            "de": "Integration von praktischen Übungen"
+          },
+          "content_type": "text",
+          "content": {
+            "es": "<h3>Problemas de Aplicación</h3><p>Ahora aplicaremos todos los conceptos aprendidos para resolver problemas del mundo real.</p><p><strong>Problema 1: Mezcla de Soluciones</strong></p><p>Tenemos dos soluciones de sal: la solución A contiene 20% de sal y la solución B contiene 50% de sal. ¿Cuántos litros de cada solución debemos mezclar para obtener 10 litros de una solución con 35% de sal?</p><p><strong>Solución:</strong> Sea x = litros de solución A, y = litros de solución B<br>Ecuación 1 (volumen total): x + y = 10<br>Ecuación 2 (contenido de sal): 0.20x + 0.50y = 0.35(10) = 3.5<br>Resolviendo: x = 5 litros, y = 5 litros</p><p><strong>Problema 2: Análisis de Circuitos Eléctricos</strong></p><p>En un circuito simple con dos resistencias en paralelo, la resistencia total Rₜ está dada por:<br>1/Rₜ = 1/R₁ + 1/R₂<br>Si R₁ = 4Ω y Rₜ = 2Ω, encuentra R₂.</p><p><strong>Solución:</strong> 1/2 = 1/4 + 1/R₂ → 1/R₂ = 1/2 - 1/4 = 1/4 → R₂ = 4Ω</p><p><strong>Problema 3: Transformación Geométrica</strong></p><p>Dado el vector v = (2, 3) y la matriz de rotación:<br>A = ⎡cos(90°)  -sin(90°)⎤ = ⎡0  -1⎤<br>    ⎢sin(90°)   cos(90°)⎥   ⎢1   0⎥<br>Calcula Av (rotación de 90° en sentido antihorario).</p><p><strong>Solución:</strong> Av = ⎡0  -1⎤ ⎡2⎤ = ⎡(0)(2) + (-1)(3)⎤ = ⎡-3⎤<br>         ⎢1   0⎥ ⎢3⎥   ⎢(1)(2) + (0)(3) ⎥   ⎢ 2⎥</p><h3>Consejos para el Estudio</h3><ul><li>Practica regularmente con ejercicios de dificultad creciente</li><li>Verifica siempre tus respuestas sustituyendo en las ecuaciones originales</li><li>Dibuja diagramas para problemas geométricos</li><li>Usa software como GeoGebra o calculadoras matriciales para verificar resultados</li><li>Enfócate en entender los conceptos, no solo en memorizar procedimientos</li></ul>",
+            "en": "<h3>Application Problems</h3><p>We will now apply all the concepts learned to solve real-world problems.</p><p><strong>Problem 1: Mixing Solutions</strong></p><p>We have two salt solutions: solution A contains 20% salt and solution B contains 50% salt. How many liters of each solution should we mix to obtain 10 liters of a solution with 35% salt?</p><p><strong>Solution:</strong> Let x = liters of solution A, y = liters of solution B<br>Equation 1 (total volume): x + y = 10<br>Equation 2 (salt content): 0.20x + 0.50y = 0.35(10) = 3.5<br>Solving: x = 5 liters, y = 5 liters</p><p><strong>Problem 2: Analysis of Electrical Circuits</strong></p><p>In a simple circuit with two resistors in parallel, the total resistance Rₜ is given by:<br>1/Rₜ = 1/R₁ + 1/R₂<br>If R₁ = 4Ω and Rₜ = 2Ω, find R₂.</p><p><strong>Solution:</strong> 1/2 = 1/4 + 1/R₂ → 1/R₂ = 1/2 - 1/4 = 1/4 → R₂ = 4Ω</p><p><strong>Problem 3: Geometric Transformation</strong></p><p>Given the vector v = (2, 3) and the rotation matrix:<br>A = ⎡cos(90°) -sin(90°)⎤ = ⎡0 -1⎤<br>    ⎢sin(90°) cos(90°)⎥ ⎢1 0⎥<br>Calculate Av (90° counterclockwise rotation).</p><p><strong>Solution:</strong> Av = ⎡0 -1⎤ ⎡2⎤ = ⎡(0)(2) + (-1)(3)⎤ = ⎡-3⎤<br>         ⎢1 0⎥ ⎢3⎥ ⎢(1)(2) + (0)(3) ⎥ ⎢ 2⎥</p><h3>Study Tips</h3><ul><li>Practice regularly with exercises of increasing difficulty</li><li>Always check your answers by substituting into the original equations</li><li>Draw diagrams for geometric problems</li><li>Use software such as GeoGebra or matrix calculators to verify results</li><li>Focus on understanding concepts, not just memorizing procedures</li></ul>",
+            "fr": "<h3>Problèmes d'application</h3><p>Nous allons maintenant appliquer tous les concepts que nous avons appris pour résoudre des problèmes du monde réel.</p><p><strong>Problème 1 : mélange de solutions</strong></p><p>Nous disposons de deux solutions salines : la solution A contient 20 % de sel et la solution B en contient 50 %. Combien de litres de chaque solution devons-nous mélanger pour obtenir 10 litres d'une solution saline à 35 % ?</p><p><strong>Solution :</strong> Soit x = litres de la solution A, y = litres de la solution B<br>Équation 1 (volume total) : x + y = 10<br>Équation 2 (teneur en sel) : 0,20x + 0,50y = 0,35(10) = 3,5<br>Résolution : x = 5 litres, y = 5 litres</p><p><strong>Problème 2 : Analyse des circuits électriques</strong></p><p>Dans un circuit simple avec deux résistances en parallèle, la résistance totale Rₜ est donnée par :<br>1/Rₜ = 1/R₁ + 1/R₂<br>Si R₁ = 4Ω et Rₜ = 2Ω, trouvez R₂.</p><p><strong>Solution :</strong> 1/2 = 1/4 + 1/R₂ → 1/R₂ = 1/2 - 1/4 = 1/4 → R₂ = 4Ω</p><p><strong>Problème 3 : Transformation géométrique</strong></p><p>Étant donné le vecteur v = (2, 3) et la matrice de rotation :<br>A = ⎡cos(90°) -sin(90°)⎤ = ⎡0 -1⎤<br>    ⎢sin(90°) cos(90°)⎥ ⎢1 0⎥<br>Calculer Av (rotation de 90° dans le sens inverse des aiguilles d'une montre).</p><p><strong>Solution :</strong> Av = ⎡0 -1⎤ ⎡2⎤ = ⎡(0)(2) + (-1)(3)⎤ = ⎡-3⎤<br>         ⎢1 0⎥ ⎢3⎥ ⎢(1)(2) + (0)(3) ⎥ ⎢ 2⎥</p><h3>Conseils pour l'étude</h3><ul><li>Entraînez-vous régulièrement avec des exercices de difficulté croissante</li><li>Vérifiez toujours vos réponses en les substituant aux équations originales</li><li>Dessinez des diagrammes pour les problèmes géométriques</li><li>Utilisez des logiciels tels que GeoGebra ou des calculatrices matricielles pour vérifier les résultats</li><li>Concentrez-vous sur la compréhension des concepts, et pas seulement sur la mémorisation des procédures</li></ul>",
+            "it": "<h3>Problemi di applicazione</h3><p>Ora applicheremo tutti i concetti appresi per risolvere problemi reali.</p><p><strong>Problema 1: Miscelazione di soluzioni</strong></p><p>Abbiamo due soluzioni saline: la soluzione A contiene il 20% di sale e la soluzione B contiene il 50% di sale. Quanti litri di ciascuna soluzione dobbiamo mescolare per ottenere 10 litri di una soluzione salina al 35%?</p><p><strong>Soluzione:</strong> Sia x = litri di soluzione A, y = litri di soluzione B<br>Equazione 1 (volume totale): x + y = 10<br>Equazione 2 (contenuto di sale): 0,20x + 0,50y = 0,35(10) = 3,5<br>Soluzione: x = 5 litri, y = 5 litri</p><p><strong>Problema 2: Analisi dei circuiti elettrici</strong></p><p>In un semplice circuito con due resistenze in parallelo, la resistenza totale Rₜ è data da:<br>1/Rₜ = 1/R₁ + 1/R₂<br>Se R₁ = 4Ω e Rₜ = 2Ω, trovare R₂.</p><p><strong>Soluzione:</strong> 1/2 = 1/4 + 1/R₂ → 1/R₂ = 1/2 - 1/4 = 1/4 → R₂ = 4Ω</p><p><strong>Problema 3: Trasformazione geometrica</strong></p><p>Dato il vettore v = (2, 3) e la matrice di rotazione:<br>A = ⎡cos(90°) -sin(90°)⎤ = ⎡0 -1⎤<br>    ⎢sin(90°) cos(90°)⎥ ⎢1 0⎥<br>Calcolare Av (rotazione di 90° in senso antiorario).</p><p><strong>Soluzione:</strong> Av = ⎡0 -1⎤ ⎡2⎤ = ⎡(0)(2) + (-1)(3)⎤ = ⎡-3⎤<br>         ⎢1 0⎥ ⎢3⎥ ⎢(1)(2) + (0)(3) ⎥ ⎢ 2⎥</p><h3>Suggerimenti per lo studio</h3><ul><li>Esercitarsi regolarmente con esercizi di difficoltà crescente</li><li>Controllare sempre le risposte sostituendole alle equazioni originali</li><li>Disegnare diagrammi per i problemi geometrici</li><li>Utilizzare software come GeoGebra o calcolatori di matrici per controllare i risultati</li><li>Concentrarsi sulla comprensione dei concetti, non solo sulla memorizzazione delle procedure</li></ul>",
+            "de": "<h3>Anwendungsprobleme</h3><p>Wir werden nun alle Konzepte, die wir gelernt haben, anwenden, um Probleme aus der realen Welt zu lösen.</p><p><strong>Problem 1: Mischen von Lösungen</strong></p><p>Wir haben zwei Salzlösungen: Lösung A enthält 20 % Salz und Lösung B enthält 50 % Salz. Wie viele Liter von jeder Lösung müssen wir mischen, um 10 Liter einer 35 %igen Salzlösung zu erhalten?</p><p><strong>Lösung:</strong> x = Liter der Lösung A, y = Liter der Lösung B<br>Gleichung 1 (Gesamtvolumen): x + y = 10<br>Gleichung 2 (Salzgehalt): 0,20x + 0,50y = 0,35(10) = 3,5<br>Lösen: x = 5 Liter, y = 5 Liter</p><p><strong>Aufgabe 2: Analyse von Stromkreisen</strong></p><p>In einer einfachen Schaltung mit zwei parallel geschalteten Widerständen ist der Gesamtwiderstand Rₜ gegeben durch:<br>1/Rₜ = 1/R₁ + 1/R₂<br>Wenn R₁ = 4Ω und Rₜ = 2Ω, finden Sie R₂.</p><p><strong>Lösung:</strong> 1/2 = 1/4 + 1/R₂ → 1/R₂ = 1/2 - 1/4 = 1/4 → R₂ = 4Ω</p><p><strong>Aufgabe 3: Geometrische Transformation</strong></p><p>Gegeben sei der Vektor v = (2, 3) und die Rotationsmatrix:<br>A = ⎡cos(90°) -sin(90°)⎤ = ⎡0 -1⎤<br>    ⎢sin(90°) cos(90°)⎥ ⎢1 0⎥<br>Berechnen Sie Av (Drehung um 90° gegen den Uhrzeigersinn).</p><p><strong>Lösung:</strong> Av = ⎡0 -1⎤ ⎡2⎤ = ⎡(0)(2) + (-1)(3)⎤ = ⎡-3⎤<br>         ⎢1 0⎥ ⎢3⎥ ⎢(1)(2) + (0)(3) ⎥ ⎢ 2⎥</p><h3>Lerntipps</h3><ul><li>Üben Sie regelmäßig mit Aufgaben von steigendem Schwierigkeitsgrad</li><li>Überprüfen Sie immer Ihre Antworten, indem Sie die ursprünglichen Gleichungen einsetzen</li><li>Zeichnen Sie Diagramme für geometrische Probleme</li><li>Verwenden Sie Software wie GeoGebra oder Matrizenrechner zur Überprüfung der Ergebnisse</li><li>Konzentrieren Sie sich darauf, Konzepte zu verstehen und nicht nur Verfahren auswendig zu lernen</li></ul>"
+          },
+          "duration": {
+            "es": "Lectura de 15 min",
+            "en": "15 min reading",
+            "fr": "15 min de lecture",
+            "it": "15 minuti di lettura",
+            "de": "15 min Lesen"
+          }
+        }
+      ]
+    }
+  ],
+  "branch": {
+    "es": "Ciencias Exactas",
+    "en": "Exact Sciences",
+    "fr": "Sciences exactes",
+    "it": "Scienze esatte",
+    "de": "Exakte Wissenschaften"
+  },
+  "intro": {
+    "es": "Las ciencias exactas abarcan matemáticas, física, química y disciplinas relacionadas que utilizan métodos rigurosos y cuantitativos para comprender el universo. Estas ciencias son la base del desarrollo tecnológico y científico moderno.",
+    "en": "Exact sciences encompass mathematics, physics, chemistry and related disciplines that use rigorous and quantitative methods to understand the universe. These sciences are the foundation of modern technological and scientific development.",
+    "fr": "Les sciences exactes englobent les mathématiques, la physique, la chimie et les disciplines connexes qui utilisent des méthodes rigoureuses et quantitatives pour comprendre l'univers. Ces sciences sont la base du développement technologique et scientifique moderne.",
+    "it": "Le scienze esatte comprendono matematica, fisica, chimica e discipline correlate che utilizzano metodi rigorosi e quantitativi per comprendere l'universo. Queste scienze sono la base dello sviluppo tecnologico e scientifico moderno.",
+    "de": "Exakte Wissenschaften umfassen Mathematik, Physik, Chemie und verwandte Disziplinen, die rigorose und quantitative Methoden verwenden, um das Universum zu verstehen. Diese Wissenschaften sind die Grundlage der modernen technologischen und wissenschaftlichen Entwicklung."
+  }
+}

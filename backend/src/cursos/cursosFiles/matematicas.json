@@ -1,0 +1,165 @@
+{
+  "id": "intro-matematicas",
+  "title": "Introducción a las Matemáticas Superiores",
+  "career": "Matemáticas",
+  "difficulty": "intermediate",
+  "duration": "4 horas 30 minutos",
+  "description": "Curso introductorio que prepara a estudiantes para matemáticas superiores. Explora los fundamentos de la teoría de conjuntos, desarrolla habilidades de razonamiento lógico y pensamiento crítico, y aprende a crear modelos matemáticos que representan fenómenos reales. Ideal para futuros matemáticos, ingenieros, científicos y cualquiera interesado en comprender las estructuras profundas de las matemáticas.",
+  "thumbnail_url": "/img/courses/matematicas-intro.png",
+  "tags": ["Matemáticas", "Teoría de Conjuntos", "Lógica", "Pensamiento Crítico", "Modelos Matemáticos"],
+  "modules": [
+    {
+      "title": "Teoría de Conjuntos: Fundamentos de la Matemática Moderna",
+      "duration": "1 hora 30 minutos",
+      "lessons": [
+        {
+          "id": "lesson-1-1",
+          "title": "¿Qué es un Conjunto?",
+          "content_type": "text",
+          "content": "<h3>El Concepto Fundamental</h3><p>Un conjunto es una colección bien definida de objetos distintos considerados como una unidad. Es uno de los conceptos más fundamentales de las matemáticas modernas, y a partir de él se puede construir prácticamente toda la matemática. La teoría de conjuntos, desarrollada principalmente por Georg Cantor a finales del siglo XIX, revolucionó nuestra comprensión de las estructuras matemáticas.</p><h3>Notación y Representación</h3><p>Los conjuntos se representan con letras mayúsculas (A, B, C, etc.) y sus elementos con letras minúsculas. Los elementos se escriben entre llaves {}.</p><p><strong>Ejemplo:</strong> A = {1, 2, 3, 4, 5} es un conjunto que contiene cinco números.</p><p><strong>Formas de definir un conjunto:</strong></p><ul><li><strong>Por Extensión:</strong> Listando todos los elementos. A = {rojo, azul, verde}</li><li><strong>Por Comprensión:</strong> Describiendo una propiedad que cumplen los elementos. A = {x | x es un color primario}</li></ul><p>Para indicar que un elemento pertenece a un conjunto usamos el símbolo ∈. Por ejemplo, 1 ∈ A significa \"1 pertenece a A\". Si no pertenece, usamos ∉.</p><h3>Tipos de Conjuntos</h3><p><strong>Conjunto Finito:</strong> Tiene un número limitado de elementos. {1, 2, 3, 4, 5} tiene 5 elementos.</p><p><strong>Conjunto Infinito:</strong> Tiene infinitos elementos. Los números naturales ℕ = {1, 2, 3, 4, ...} es infinito.</p><p><strong>Conjunto Vacío (∅):</strong> No contiene ningún elemento. ∅ = {}. Ejemplo: el conjunto de números reales que satisfacen x² = -1 (en números reales) es vacío.</p><p><strong>Conjunto Universo (U):</strong> Contiene todos los elementos que estamos considerando en un problema particular. Si estudiamos números entre 1 y 10, entonces U = {1, 2, 3, ..., 10}.</p><p><strong>Conjunto de Potencia (P(A)):</strong> El conjunto de todos los subconjuntos de A. Si A = {1, 2}, entonces P(A) = {∅, {1}, {2}, {1,2}}. Nota: Si A tiene n elementos, P(A) tiene 2ⁿ elementos.</p><h3>Relaciones Entre Conjuntos</h3><p><strong>Subconjunto (⊆):</strong> A es subconjunto de B si todo elemento de A está en B. Escribimos A ⊆ B. Si A ⊆ B pero A ≠ B, entonces A es un subconjunto propio, denotado A ⊂ B.</p><p>Ejemplo: {1, 2} ⊆ {1, 2, 3}</p><p><strong>Igualdad de Conjuntos:</strong> Dos conjuntos son iguales si tienen exactamente los mismos elementos. A = B si y solo si A ⊆ B y B ⊆ A.</p><p><strong>Cardinalidad:</strong> El número de elementos en un conjunto. Se denota |A| o #A. Ejemplo: si A = {a, b, c}, entonces |A| = 3.</p><h3>Importancia de la Teoría de Conjuntos</h3><p>La teoría de conjuntos es tan fundamental porque:</p><ul><li>Proporciona un lenguaje común para todas las matemáticas</li><li>Permite definir conceptos como números, funciones y relaciones de forma rigurosa</li><li>Establece los axiomas sobre los que se basa toda la matemática moderna</li><li>Tiene aplicaciones en lógica, computación, probabilidad y muchas otras áreas</li></ul>",
+          "duration": "Lectura de 13 min"
+        },
+        {
+          "id": "lesson-1-1-video",
+          "title": "Video: Introducción a Conjuntos",
+          "content_type": "video",
+          "video_url": "https://www.youtube.com/embed/F9MxZe6s05c",
+          "duration": "12:45",
+          "description": "Refuerzo visual sobre qué son los conjuntos, notación y operaciones básicas"
+        },
+        {
+          "id": "lesson-1-2",
+          "title": "Operaciones con Conjuntos",
+          "content_type": "text",
+          "content": "<h3>Operaciones Básicas</h3><p><strong>Unión (A ∪ B):</strong> El conjunto que contiene todos los elementos que están en A o en B (o en ambos).</p><p>Ejemplo: A = {1, 2, 3}, B = {3, 4, 5} → A ∪ B = {1, 2, 3, 4, 5}</p><p><strong>Intersección (A ∩ B):</strong> El conjunto de elementos que están TANTO en A COMO en B.</p><p>Ejemplo: A = {1, 2, 3}, B = {3, 4, 5} → A ∩ B = {3}</p><p><strong>Diferencia (A - B o A \\ B):</strong> El conjunto de elementos que están en A pero NO en B.</p><p>Ejemplo: A = {1, 2, 3}, B = {3, 4, 5} → A - B = {1, 2}</p><p><strong>Complemento (A' o Aᶜ):</strong> El conjunto de todos los elementos del universo U que NO están en A.</p><p>Ejemplo: Si U = {1, 2, 3, 4, 5} y A = {1, 2}, entonces A' = {3, 4, 5}</p><p><strong>Diferencia Simétrica (A △ B):</strong> El conjunto de elementos que están en A o en B pero NO en ambos.</p><p>Ejemplo: A = {1, 2, 3}, B = {3, 4, 5} → A △ B = {1, 2, 4, 5}</p><p><strong>Producto Cartesiano (A × B):</strong> El conjunto de todos los pares ordenados (a, b) donde a ∈ A y b ∈ B.</p><p>Ejemplo: A = {1, 2}, B = {a, b} → A × B = {(1,a), (1,b), (2,a), (2,b)}</p><h3>Propiedades de las Operaciones</h3><p><strong>Conmutatividad:</strong> A ∪ B = B ∪ A y A ∩ B = B ∩ A</p><p><strong>Asociatividad:</strong> (A ∪ B) ∪ C = A ∪ (B ∪ C) y (A ∩ B) ∩ C = A ∩ (B ∩ C)</p><p><strong>Distributividad:</strong> A ∩ (B ∪ C) = (A ∩ B) ∪ (A ∩ C)</p><p><strong>Leyes de De Morgan:</strong></p><ul><li>(A ∪ B)' = A' ∩ B'</li><li>(A ∩ B)' = A' ∪ B'</li></ul><p><strong>Identidad:</strong> A ∪ ∅ = A y A ∩ U = A</p><h3>Diagramas de Venn</h3><p>Una herramienta visual para representar conjuntos y sus operaciones. Los conjuntos se representan como círculos o regiones en un rectángulo que representa el universo. Las intersecciones, uniones y complementos se visualizan fácilmente.</p><p><strong>Beneficios:</strong> Ayudan a entender relaciones entre conjuntos, verificar propiedades y resolver problemas de conteo.</p>",
+          "duration": "Lectura de 11 min"
+        },
+        {
+          "id": "lesson-1-2-video",
+          "title": "Video: Operaciones con Conjuntos",
+          "content_type": "video",
+          "video_url": "https://www.youtube.com/embed/LCBtS5ijr_I",
+          "duration": "14:20",
+          "description": "Refuerzo visual sobre unión, intersección, diferencia y diagramas de Venn"
+        },
+        {
+          "id": "lesson-1-3",
+          "title": "Infinito y la Paradoja de Russell",
+          "content_type": "text",
+          "content": "<h3>El Infinito en Matemáticas</h3><p>Georg Cantor revolucionó nuestro entendimiento del infinito demostrando que no todos los infinitos son iguales. Hay infinitos \"más grandes\" que otros.</p><p><strong>Conjuntos Numerables:</strong> Un conjunto es numerable si puede ponerse en correspondencia uno-a-uno con los números naturales. Los números enteros ℤ, los racionales ℚ, e incluso los números naturales ℕ son numerables, aunque parezcan de diferente \"tamaño\".</p><p><strong>Conjuntos No Numerables:</strong> Los números reales ℝ NO son numerables. Cantor demostró que hay \"más\" números reales que números naturales usando el método diagonal de Cantor. Esto fue revolucionario porque demostró que el infinito tiene grados.</p><p><strong>Cardinalidad Infinita:</strong> Usamos ℵ₀ (alef cero) para la cardinalidad de conjuntos numerables infinitos. La cardinalidad de los números reales es c (la cardinalidad del continuo), y c > ℵ₀.</p><h3>La Paradoja de Russell</h3><p>Bertrand Russell descubrió una paradoja fundamental en la teoría de conjuntos que obligó a los matemáticos a ser más cuidadosos con los axiomas.</p><p><strong>La Paradoja:</strong> Considera el conjunto R = {x | x ∉ x} (el conjunto de todos los conjuntos que no son miembros de sí mismos).</p><p>Pregunta: ¿R ∈ R?</p><ul><li>Si R ∈ R, entonces por definición de R, R ∉ R. Contradicción.</li><li>Si R ∉ R, entonces R satisface la condición de pertenencia a R, así que R ∈ R. Contradicción.</li></ul><p>Esta paradoja mostró que no todos los conjuntos pueden ser elementos de otros conjuntos. Llevó al desarrollo de la teoría axiomática de Zermelo-Fraenkel (ZF), que establece reglas estrictas sobre qué conjuntos pueden existir y así evita estas paradojas.</p><h3>Implicaciones Filosóficas</h3><p>La teoría de conjuntos y sus paradojas han tenido profundas implicaciones para la filosofía de las matemáticas:</p><ul><li>¿Existen los conjuntos en la realidad o son solo construcciones mentales?</li><li>¿Qué axiomas son \"verdaderos\" y cuáles son convenciones?</li><li>¿Es consistente toda la matemática? (Esta es la pregunta que Gödel respondió negativamente.)</li></ul>",
+          "duration": "Lectura de 11 min"
+        },
+        {
+          "id": "lesson-1-3-video",
+          "title": "Video: Infinito y Paradojas",
+          "content_type": "video",
+          "video_url": "https://www.youtube.com/embed/_-mGQ3gqE3o",
+          "duration": "13:15",
+          "description": "Refuerzo visual sobre conjuntos infinitos, numerabilidad y la paradoja de Russell"
+        }
+      ]
+    },
+    {
+      "title": "Razonamiento Lógico y Pensamiento Crítico",
+      "duration": "1 hora 30 minutos",
+      "lessons": [
+        {
+          "id": "lesson-2-1",
+          "title": "Lógica Proposicional: Los Bloques de Construcción",
+          "content_type": "text",
+          "content": "<h3>Proposiciones Lógicas</h3><p>Una proposición es una afirmación que es VERDADERA o FALSA, pero no ambas. En lógica matemática, trabajamos con proposiciones que tienen un valor de verdad definido.</p><p><strong>Ejemplos:</strong></p><ul><li>\"2 + 2 = 4\" es una proposición VERDADERA</li><li>\"El gato es azul\" es una proposición FALSA</li><li>\"¿Cuál es tu nombre?\" NO es proposición (es una pregunta)</li><li>\"Esta oración es falsa\" NO es proposición (es autorreferencial, causa paradoja)</li></ul><p>Denotamos proposiciones con letras minúsculas: p, q, r, etc.</p><h3>Conectivos Lógicos</h3><p>Los conectivos lógicos permiten combinar proposiciones simples en proposiciones complejas.</p><p><strong>Negación (¬p o ~p):</strong> La negación de una proposición tiene el valor de verdad opuesto.</p><ul><li>Si p es verdadera, ¬p es falsa</li><li>Si p es falsa, ¬p es verdadera</li><li>Ejemplo: p = \"Llueve\", ¬p = \"No llueve\"</li></ul><p><strong>Conjunción (p ∧ q, \"y\"):</strong> Es verdadera SOLO si ambas proposiciones son verdaderas.</p><ul><li>V ∧ V = V</li><li>V ∧ F = F</li><li>F ∧ V = F</li><li>F ∧ F = F</li></ul><p><strong>Disyunción (p ∨ q, \"o\"):</strong> Es verdadera si al menos una proposición es verdadera.</p><ul><li>V ∨ V = V</li><li>V ∨ F = V</li><li>F ∨ V = V</li><li>F ∨ F = F</li></ul><p><strong>Implicación (p → q, \"si...entonces\"):</strong> Es falsa SOLO cuando p es verdadera pero q es falsa.</p><ul><li>V → V = V</li><li>V → F = F</li><li>F → V = V</li><li>F → F = V</li></ul><p>Nota: Una implicación con premisa falsa es siempre verdadera (esto confunde a muchos).</p><p><strong>Doble Implicación (p ↔ q, \"si y solo si\"):</strong> Es verdadera cuando ambas proposiciones tienen el mismo valor de verdad.</p><ul><li>V ↔ V = V</li><li>V ↔ F = F</li><li>F ↔ V = F</li><li>F ↔ F = V</li></ul><h3>Tablas de Verdad</h3><p>Las tablas de verdad muestran todas las combinaciones posibles de valores de verdad para las proposiciones y el resultado de aplicar conectivos lógicos. Son herramientas esenciales para verificar la validez de argumentos.</p><p><strong>Ejemplo - Tabla para (p ∧ q) ∨ ¬p:</strong></p><p>| p | q | p ∧ q | ¬p | (p ∧ q) ∨ ¬p |<br>|---|---|-------|----|----|<br>| V | V | V | F | V |<br>| V | F | F | F | F |<br>| F | V | F | V | V |<br>| F | F | F | V | V |</p><h3>Tautologías, Contradicciones y Contingencias</h3><p><strong>Tautología:</strong> Proposición que es siempre verdadera. Ejemplo: p ∨ ¬p (ley del tercio excluido)</p><p><strong>Contradicción:</strong> Proposición que es siempre falsa. Ejemplo: p ∧ ¬p</p><p><strong>Contingencia:</strong> Proposición que puede ser verdadera o falsa según los valores de sus componentes. Ejemplo: p ∨ q</p>",
+          "duration": "Lectura de 13 min"
+        },
+        {
+          "id": "lesson-2-1-video",
+          "title": "Video: Lógica Proposicional",
+          "content_type": "video",
+          "video_url": "https://www.youtube.com/embed/0q-tXXj7LkQ",
+          "duration": "15:30",
+          "description": "Refuerzo visual sobre proposiciones, conectivos lógicos y tablas de verdad"
+        },
+        {
+          "id": "lesson-2-2",
+          "title": "Razonamiento Deductivo e Inductivo",
+          "content_type": "text",
+          "content": "<h3>Razonamiento Deductivo</h3><p>El razonamiento deductivo parte de premisas generales para llegar a conclusiones específicas. Si las premisas son verdaderas y el razonamiento es válido, la conclusión DEBE ser verdadera.</p><p><strong>Silogismo Clásico:</strong></p><ul><li>Premisa 1 (mayor): \"Todos los hombres son mortales\"</li><li>Premisa 2 (menor): \"Sócrates es hombre\"</li><li>Conclusión: \"Sócrates es mortal\"</li></ul><p>Este razonamiento es válido: si las premisas son verdaderas, la conclusión es necesariamente verdadera.</p><p><strong>Forma General:</strong> Si P entonces Q. P es verdad. Por lo tanto, Q es verdad.</p><p><strong>Ventajas del razonamiento deductivo:</strong> Proporciona certeza si las premisas son correctas. Es el tipo de razonamiento usado en matemáticas para pruebas.</p><p><strong>Limitación:</strong> Las conclusiones no pueden ser más generales que las premisas.</p><h3>Razonamiento Inductivo</h3><p>El razonamiento inductivo parte de casos específicos para llegar a conclusiones generales. Las conclusiones son probables pero no absolutas.</p><p><strong>Ejemplo:</strong></p><ul><li>Observación 1: El cobre conduce electricidad</li><li>Observación 2: El hierro conduce electricidad</li><li>Observación 3: La plata conduce electricidad</li><li>Conclusión inductiva: \"Todos los metales conducen electricidad\"</li></ul><p>Esta conclusión es muy probable pero no es absolutamente cierta (podría haber excepciones).</p><p><strong>Ventajas del razonamiento inductivo:</strong> Permite generalizaciones. Es cómo aprendemos de la experiencia. Es fundamental en la ciencia.</p><p><strong>Limitación:</strong> Nunca proporciona certeza absoluta. El siguiente caso podría ser una excepción.</p><h3>Razonamiento Abductivo</h3><p>El razonamiento abductivo propone la explicación más probable para un conjunto de observaciones.</p><p><strong>Ejemplo:</strong></p><ul><li>Observación: El piso está mojado</li><li>Explicación más probable: Llovió</li><li>Conclusión abductiva: \"Probablemente llovió\"</li></ul><p>Nota: Podría haber otras explicaciones (alguien limpió, se derramo agua, etc.) pero lluvia es la más probable.</p><h3>Falacias Lógicas Comunes</h3><p><strong>Ad Hominem:</strong> Atacar la persona en lugar del argumento. \"No creas lo que dice Juan sobre política porque es un sinvergüenza\".</p><p><strong>Falacia de la Autoridad:</strong> Asumir algo es verdad porque una autoridad lo dice. \"Einstein fue un genio, así que cualquier cosa que dijo debe ser verdad\".</p><p><strong>Argumento Circular:</strong> La conclusión se usa en la premisa. \"Dios existe porque la Biblia lo dice, y la Biblia es verdadera porque es la palabra de Dios\".</p><p><strong>Falsa Dicotomía:</strong> Presentar solo dos opciones cuando hay más. \"O estás conmigo o contra mí\".</p><p><strong>Generalización Precipitada:</strong> Hacer una conclusión general basada en muy pocos casos. \"Conocí a dos personas de ese país que eran deshonestas, así que todos lo son\".</p>",
+          "duration": "Lectura de 12 min"
+        },
+        {
+          "id": "lesson-2-2-video",
+          "title": "Video: Tipos de Razonamiento y Falacias",
+          "content_type": "video",
+          "video_url": "https://www.youtube.com/embed/U6YLKyqL1kA",
+          "duration": "14:00",
+          "description": "Refuerzo visual sobre razonamiento deductivo, inductivo y falacias lógicas"
+        },
+        {
+          "id": "lesson-2-3",
+          "title": "Pensamiento Crítico: Más Allá de la Lógica Pura",
+          "content_type": "text",
+          "content": "<h3>¿Qué es el Pensamiento Crítico?</h3><p>El pensamiento crítico es la capacidad de evaluar información y argumentos de manera objetiva y reflexiva, para formar juicios basados en evidencia sólida. Es más amplio que solo lógica formal; incluye análisis, evaluación, interpretación y explicación.</p><p><strong>Componentes del pensamiento crítico:</strong></p><ul><li><strong>Análisis:</strong> Descomponer un problema en partes constituyentes</li><li><strong>Evaluación:</strong> Juzgar la calidad de las pruebas y argumentos</li><li><strong>Interpretación:</strong> Entender el significado real, no solo superficial</li><li><strong>Explicación:</strong> Comunicar claramente tu razonamiento</li><li><strong>Inferencia:</strong> Derivar conclusiones lógicas basadas en evidencia</li></ul><h3>Técnicas para Desarrollar Pensamiento Crítico</h3><p><strong>1. Cuestiona Suposiciones:</strong> No aceptes nada como verdad sin preguntar por qué. \"¿Qué estoy asumiendo? ¿Es válida esa suposición?\"</p><p><strong>2. Busca Evidencia:</strong> Toda afirmación debe estar respaldada por evidencia. \"¿Cuál es la base para esta afirmación? ¿Es suficiente la evidencia?\"</p><p><strong>3. Considera Perspectivas Alternativas:</strong> Siempre hay múltiples formas de ver un problema. \"¿Cuál sería el argumento opuesto? ¿Tiene mérito?\"</p><p><strong>4. Identifica Sesgos:</strong> Todos tenemos sesgos. Ser consciente de ellos es crucial. \"¿Cuáles son mis prejuicios? ¿Cómo podrían estar afectando mi juicio?\"</p><p><strong>5. Solicita Clarificación:</strong> Si algo no está claro, pregunta. \"¿Qué quieres decir exactamente? ¿Puedes dar un ejemplo?\"</p><p><strong>6. Reconoce Incertidumbre:</strong> El pensamiento crítico implica honestidad sobre lo que no sabemos. \"No tengo suficiente información para concluir esto\".</p><h3>Pensamiento Crítico en Matemáticas</h3><p>En matemáticas, el pensamiento crítico significa:</p><ul><li>No solo memorizar fórmulas, sino entender POR QUÉ funcionan</li><li>Verificar tu trabajo y buscar errores lógicos</li><li>Considerar si tu respuesta tiene sentido en el contexto del problema</li><li>Evaluar si hay múltiples maneras de resolver un problema</li><li>Ser capaz de explicar tu razonamiento a otros</li></ul><p><strong>Ejemplo:</strong> Si resuelves una ecuación cuadrática y obtienes dos soluciones, pero el problema pregunta por \"la solución\", debes pensar críticamente sobre cuál es relevante en el contexto (quizás una es negativa y el contexto requiere números positivos).</p>",
+          "duration": "Lectura de 11 min"
+        },
+        {
+          "id": "lesson-2-3-video",
+          "title": "Video: Pensamiento Crítico y Análisis de Argumentos",
+          "content_type": "video",
+          "video_url": "https://www.youtube.com/embed/D0bczBUC82U",
+          "duration": "12:45",
+          "description": "Refuerzo visual sobre técnicas de pensamiento crítico y análisis de argumentos"
+        }
+      ]
+    },
+    {
+      "title": "Modelos Matemáticos: Traduciendo la Realidad a Ecuaciones",
+      "duration": "1 hora 30 minutos",
+      "lessons": [
+        {
+          "id": "lesson-3-1",
+          "title": "¿Qué es un Modelo Matemático?",
+          "content_type": "text",
+          "content": "<h3>La Esencia de la Modelación Matemática</h3><p>Un modelo matemático es una representación abstracta de un sistema real usando lenguaje matemático (ecuaciones, variables, funciones). Traduce un fenómeno complejo del mundo real en un lenguaje que podemos analizar, predecir y optimizar.</p><p><strong>Analogía:</strong> Un modelo matemático es como un mapa de un territorio. El mapa no ES el territorio, pero si está bien hecho, nos permite entender y navegar el territorio sin estar físicamente allí.</p><h3>Por Qué Modelamos</h3><p><strong>Comprensión:</strong> Modelar nos obliga a pensar profundamente sobre un sistema. \"¿Cuáles son las variables clave? ¿Cómo se relacionan?\"</p><p><strong>Predicción:</strong> Una vez que tenemos un modelo válido, podemos predecir comportamientos futuros. Los meteorólogos usan modelos matemáticos para predecir el clima.</p><p><strong>Optimización:</strong> Podemos usar modelos para encontrar las mejores soluciones. Una empresa usa modelos matemáticos para optimizar rutas de entrega y minimizar costos.</p><p><strong>Control:</strong> En ingeniería, los modelos permiten controlar sistemas. Los pilotos automáticos de aviones se basan en modelos matemáticos.</p><p><strong>Comunicación:</strong> Un modelo matemático comunica ideas de forma precisa y sin ambigüedad.</p><h3>Componentes de un Modelo Matemático</h3><p><strong>Variables:</strong> Representan cantidades que varían. En un modelo de población, la variable podría ser el tamaño de la población en el tiempo t: P(t).</p><p><strong>Parámetros:</strong> Constantes que caracterizan el sistema específico. En un modelo de crecimiento exponencial, la tasa de crecimiento r es un parámetro.</p><p><strong>Relaciones (Ecuaciones):</strong> Las reglas matemáticas que conectan variables y parámetros. Podrían ser ecuaciones algebraicas, diferenciales, lógicas, etc.</p><p><strong>Restricciones:</strong> Limitaciones del sistema. \"La población no puede ser negativa\", \"El costo no puede exceder el presupuesto\".</p><h3>Tipos de Modelos</h3><p><strong>Determinísticos:</strong> Producen un resultado único para un conjunto dado de entradas. No hay aleatoriedad. Ejemplo: F = ma (física clásica)</p><p><strong>Estocásticos (Probabilísticos):</strong> Incluyen elementos aleatorios. Producen diferentes resultados en diferentes ejecuciones. Ejemplo: Modelos de comportamiento del mercado de valores</p><p><strong>Estáticos:</strong> Describen un sistema en un momento específico. Ejemplo: Modelo de balance de un presupuesto anual</p><p><strong>Dinámicos:</strong> Describen cómo un sistema cambia en el tiempo. Ejemplo: Modelo de crecimiento de bacteria a través del tiempo</p><p><strong>Lineales:</strong> Las relaciones entre variables son líneas rectas o el sistema responde proporcionalmente. Más fáciles de resolver.</p><p><strong>No Lineales:</strong> Las relaciones son curvas complejas. Más difíciles pero más realistas para muchos fenómenos.</p>",
+          "duration": "Lectura de 12 min"
+        },
+        {
+          "id": "lesson-3-1-video",
+          "title": "Video: Introducción a Modelos Matemáticos",
+          "content_type": "video",
+          "video_url": "https://www.youtube.com/embed/dEjC1YLKq5M",
+          "duration": "13:20",
+          "description": "Refuerzo visual sobre qué son los modelos matemáticos y sus aplicaciones"
+        },
+        {
+          "id": "lesson-3-2",
+          "title": "Proceso de Modelación Matemática",
+          "content_type": "text",
+          "content": "<h3>Etapas del Proceso de Modelación</h3><p><strong>1. Identificación del Problema:</strong> Comprender claramente qué queremos modelar. \"¿Cuál es el fenómeno real que queremos representar? ¿Qué preguntas queremos responder?\"</p><p><strong>2. Formulación del Modelo:</strong> Identificar variables clave, parámetros y relaciones entre ellos. Esta es la etapa más creativa donde convertimos la realidad en ecuaciones.</p><p><strong>3. Resolución del Modelo:</strong> Aplicar técnicas matemáticas para obtener soluciones. Puede involucrar álgebra, cálculo, métodos numéricos, etc.</p><p><strong>4. Validación del Modelo:</strong> Comparar las predicciones del modelo con datos reales. \"¿El modelo reproduce adecuadamente el comportamiento observado?\"</p><p><strong>5. Refinamiento del Modelo:</strong> Si el modelo no es suficientemente preciso, volver a la etapa 2 para mejorarlo. Agregar más variables, cambiar relaciones, etc.</p><p><strong>6. Uso del Modelo:</strong> Una vez validado, usar el modelo para hacer predicciones, optimizar o entender mejor el sistema.</p><h3>Ejemplo: Modelo de Crecimiento Poblacional</h3><p><strong>Problema:</strong> Predecir cómo crece una población de bacterias en un cultivo.</p><p><strong>Variables:</strong> P(t) = población en el tiempo t</p><p><strong>Parámetros:</strong> r = tasa de crecimiento (constante)</p><p><strong>Relación:</strong> dP/dt = rP (la tasa de cambio es proporcional a la población actual)</p><p><strong>Solución:</strong> P(t) = P₀e^(rt), donde P₀ es la población inicial</p><p><strong>Validación:</strong> Comparar con datos experimentales de crecimiento bacteriano</p><p><strong>Refinamiento:</strong> Si el modelo exponencial no es realista para tiempos largos (los recursos son limitados), cambiar a modelo logístico: dP/dt = rP(1 - P/K)</p><h3>Errores Comunes en Modelación</h3><p><strong>Sobreajuste:</strong> Crear un modelo demasiado complejo que se ajusta perfectamente a datos existentes pero no generaliza bien.</p><p><strong>Subajuste:</strong> Modelo demasiado simple que no captura la complejidad del sistema real.</p><p><strong>Ignorar Suposiciones:</strong> No reconocer las limitaciones del modelo. Todo modelo hace suposiciones; es crucial saber cuáles son.</p><p><strong>Extrapolación Injustificada:</strong> Usar el modelo fuera del rango de condiciones para las que fue validado.</p>",
+          "duration": "Lectura de 11 min"
+        },
+        {
+          "id": "lesson-3-2-video",
+          "title": "Video: Proceso de Modelación",
+          "content_type": "video",
+          "video_url": "https://www.youtube.com/embed/wD-KgS_1XwQ",
+          "duration": "12:30",
+          "description": "Refuerzo visual sobre las etapas del proceso de modelación matemática"
+        },
+        {
+          "id": "lesson-3-3",
+          "title": "Aplicaciones de Modelos Matemáticos",
+          "content_type": "text",
+          "content": "<h3>Modelos en Ciencias Naturales</h3><p><strong>Física:</strong> Leyes de Newton, ecuaciones de Maxwell, mecánica cuántica. La física es quizás la ciencia que más éxito ha tenido con modelos matemáticos.</p><p><strong>Biología:</strong> Modelos de crecimiento poblacional, epidemiológicos (como el modelo SIR para propagación de enfermedades), genética de poblaciones.</p><p><strong>Química:</strong> Cinética química, modelos de reacciones, termodinámica.</p><p><strong>Ecología:</strong> Modelos de ecosistemas, relaciones depredador-presa, flujo de energía.</p><h3>Modelos en Ciencias Sociales</h3><p><strong>Economía:</strong> Modelos de oferta y demanda, crecimiento económico, teoría de juegos.</p><p><strong>Sociología:</strong> Modelos de difusión de información, redes sociales, dinámica de opiniones.</p><p><strong>Psicología:</strong> Modelos de aprendizaje, toma de decisiones, percepción.</p><h3>Modelos en Ingeniería y Tecnología</h3><p><strong>Ingeniería Civil:</strong> Modelos estructurales para puentes y edificios, hidráulica.</p><p><strong>Ingeniería Eléctrica:</strong> Circuitos eléctricos, sistemas de control.</p><p><strong>Computación:</strong> Algoritmos, inteligencia artificial, redes neuronales.</p><p><strong>Investigación Operativa:</strong> Optimización de procesos, programación lineal, teoría de colas.</p><h3>Modelos en la Vida Cotidiana</h3><p><strong>Finanzas Personales:</strong> Planificación de ahorros, préstamos, inversiones.</p><p><strong>Logística:</strong> Rutas de entrega, gestión de inventarios.</p><p><strong>Deportes:</strong> Estrategias, análisis de rendimiento.</p><p><strong>Medicina:</strong> Dosificación de medicamentos, modelos de propagación de enfermedades.</p><h3>Limitaciones de los Modelos Matemáticos</h3><p><strong>Simplificación de la Realidad:</strong> Ningún modelo puede capturar toda la complejidad del mundo real.</p><p><strong>Incertidumbre en Parámetros:</strong> Los parámetros a menudo se estiman con error.</p><p><strong>Comportamiento Humano:</strong> Los modelos que involucran personas son particularmente difíciles porque el comportamiento humano no es completamente predecible.</p><p><strong>Cambio de Condiciones:</strong> Los sistemas reales pueden cambiar con el tiempo, haciendo obsoletos los modelos.</p><p><strong>Ética:</strong> Algunos modelos (especialmente en ciencias sociales) pueden tener implicaciones éticas importantes.</p>",
+          "duration": "Lectura de 12 min"
+        },
+        {
+          "id": "lesson-3-3-video",
+          "title": "Video: Aplicaciones de Modelos Matemáticos",
+          "content_type": "video",
+          "video_url": "https://www.youtube.com/embed/GnM4SUwPHDs",
+          "duration": "14:10",
+          "description": "Refuerzo visual sobre aplicaciones prácticas de modelos matemáticos en diversas áreas"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "intro-ingenieria",
+  "title": "Introducción a la Ingeniería",
+  "career": "Ingeniería",
+  "difficulty": "beginner",
+  "duration": "4 horas 30 minutos",
+  "description": "Curso introductorio que explora el fascinante mundo de la ingeniería. Descubre qué hace realmente un ingeniero, desarrolla habilidades de pensamiento algorítmico y domina metodologías sistemáticas para resolver problemas complejos. Perfecto para futuros ingenieros y cualquier persona interesada en el pensamiento sistemático y la resolución creativa de problemas.",
+  "thumbnail_url": "/img/courses/ingenieria-intro.png",
+  "tags": ["Ingeniería", "Pensamiento Algorítmico", "Resolución de Problemas", "Diseño", "Sistemas", "Metodología"],
+  "modules": [
+    {
+      "title": "¿Qué Hace un Ingeniero?",
+      "duration": "1 hora 30 minutos",
+      "lessons": [
+        {
+          "id": "lesson-1-1",
+          "title": "La Esencia de la Ingeniería",
+          "content_type": "text",
+          "content": "<h3>Definición y Propósito de la Ingeniería</h3><p>La ingeniería es la aplicación de principios científicos, matemáticos y técnicos para diseñar, construir y mantener estructuras, máquinas, dispositivos, sistemas, materiales y procesos. El objetivo fundamental de la ingeniería es resolver problemas prácticos y mejorar la calidad de vida de las personas.</p><p><strong>Características distintivas de la ingeniería:</strong></p><ul><li><strong>Aplicación práctica:</strong> Transforma conocimiento teórico en soluciones reales</li><li><strong>Enfoque sistemático:</strong> Sigue metodologías estructuradas</li><li><strong>Optimización:</strong> Busca el mejor equilibrio entre coste, eficiencia y seguridad</li><li><strong>Creatividad técnica:</strong> Diseña soluciones innovadoras dentro de restricciones</li></ul><h3>Campos Principales de la Ingeniería</h3><p><strong>Ingeniería Civil:</strong> Diseña y construye infraestructuras como puentes, carreteras, edificios y sistemas de agua.</p><p><strong>Ingeniería Mecánica:</strong> Desarrolla máquinas, sistemas térmicos y dispositivos mecánicos.</p><p><strong>Ingeniería Eléctrica:</strong> Trabaja con sistemas eléctricos, electrónicos y de comunicaciones.</p><p><strong>Ingeniería Química:</strong> Diseña procesos para transformar materias primas en productos útiles.</p><p><strong>Ingeniería de Software:</strong> Desarrolla sistemas y aplicaciones informáticas.</p><p><strong>Ingeniería Industrial:</strong> Optimiza sistemas y procesos productivos.</p><p><strong>Ingeniería Biomédica:</strong> Aplica principios de ingeniería a problemas médicos y biológicos.</p><h3>El Proceso de Diseño en Ingeniería</h3><p>Los ingenieros siguen un proceso sistemático para desarrollar soluciones:</p><p><strong>1. Identificación del Problema:</strong> Comprender claramente qué necesita resolverse</p><p><strong>2. Investigación y Análisis:</strong> Recopilar información relevante y analizar restricciones</p><p><strong>3. Generación de Conceptos:</strong> Crear múltiples ideas y enfoques posibles</p><p><strong>4. Evaluación y Selección:</strong> Comparar alternativas usando criterios objetivos</p><p><strong>5. Desarrollo Detallado:</strong> Elaborar diseños específicos y planos</p><p><strong>6. Pruebas y Validación:</strong> Verificar que la solución funciona como se espera</p><p><strong>7. Implementación:</strong> Construir o implementar la solución</p><p><strong>8. Mejora Continua:</strong> Monitorear y optimizar el desempeño</p><h3>Habilidades Clave del Ingeniero</h3><p><strong>Habilidades Técnicas:</strong></p><ul><li>Matemáticas y ciencias aplicadas</li><li>Análisis y modelado</li><li>Uso de herramientas y software especializado</li></ul><p><strong>Habilidades de Pensamiento:</strong></p><ul><li>Pensamiento crítico y analítico</li><li>Resolución de problemas</li><li>Creatividad e innovación</li></ul><p><strong>Habilidades Interpersonales:</strong></p><ul><li>Comunicación efectiva</li><li>Trabajo en equipo</li><li>Gestión de proyectos</li></ul><h3>Ética y Responsabilidad Profesional</h3><p>Los ingenieros tienen una responsabilidad especial porque sus decisiones afectan la seguridad pública y el medio ambiente. Los principios éticos incluyen:</p><ul><li>Priorizar la seguridad y el bienestar público</li><li>Ser honestos e imparciales</li><li>Mantener la competencia profesional</li><li>Actuar como agentes fieles para empleadores y clientes</li></ul>",
+          "duration": "Lectura de 12 min"
+        },
+        {
+          "id": "lesson-1-1-video",
+          "title": "Video: ¿Qué es la Ingeniería?",
+          "content_type": "video",
+          "video_url": "https://www.youtube.com/embed/example-engineering",
+          "duration": "10:45",
+          "description": "Refuerzo visual sobre la esencia de la ingeniería y sus diferentes campos"
+        },
+        {
+          "id": "lesson-1-2",
+          "title": "Grandes Logros de la Ingeniería",
+          "content_type": "text",
+          "content": "<h3>Ingeniería que Transformó el Mundo</h3><p><strong>El Acueducto Romano:</strong> Sistemas de distribución de agua que permitieron el crecimiento de ciudades.</p><p><strong>La Revolución Industrial:</strong> Máquinas de vapor y procesos de manufactura que cambiaron la producción.</p><p><strong>La Red Eléctrica:</strong> Sistemas de generación y distribución de energía eléctrica.</p><p><strong>Internet y las Comunicaciones:</strong> Infraestructura digital que conecta al mundo.</p><p><strong>Exploración Espacial:</strong> Cohetes, satélites y naves espaciales.</p><p><strong>Dispositivos Médicos:</strong> Marcapasos, prótesis y equipos de diagnóstico.</p><h3>Ingenieros Famosos y sus Contribuciones</h3><p><strong>Leonardo da Vinci:</strong> Diseños visionarios de máquinas y dispositivos.</p><p><strong>Isambard Kingdom Brunel:</strong> Puentes, barcos de vapor y ferrocarriles.</p><p><strong>Nikola Tesla:</strong> Sistemas de corriente alterna y transmisión inalámbrica.</p><p><strong>Grace Hopper:</strong> Desarrollo de lenguajes de programación.</p><p><strong>Elon Musk:</strong> Vehículos eléctricos y tecnología espacial reutilizable.</p><h3>Desafíos Actuales de la Ingeniería</h3><p><strong>Sostenibilidad Ambiental:</strong> Diseñar sistemas que minimicen el impacto ambiental.</p><p><strong>Energía Renovable:</strong> Desarrollar fuentes de energía limpias y eficientes.</p><p><strong>Infraestructura Resiliente:</strong> Crear sistemas que resistan desastres naturales.</p><p><strong>Salud y Biotecnología:</strong> Avances en ingeniería médica y dispositivos de diagnóstico.</p><p><strong>Inteligencia Artificial:</strong> Sistemas autónomos y machine learning.</p>",
+          "duration": "Lectura de 10 min"
+        },
+        {
+          "id": "lesson-1-2-video",
+          "title": "Video: Logros de la Ingeniería",
+          "content_type": "video",
+          "video_url": "https://www.youtube.com/embed/example-achievements",
+          "duration": "12:20",
+          "description": "Refuerzo visual sobre grandes logros de la ingeniería a través de la historia"
+        },
+        {
+          "id": "lesson-1-3",
+          "title": "El Rol del Ingeniero en la Sociedad",
+          "content_type": "text",
+          "content": "<h3>Impacto Social de la Ingeniería</h3><p>Los ingenieros juegan un papel crucial en el desarrollo social y económico:</p><p><strong>Mejora de la Calidad de Vida:</strong> Acceso a agua limpia, energía, comunicaciones y transporte.</p><p><strong>Desarrollo Económico:</strong> Infraestructura que permite el comercio y la industria.</p><p><strong>Innovación Tecnológica:</strong> Nuevos productos y servicios que crean oportunidades.</p><p><strong>Seguridad Pública:</strong> Estructuras y sistemas seguros para la comunidad.</p><h3>Responsabilidades Profesionales</h3><p><strong>Seguridad:</strong> Garantizar que los diseños no pongan en riesgo a las personas.</p><p><strong>Sostenibilidad:</strong> Considerar el impacto ambiental a largo plazo.</p><p><strong>Eficiencia:</strong> Optimizar el uso de recursos.</p><p><strong>Accesibilidad:</strong> Diseñar soluciones que beneficien a todos.</p><h3>Tendencias Futuras en Ingeniería</h3><p><strong>Ingeniería Interdisciplinaria:</strong> Colaboración entre diferentes especialidades.</p><p><strong>Digitalización:</strong> Uso de BIM, IoT y otras tecnologías digitales.</p><p><strong>Economía Circular:</strong> Diseño de sistemas que minimicen residuos.</p><p><strong>Ingeniería Global:</strong> Soluciones para desafíos que trascienden fronteras.</p>",
+          "duration": "Lectura de 8 min"
+        }
+      ]
+    },
+    {
+      "title": "Pensamiento Algorítmico",
+      "duration": "1 hora 30 minutos",
+      "lessons": [
+        {
+          "id": "lesson-2-1",
+          "title": "Fundamentos del Pensamiento Algorítmico",
+          "content_type": "text",
+          "content": "<h3>¿Qué es un Algoritmo?</h3><p>Un algoritmo es un conjunto de pasos definidos y ordenados para resolver un problema o realizar una tarea. Es la base del pensamiento computacional y se aplica en todas las áreas de la ingeniería.</p><p><strong>Características de un buen algoritmo:</strong></p><ul><li><strong>Preciso:</strong> Cada paso está claramente definido</li><li><strong>Determinista:</strong> Siempre produce el mismo resultado con las mismas entradas</li><li><strong>Finito:</strong> Termina después de un número finito de pasos</li><li><strong>Eficiente:</strong> Utiliza recursos de manera óptima</li></ul><h3>Componentes Básicos de los Algoritmos</h3><p><strong>Secuencias:</strong> Pasos que se ejecutan en orden</p><p><strong>Condicionales:</strong> Decisiones basadas en condiciones (si-entonces-si no)</p><p><strong>Bucles:</strong> Repetición de pasos mientras se cumpla una condición</p><p><strong>Variables:</strong> Almacenamiento de datos que pueden cambiar</p><h3>Representación de Algoritmos</h3><p><strong>Diagramas de Flujo:</strong> Representación visual usando símbolos estándar</p><p><strong>Pseudocódigo:</strong> Descripción en lenguaje natural estructurado</p><p><strong>Lenguajes de Programación:</strong> Implementación en código ejecutable</p><h3>Ejemplos de Algoritmos Cotidianos</h3><p><strong>Preparar una Taza de Té:</strong></p><ol><li>Hervir agua</li><li>Poner una bolsa de té en la taza</li><li>Verter agua caliente en la taza</li><li>Esperar 3 minutos</li><li>Remover la bolsa de té</li><li>Añadir azúcar si se desea</li></ol><p><strong>Encontrar un Libro en una Biblioteca:</strong></p><ol><li>Ir al catálogo</li><li>Buscar por título o autor</li><li>Anotar la ubicación</li><li>Ir a la sección correspondiente</li><li>Buscar el libro en los estantes</li></ol>",
+          "duration": "Lectura de 10 min"
+        },
+        {
+          "id": "lesson-2-1-video",
+          "title": "Video: Introducción a los Algoritmos",
+          "content_type": "video",
+          "video_url": "https://www.youtube.com/embed/example-algorithms",
+          "duration": "11:30",
+          "description": "Refuerzo visual sobre conceptos básicos de algoritmos y su representación"
+        },
+        {
+          "id": "lesson-2-2",
+          "title": "Diseño y Análisis de Algoritmos",
+          "content_type": "text",
+          "content": "<h3>Metodologías de Diseño de Algoritmos</h3><p><strong>Divide y Vencerás:</strong> Dividir un problema grande en subproblemas más pequeños</p><p><strong>Programación Dinámica:</strong> Resolver subproblemas y almacenar resultados</p><p><strong>Algoritmos Voraces:</strong> Tomar la mejor decisión local en cada paso</p><p><strong>Backtracking:</strong> Explorar sistemáticamente todas las posibilidades</p><h3>Complejidad Algorítmica</h3><p><strong>Tiempo de Ejecución:</strong> Cómo crece el tiempo requerido con el tamaño de la entrada</p><p><strong>Espacio de Memoria:</strong> Cantidad de memoria requerida</p><p><strong>Notación O Grande (Big O):</strong> Clasificación de la eficiencia de algoritmos</p><ul><li>O(1): Tiempo constante</li><li>O(log n): Tiempo logarítmico</li><li>O(n): Tiempo lineal</li><li>O(n²): Tiempo cuadrático</li></ul><h3>Algoritmos Fundamentales</h3><p><strong>Algoritmos de Búsqueda:</strong></p><ul><li>Búsqueda lineal: Revisar elemento por elemento</li><li>Búsqueda binaria: Dividir repetidamente el espacio de búsqueda</li></ul><p><strong>Algoritmos de Ordenamiento:</strong></p><ul><li>Bubble Sort: Comparar e intercambiar elementos adyacentes</li><li>Quick Sort: Dividir usando un pivote</li><li>Merge Sort: Dividir y combinar recursivamente</li></ul><h3>Prueba y Verificación de Algoritmos</h3><p><strong>Casos de Prueba:</strong> Verificar con entradas conocidas</p><p><strong>Condiciones Límite:</strong> Probar con valores extremos</p><p><strong>Corrección Formal:</strong> Demostrar matemáticamente que el algoritmo es correcto</p>",
+          "duration": "Lectura de 12 min"
+        },
+        {
+          "id": "lesson-2-2-video",
+          "title": "Video: Diseño de Algoritmos",
+          "content_type": "video",
+          "video_url": "https://www.youtube.com/embed/example-algorithm-design",
+          "duration": "13:15",
+          "description": "Refuerzo visual sobre metodologías de diseño y análisis de algoritmos"
+        },
+        {
+          "id": "lesson-2-3",
+          "title": "Aplicaciones del Pensamiento Algorítmico",
+          "content_type": "text",
+          "content": "<h3>Algoritmos en la Vida Cotidiana</h3><p><strong>Navegación GPS:</strong> Algoritmos para encontrar la ruta más corta</p><p><strong>Recomendaciones en Línea:</strong> Sistemas de filtrado colaborativo</p><p><strong>Búsqueda en Internet:</strong> Algoritmos de ranking y recuperación de información</p><p><strong>Transacciones Bancarias:</strong> Sistemas de procesamiento y seguridad</p><h3>Algoritmos en Ingeniería</h3><p><strong>Diseño Asistido por Computadora (CAD):</strong> Algoritmos de renderizado y simulación</p><p><strong>Control de Procesos:</strong> Algoritmos de retroalimentación y control</p><p><strong>Optimización Estructural:</strong> Algoritmos para minimizar materiales manteniendo resistencia</p><p><strong>Análisis de Datos:</strong> Algoritmos de machine learning y estadística</p><h3>Ejercicios Prácticos</h3><p><strong>Problema 1: Ordenar una Lista de Números</strong></p><p>Diseña un algoritmo para ordenar una lista de números de menor a mayor.</p><p><strong>Problema 2: Encontrar el Camino Más Corto</strong></p><p>Desarrolla un algoritmo para encontrar la ruta más corta entre dos puntos en un mapa.</p><p><strong>Problema 3: Programación de Tareas</strong></p><p>Crea un algoritmo para programar tareas minimizando el tiempo total.</p>",
+          "duration": "Lectura de 10 min"
+        }
+      ]
+    },
+    {
+      "title": "Resolución de Problemas",
+      "duration": "1 hora 30 minutos",
+      "lessons": [
+        {
+          "id": "lesson-3-1",
+          "title": "Metodología de Resolución de Problemas",
+          "content_type": "text",
+          "content": "<h3>El Enfoque Sistémico en Ingeniería</h3><p>La resolución de problemas en ingeniería sigue un enfoque sistemático que garantiza soluciones efectivas y eficientes.</p><h3>Proceso de Resolución de Problemas</h3><p><strong>Paso 1: Definir el Problema</strong></p><ul><li>Identificar claramente qué se necesita resolver</li><li>Establecer objetivos y criterios de éxito</li><li>Definir restricciones y limitaciones</li></ul><p><strong>Paso 2: Analizar el Problema</strong></p><ul><li>Recopilar información relevante</li><li>Identificar causas raíz</li><li>Analizar relaciones entre variables</li></ul><p><strong>Paso 3: Generar Soluciones</strong></p><ul><li>Brainstorming de ideas</li><li>Considerar múltiples enfoques</li><li>No descartar ideas prematuramente</li></ul><p><strong>Paso 4: Evaluar y Seleccionar</strong></p><ul><li>Analizar ventajas y desventajas</li><li>Evaluar factibilidad técnica y económica</li><li>Seleccionar la mejor opción</li></ul><p><strong>Paso 5: Implementar</strong></p><ul><li>Desarrollar plan detallado</li><li>Asignar recursos</li><li>Ejecutar la solución</li></ul><p><strong>Paso 6: Evaluar Resultados</strong></p><ul><li>Medir efectividad</li><li>Identificar mejoras</li><li>Documentar lecciones aprendidas</li></ul><h3>Herramientas de Análisis</h3><p><strong>Diagrama de Ishikawa (Espina de Pescado):</strong> Para identificar causas raíz</p><p><strong>Análisis FODA:</strong> Fortalezas, Oportunidades, Debilidades, Amenazas</p><p><strong>Análisis de Pareto:</strong> Identificar los problemas más importantes</p><p><strong>Diagramas de Flujo:</strong> Visualizar procesos y secuencias</p>",
+          "duration": "Lectura de 12 min"
+        },
+        {
+          "id": "lesson-3-1-video",
+          "title": "Video: Metodología de Resolución de Problemas",
+          "content_type": "video",
+          "video_url": "https://www.youtube.com/embed/example-problem-solving",
+          "duration": "11:45",
+          "description": "Refuerzo visual sobre el proceso sistemático de resolución de problemas"
+        },
+        {
+          "id": "lesson-3-2",
+          "title": "Técnicas Creativas para Solución de Problemas",
+          "content_type": "text",
+          "content": "<h3>Pensamiento Lateral y Creatividad</h3><p><strong>Brainstorming:</strong> Generar ideas sin críticas iniciales</p><p><strong>Pensamiento Inverso:</strong> Considerar el problema desde perspectivas opuestas</p><p><strong>Analogías:</strong> Aplicar soluciones de otros campos</p><p><strong>SCAMPER:</strong> Sustituir, Combinar, Adaptar, Modificar, Proponer otros usos, Eliminar, Revertir</p><h3>Enfoques Estructurados</h3><p><strong>Método de los Seis Sombreros:</strong> Considerar diferentes perspectivas</p><p><strong>TRIZ:</strong> Teoría para Resolución Inventiva de Problemas</p><p><strong>Design Thinking:</strong> Enfoque centrado en el usuario</p><p><strong>Pensamiento Sistémico:</strong> Analizar interacciones entre componentes</p><h3>Superación de Obstáculos</h3><p><strong>Bloqueos Mentales:</strong></p><ul><li>Fijación funcional: Ver objetos solo con su uso tradicional</li><li>Sesgos cognitivos: Preferencias que distorsionan el juicio</li><li>Falta de confianza: Dudar de la capacidad para resolver</li></ul><p><strong>Estrategias para Superar Bloqueos:</strong></p><ul><li>Cambiar de perspectiva</li><li>Trabajar en equipo</li><li>Tomar descansos</li><li>Buscar inspiración en otras disciplinas</li></ul>",
+          "duration": "Lectura de 10 min"
+        },
+        {
+          "id": "lesson-3-2-video",
+          "title": "Video: Técnicas Creativas",
+          "content_type": "video",
+          "video_url": "https://www.youtube.com/embed/example-creative-techniques",
+          "duration": "10:30",
+          "description": "Refuerzo visual sobre técnicas creativas para solución de problemas"
+        },
+        {
+          "id": "lesson-3-3",
+          "title": "Casos de Estudio y Aplicación Práctica",
+          "content_type": "text",
+          "content": "<h3>Problemas de Ingeniería Clásicos</h3><p><strong>Caso 1: El Puente Colgante</strong></p><p>Problema: Diseñar un puente que cruce un río ancho con fuerte corriente. Restricciones: Presupuesto limitado, materiales disponibles localmente, debe soportar tráfico pesado.</p><p><strong>Solución:</strong> Usar diseño de puente colgante que distribuye cargas eficientemente y minimiza materiales.</p><p><strong>Caso 2: Sistema de Suministro de Agua</strong></p><p>Problema: Proveer agua potable a una comunidad remota. Restricciones: Sin acceso a red eléctrica, terreno montañoso, bajo mantenimiento.</p><p><strong>Solución:</strong> Sistema de bombeo por gravedad usando tanques elevados y filtros de arena.</p><h3>Ejercicios Prácticos</h3><p><strong>Problema 1: Optimización de Ruta</strong></p><p>Un camión de reparto debe visitar 10 ubicaciones en una ciudad. Diseña la ruta más eficiente considerando tráfico y distancias.</p><p><strong>Problema 2: Diseño de Producto</strong></p><p>Crea un dispositivo que ayude a personas con movilidad reducida a alcanzar objetos en estantes altos.</p><p><strong>Problema 3: Eficiencia Energética</strong></p><p>Diseña un sistema para reducir el consumo de energía en un edificio de oficinas.</p><h3>Evaluación de Soluciones</h3><p><strong>Criterios de Evaluación:</strong></p><ul><li>Efectividad: ¿Resuelve el problema?</li><li>Eficiencia: ¿Usa recursos óptimamente?</li><li>Sostenibilidad: ¿Impacto ambiental aceptable?</li><li>Factibilidad: ¿Se puede implementar con recursos disponibles?</li><li>Seguridad: ¿Es seguro para usuarios y medio ambiente?</li></ul><h3>Desarrollo de Habilidades</h3><p><strong>Práctica Continua:</strong> Resolver problemas regularmente</p><p><strong>Aprendizaje de Fallos:</strong> Analizar qué salió mal y por qué</p><p><strong>Colaboración:</strong> Trabajar con otros para obtener perspectivas diferentes</p><p><strong>Actualización Constante:</strong> Mantenerse al día con nuevas metodologías y herramientas</p>",
+          "duration": "Lectura de 12 min"
+        },
+        {
+          "id": "lesson-3-3-video",
+          "title": "Video: Casos de Estudio en Ingeniería",
+          "content_type": "video",
+          "video_url": "https://www.youtube.com/embed/example-case-studies",
+          "duration": "13:20",
+          "description": "Refuerzo visual sobre casos reales de resolución de problemas en ingeniería"
+        }
+      ]
+    }
+  ]
+}

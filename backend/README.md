@@ -44,6 +44,31 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+## Cursos module (prototype)
+
+- Set `MONGO_URI` in a `.env` file (see `.env.example`).
+- Start the API and seed sample data (sample) or full multilingual data (full):
+
+```powershell
+cd "c:\Users\caral\Br-jula-1.1\backend";
+$payload = Get-Content .\src\cursos\seed\seed.sample.json -Raw;
+Invoke-RestMethod -Method Post -Uri "http://localhost:3000/cursos/seed" -ContentType 'application/json' -Body $payload | Format-List;
+
+# full multilingual seed (edit to add all remaining career courses before posting)
+$full = Get-Content .\src\cursos\seed\seed.full.json -Raw;
+Invoke-RestMethod -Method Post -Uri "http://localhost:3000/cursos/seed" -ContentType 'application/json' -Body $full | Format-List;
+```
+
+- Example requests:
+  - `GET /cursos/categories?lang=es` → cursos generales por categoría
+  - `GET /cursos/categories/ciencias-exactas?lang=en` → general + carreras de la categoría
+  - `GET /cursos/resolve?career=ingenieria&lang=de` → curso de categoría + curso de la carrera
+  - `GET /cursos/intro-ciencias-exactas?lang=fr` → curso por slug
+
+Internationalization: courses store a base Spanish payload and optional `i18n` overlays per locale (en, fr, it, de). On read, the overlay is deep-merged.
+
+To provide full translations, duplicate all fields inside each `i18n.<lang>.content` (not only changed fields). Missing Spanish source text must be added first; otherwise machine translation cannot ensure accuracy for truncated sections.
+
 ## Run tests
 
 ```bash

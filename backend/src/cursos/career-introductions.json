@@ -1,0 +1,130 @@
+{
+  "ingenieria": {
+    "title": {
+      "es": "Ingeniería",
+      "en": "Engineering",
+      "fr": "Ingénierie",
+      "it": "Ingegneria",
+      "de": "Ingenieurwesen"
+    },
+    "intro": {
+      "es": "La ingeniería es la disciplina que aplica conocimientos científicos y matemáticos para diseñar, construir y optimizar sistemas, estructuras y procesos que resuelvan problemas reales y mejoren la calidad de vida de las personas.",
+      "en": "Engineering is the discipline that applies scientific and mathematical knowledge to design, build and optimize systems, structures and processes that solve real problems and improve people's quality of life.",
+      "fr": "L'ingénierie est la discipline qui applique des connaissances scientifiques et mathématiques pour concevoir, construire et optimiser des systèmes, des structures et des processus qui résolvent des problèmes réels et améliorent la qualité de vie des personnes.",
+      "it": "L'ingegneria è la disciplina che applica conoscenze scientifiche e matematiche per progettare, costruire e ottimizzare sistemi, strutture e processi che risolvono problemi reali e migliorano la qualità della vita delle persone.",
+      "de": "Ingenieurwesen ist die Disziplin, die wissenschaftliche und mathematische Kenntnisse anwendet, um Systeme, Strukturen und Prozesse zu entwerfen, zu bauen und zu optimieren, die reale Probleme lösen und die Lebensqualität der Menschen verbessern."
+    }
+  },
+  "arquitectura": {
+    "title": {
+      "es": "Arquitectura",
+      "en": "Architecture",
+      "fr": "Architecture",
+      "it": "Architettura",
+      "de": "Architektur"
+    },
+    "intro": {
+      "es": "La arquitectura combina arte, ciencia y tecnología para diseñar espacios habitables que sean funcionales, estéticos y sostenibles. Los arquitectos crean edificios y entornos que mejoran la vida de las personas y respetan el medio ambiente.",
+      "en": "Architecture combines art, science and technology to design livable spaces that are functional, aesthetic and sustainable. Architects create buildings and environments that improve people's lives and respect the environment.",
+      "fr": "L'architecture combine art, science et technologie pour concevoir des espaces habitables fonctionnels, esthétiques et durables. Les architectes créent des bâtiments et des environnements qui améliorent la vie des gens et respectent l'environnement.",
+      "it": "L'architettura combina arte, scienza e tecnologia per progettare spazi abitabili funzionali, estetici e sostenibili. Gli architetti creano edifici e ambienti che migliorano la vita delle persone e rispettano l'ambiente.",
+      "de": "Architektur verbindet Kunst, Wissenschaft und Technologie, um bewohnbare Räume zu entwerfen, die funktional, ästhetisch und nachhaltig sind. Architekten schaffen Gebäude und Umgebungen, die das Leben der Menschen verbessern und die Umwelt respektieren."
+    }
+  },
+  "matematicas": {
+    "title": {
+      "es": "Matemáticas",
+      "en": "Mathematics",
+      "fr": "Mathématiques",
+      "it": "Matematica",
+      "de": "Mathematik"
+    },
+    "intro": {
+      "es": "Las matemáticas son el lenguaje universal que describe patrones, relaciones y estructuras. Esta disciplina desarrolla el pensamiento lógico y abstracto, fundamentales para resolver problemas complejos en todas las áreas del conocimiento.",
+      "en": "Mathematics is the universal language that describes patterns, relationships and structures. This discipline develops logical and abstract thinking, fundamental to solving complex problems in all areas of knowledge.",
+      "fr": "Les mathématiques sont le langage universel qui décrit les modèles, les relations et les structures. Cette discipline développe la pensée logique et abstraite, fondamentale pour résoudre des problèmes complexes dans tous les domaines de la connaissance.",
+      "it": "La matematica è il linguaggio universale che descrive modelli, relazioni e strutture. Questa disciplina sviluppa il pensiero logico e astratto, fondamentale per risolvere problemi complessi in tutte le aree della conoscenza.",
+      "de": "Mathematik ist die universelle Sprache, die Muster, Beziehungen und Strukturen beschreibt. Diese Disziplin entwickelt logisches und abstraktes Denken, das für die Lösung komplexer Probleme in allen Wissensbereichen grundlegend ist."
+    }
+  },
+  "psicologia": {
+    "title": {
+      "es": "Psicología",
+      "en": "Psychology",
+      "fr": "Psychologie",
+      "it": "Psicologia",
+      "de": "Psychologie"
+    },
+    "intro": {
+      "es": "La psicología estudia el comportamiento humano y los procesos mentales. Los psicólogos ayudan a las personas a comprender sus emociones, pensamientos y conductas para mejorar su bienestar mental y desarrollar su potencial.",
+      "en": "Psychology studies human behavior and mental processes. Psychologists help people understand their emotions, thoughts and behaviors to improve their mental well-being and develop their potential.",
+      "fr": "La psychologie étudie le comportement humain et les processus mentaux. Les psychologues aident les gens à comprendre leurs émotions, leurs pensées et leurs comportements pour améliorer leur bien-être mental et développer leur potentiel.",
+      "it": "La psicologia studia il comportamento umano e i processi mentali. Gli psicologi aiutano le persone a comprendere le loro emozioni, pensieri e comportamenti per migliorare il loro benessere mentale e sviluppare il loro potenziale.",
+      "de": "Psychologie untersucht menschliches Verhalten und mentale Prozesse. Psychologen helfen Menschen, ihre Emotionen, Gedanken und Verhaltensweisen zu verstehen, um ihr mentales Wohlbefinden zu verbessern und ihr Potenzial zu entwickeln."
+    }
+  },
+  "filosofia": {
+    "title": {
+      "es": "Filosofía",
+      "en": "Philosophy",
+      "fr": "Philosophie",
+      "it": "Filosofia",
+      "de": "Philosophie"
+    },
+    "intro": {
+      "es": "La filosofía explora las preguntas fundamentales sobre la existencia, el conocimiento, la ética y la realidad. Desarrolla el pensamiento crítico y la capacidad de analizar problemas desde múltiples perspectivas.",
+      "en": "Philosophy explores fundamental questions about existence, knowledge, ethics and reality. It develops critical thinking and the ability to analyze problems from multiple perspectives.",
+      "fr": "La philosophie explore les questions fondamentales sur l'existence, la connaissance, l'éthique et la réalité. Elle développe la pensée critique et la capacité d'analyser les problèmes sous plusieurs perspectives.",
+      "it": "La filosofia esplora le domande fondamentali sull'esistenza, la conoscenza, l'etica e la realtà. Sviluppa il pensiero critico e la capacità di analizzare i problemi da molteplici prospettive.",
+      "de": "Philosophie erforscht grundlegende Fragen über Existenz, Wissen, Ethik und Realität. Sie entwickelt kritisches Denken und die Fähigkeit, Probleme aus mehreren Perspektiven zu analysieren."
+    }
+  },
+  "trabajo-social": {
+    "title": {
+      "es": "Trabajo Social",
+      "en": "Social Work",
+      "fr": "Travail Social",
+      "it": "Lavoro Sociale",
+      "de": "Soziale Arbeit"
+    },
+    "intro": {
+      "es": "El trabajo social se dedica a mejorar el bienestar de individuos, familias y comunidades. Los trabajadores sociales promueven la justicia social, los derechos humanos y el desarrollo de políticas que beneficien a la sociedad.",
+      "en": "Social work is dedicated to improving the well-being of individuals, families and communities. Social workers promote social justice, human rights and the development of policies that benefit society.",
+      "fr": "Le travail social se consacre à l'amélioration du bien-être des individus, des familles et des communautés. Les travailleurs sociaux promeuvent la justice sociale, les droits de l'homme et le développement de politiques bénéfiques pour la société.",
+      "it": "Il lavoro sociale si dedica al miglioramento del benessere di individui, famiglie e comunità. Gli assistenti sociali promuovono la giustizia sociale, i diritti umani e lo sviluppo di politiche che beneficiano la società.",
+      "de": "Soziale Arbeit widmet sich der Verbesserung des Wohlergehens von Einzelpersonen, Familien und Gemeinschaften. Sozialarbeiter fördern soziale Gerechtigkeit, Menschenrechte und die Entwicklung von Richtlinien, die der Gesellschaft zugute kommen."
+    }
+  },
+  "ciencias-exactas": {
+    "title": {
+      "es": "Ciencias Exactas",
+      "en": "Exact Sciences",
+      "fr": "Sciences Exactes",
+      "it": "Scienze Esatte",
+      "de": "Exakte Wissenschaften"
+    },
+    "intro": {
+      "es": "Las ciencias exactas abarcan matemáticas, física, química y disciplinas relacionadas que utilizan métodos rigurosos y cuantitativos para comprender el universo. Estas ciencias son la base del desarrollo tecnológico y científico moderno.",
+      "en": "Exact sciences encompass mathematics, physics, chemistry and related disciplines that use rigorous and quantitative methods to understand the universe. These sciences are the foundation of modern technological and scientific development.",
+      "fr": "Les sciences exactes englobent les mathématiques, la physique, la chimie et les disciplines connexes qui utilisent des méthodes rigoureuses et quantitatives pour comprendre l'univers. Ces sciences sont la base du développement technologique et scientifique moderne.",
+      "it": "Le scienze esatte comprendono matematica, fisica, chimica e discipline correlate che utilizzano metodi rigorosi e quantitativi per comprendere l'universo. Queste scienze sono la base dello sviluppo tecnologico e scientifico moderno.",
+      "de": "Exakte Wissenschaften umfassen Mathematik, Physik, Chemie und verwandte Disziplinen, die rigorose und quantitative Methoden verwenden, um das Universum zu verstehen. Diese Wissenschaften sind die Grundlage der modernen technologischen und wissenschaftlichen Entwicklung."
+    }
+  },
+  "ciencias-humanas": {
+    "title": {
+      "es": "Ciencias Humanas",
+      "en": "Human Sciences",
+      "fr": "Sciences Humaines",
+      "it": "Scienze Umane",
+      "de": "Humanwissenschaften"
+    },
+    "intro": {
+      "es": "Las ciencias humanas estudian al ser humano en sus dimensiones individual, social y cultural. Incluyen psicología, sociología, antropología y filosofía, ayudando a comprender el comportamiento humano y las sociedades.",
+      "en": "Human sciences study the human being in its individual, social and cultural dimensions. They include psychology, sociology, anthropology and philosophy, helping to understand human behavior and societies.",
+      "fr": "Les sciences humaines étudient l'être humain dans ses dimensions individuelle, sociale et culturelle. Elles incluent la psychologie, la sociologie, l'anthropologie et la philosophie, aidant à comprendre le comportement humain et les sociétés.",
+      "it": "Le scienze umane studiano l'essere umano nelle sue dimensioni individuale, sociale e culturale. Includono psicologia, sociologia, antropologia e filosofia, aiutando a comprendere il comportamento umano e le società.",
+      "de": "Humanwissenschaften untersuchen den Menschen in seinen individuellen, sozialen und kulturellen Dimensionen. Sie umfassen Psychologie, Soziologie, Anthropologie und Philosophie und helfen, menschliches Verhalten und Gesellschaften zu verstehen."
+    }
+  }
+}

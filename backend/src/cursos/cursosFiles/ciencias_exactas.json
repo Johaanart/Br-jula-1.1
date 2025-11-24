@@ -1,0 +1,188 @@
+{
+  "id": "intro-ciencias-exactas",
+  "title": "Introducción a Ciencias Exactas",
+  "branch": "Ciencias Exactas",
+  "difficulty": "beginner",
+  "duration": "4 horas 30 minutos",
+  "description": "Curso introductorio que abarca los fundamentos esenciales de las matemáticas y álgebra lineal. Perfecto para estudiantes que desean fortalecer sus bases antes de cursos más avanzados.",
+  "thumbnail_url": "/img/courses/ciencias-exactas-intro.png",
+  "tags": ["Matemáticas", "Álgebra Lineal", "Fundamentos", "Ciencias Exactas", "Universidad"],
+  "modules": [
+    {
+      "title": "Fundamentos de Matemáticas",
+      "duration": "2 horas",
+      "lessons": [
+        {
+          "id": "lesson-1-1",
+          "title": "¿Qué son los Números y Operaciones Básicas?",
+          "content_type": "text",
+          "content": "<h3>Los Números Reales</h3><p>Los números reales son la base fundamental de la matemática. Se dividen en varias categorías: los números naturales (1, 2, 3, ...), los números enteros (..., -2, -1, 0, 1, 2, ...), los números racionales (fracciones como 1/2, 3/4) y los números irracionales (como π y √2).</p><p><strong>Operaciones Básicas:</strong></p><ul><li><strong>Suma:</strong> Combina dos o más números. Ejemplo: 5 + 3 = 8</li><li><strong>Resta:</strong> Encuentra la diferencia entre dos números. Ejemplo: 8 - 3 = 5</li><li><strong>Multiplicación:</strong> Repetir una suma. Ejemplo: 5 × 3 = 15</li><li><strong>División:</strong> Repartir un número en partes iguales. Ejemplo: 15 ÷ 3 = 5</li></ul><p>Estas operaciones siguen el orden PEMDAS (Paréntesis, Exponentes, Multiplicación y División, Adición y Sustracción), que determina el orden en que debe resolver operaciones complejas.</p><p><strong>Propiedades importantes:</strong></p><ul><li><strong>Conmutatividad:</strong> El orden no importa en suma y multiplicación (3 + 5 = 5 + 3)</li><li><strong>Asociatividad:</strong> Agrupar números de diferentes formas da el mismo resultado ((2 + 3) + 4 = 2 + (3 + 4))</li><li><strong>Distributividad:</strong> 3 × (4 + 5) = 3 × 4 + 3 × 5</li></ul>",
+          "duration": "Lectura de 10 min"
+        },
+        {
+          "id": "lesson-1-1-video",
+          "title": "Video: Números y Operaciones Básicas",
+          "content_type": "video",
+          "video_url": "https://www.youtube.com/watch?v=q5w2-RRniOY",
+          "duration": "3:18",
+          "description": "Refuerzo visual de los conceptos de números y operaciones fundamentales"
+        },
+        {
+          "id": "lesson-1-2",
+          "title": "Fracciones y Decimales",
+          "content_type": "text",
+          "content": "<h3>Fracciones: Partes de un Entero</h3><p>Una fracción representa una parte de un todo. Se compone de un numerador (arriba) y un denominador (abajo). Por ejemplo, en la fracción 3/4, el 3 es el numerador (cuántas partes tenemos) y el 4 es el denominador (en cuántas partes se divide el entero).</p><p><strong>Tipos de fracciones:</strong></p><ul><li><strong>Propias:</strong> El numerador es menor que el denominador (3/4, 1/2)</li><li><strong>Impropias:</strong> El numerador es mayor o igual al denominador (5/3, 7/4)</li><li><strong>Mixtas:</strong> Combinan un entero con una fracción (2 1/3 significa 2 + 1/3)</li></ul><p><strong>Operaciones con fracciones:</strong></p><ul><li><strong>Suma/Resta:</strong> Necesitas un denominador común. Ejemplo: 1/4 + 1/3 = 3/12 + 4/12 = 7/12</li><li><strong>Multiplicación:</strong> Multiplica numeradores y denominadores: 2/3 × 3/4 = 6/12 = 1/2</li><li><strong>División:</strong> Multiplica por el recíproco: (2/3) ÷ (3/4) = (2/3) × (4/3) = 8/9</li></ul><h3>Decimales: Otra Forma de Expresar Fracciones</h3><p>Los decimales son otra manera de escribir fracciones, especialmente las que tienen denominadores que son potencias de 10. Por ejemplo, 1/10 = 0.1, 3/100 = 0.03, 1/4 = 0.25.</p><p><strong>Conversiones:</strong></p><ul><li>Para convertir fracción a decimal: divide el numerador entre el denominador</li><li>Para convertir decimal a fracción: cuenta los lugares decimales y usa eso como potencia de 10</li></ul><p><strong>Operaciones con decimales:</strong> Se realizan igual que con números enteros, pero debes tener cuidado con la posición del punto decimal en multiplicación y división.</p>",
+          "duration": "Lectura de 10 min"
+        },
+        {
+          "id": "lesson-1-2-video",
+          "title": "Video: Fracciones y Decimales",
+          "content_type": "video",
+          "video_url": "https://www.youtube.com/embed/7IchEKDNHXc",
+          "duration": "14:30",
+          "description": "Refuerzo visual sobre fracciones y decimales con ejemplos prácticos"
+        },
+        {
+          "id": "lesson-1-3",
+          "title": "Potencias y Raíces",
+          "content_type": "text",
+          "content": "<h3>Potencias: Multiplicación Repetida</h3><p>Una potencia es una forma abreviada de escribir una multiplicación repetida. Se compone de una base (el número que se multiplica) y un exponente (cuántas veces se multiplica). Por ejemplo, 2³ significa 2 × 2 × 2 = 8, donde 2 es la base y 3 es el exponente.</p><p><strong>Reglas de potencias:</strong></p><ul><li><strong>Producto de potencias:</strong> 2³ × 2² = 2^(3+2) = 2⁵</li><li><strong>Cociente de potencias:</strong> 2⁵ ÷ 2² = 2^(5-2) = 2³</li><li><strong>Potencia de una potencia:</strong> (2³)² = 2^(3×2) = 2⁶</li><li><strong>Exponente cero:</strong> Cualquier número a la potencia 0 es 1 (excepto 0⁰)</li><li><strong>Exponentes negativos:</strong> 2^(-3) = 1/(2³) = 1/8</li></ul><h3>Raíces: La Operación Inversa</h3><p>Una raíz es la operación inversa de una potencia. La raíz cuadrada (√) pregunta: ¿qué número multiplicado por sí mismo da este resultado? Por ejemplo, √16 = 4 porque 4 × 4 = 16.</p><p><strong>Tipos de raíces:</strong></p><ul><li><strong>Raíz cuadrada (√):</strong> ¿Qué número elevado al cuadrado da el número bajo el radical? √9 = 3</li><li><strong>Raíz cúbica (∛):</strong> ¿Qué número elevado al cubo da el número? ∛8 = 2 (porque 2³ = 8)</li><li><strong>Raíz enésima:</strong> ⁿ√x pregunta qué número elevado a n da x</li></ul><p><strong>Propiedades de raíces:</strong></p><ul><li>√(a × b) = √a × √b</li><li>√(a ÷ b) = √a ÷ √b (cuando b ≠ 0)</li><li>√(a²) = |a| (el valor absoluto de a)</li></ul>",
+          "duration": "Lectura de 10 min"
+        },
+        {
+          "id": "lesson-1-3-video",
+          "title": "Video: Potencias y Raíces",
+          "content_type": "video",
+          "video_url": "https://www.youtube.com/embed/8G-s-DnFqSE",
+          "duration": "13:20",
+          "description": "Refuerzo visual sobre potencias, raíces cuadradas y raíces cúbicas"
+        },
+        {
+          "id": "lesson-1-4",
+          "title": "Ecuaciones de Primer Grado",
+          "content_type": "text",
+          "content": "<h3>¿Qué es una Ecuación?</h3><p>Una ecuación es una afirmación matemática que dos expresiones son iguales, separadas por el signo =. Una ecuación de primer grado (también llamada ecuación lineal) es aquella donde la variable (generalmente x) aparece solo con exponente 1. Ejemplo: 2x + 3 = 7.</p><p><strong>Elementos de una ecuación:</strong></p><ul><li><strong>Variable:</strong> La letra (usualmente x) que representa el número desconocido que queremos encontrar</li><li><strong>Coeficientes:</strong> Los números que multiplican a las variables</li><li><strong>Términos:</strong> Las partes sumadas (2x, 3, 7)</li><li><strong>Miembros:</strong> Izquierda y derecha del signo =</li></ul><h3>Resolución de Ecuaciones Lineales</h3><p>El objetivo es aislar la variable (despejar x) en un lado de la ecuación. Usamos operaciones inversas:</p><p><strong>Pasos básicos:</strong></p><ol><li><strong>Simplifica:</strong> Combina términos similares en cada lado</li><li><strong>Mueve variables:</strong> Pasa todos los términos con x a un lado</li><li><strong>Mueve constantes:</strong> Pasa todos los números al otro lado</li><li><strong>Divide por el coeficiente:</strong> Para aislar completamente x</li></ol><p><strong>Ejemplo:</strong> Resuelve 2x + 3 = 7</p><ul><li>Resta 3 de ambos lados: 2x + 3 - 3 = 7 - 3 → 2x = 4</li><li>Divide ambos lados entre 2: 2x/2 = 4/2 → x = 2</li><li>Verificación: 2(2) + 3 = 4 + 3 = 7 ✓</li></ul><p><strong>Regla de oro:</strong> Lo que hagas a un lado de la ecuación, debes hacerlo al otro lado para mantener el equilibrio.</p>",
+          "duration": "Lectura de 10 min"
+        },
+        {
+          "id": "lesson-1-4-video",
+          "title": "Video: Ecuaciones de Primer Grado",
+          "content_type": "video",
+          "video_url": "https://www.youtube.com/embed/H1W5-wQcMZk",
+          "duration": "16:00",
+          "description": "Refuerzo visual sobre resolución de ecuaciones lineales y aplicaciones"
+        },
+        {
+          "id": "lesson-1-5",
+          "title": "Conceptos de Proporcionalidad",
+          "content_type": "text",
+          "content": "<h3>¿Qué es la Proporcionalidad?</h3><p>La proporcionalidad estudia la relación entre dos magnitudes. Cuando una cantidad aumenta o disminuye, la otra lo hace de manera predecible. Esto es fundamental en la vida real: recetas de cocina, escalas en mapas, conversión de unidades, etc.</p><p><strong>Proporcionalidad Directa:</strong></p><p>Dos cantidades son directamente proporcionales cuando su razón es constante. Si x aumenta, y aumenta en la misma proporción. Matemáticamente: y = kx, donde k es la constante de proporcionalidad.</p><p>Ejemplo: Si 3 kilos de manzanas cuesta $15, entonces 6 kilos cuesta $30. La razón es siempre 15/3 = 30/6 = 5 (el precio por kilo).</p><p><strong>Proporcionalidad Inversa:</strong></p><p>Dos cantidades son inversamente proporcionales cuando su producto es constante. Si x aumenta, y disminuye. Matemáticamente: y = k/x.</p><p>Ejemplo: Si 10 obreros pueden terminar un trabajo en 20 días, entonces 20 obreros lo terminarán en 10 días. El producto es siempre 10 × 20 = 20 × 10 = 200.</p><h3>Regla de Tres</h3><p>La regla de tres es una técnica para resolver problemas de proporcionalidad sin necesidad de encontrar explícitamente la constante k.</p><p><strong>Regla de tres simple directa:</strong></p><p>Si a corresponde a b, ¿a qué corresponde c? Respuesta: (c × b) ÷ a</p><p>Ejemplo: Si 5 metros de tela cuesta $50, ¿cuánto cuesta 8 metros?</p><p>Solución: (8 × 50) ÷ 5 = 400 ÷ 5 = $80</p><p><strong>Regla de tres simple inversa:</strong></p><p>Si a corresponde a b (inversamente), ¿a qué corresponde c? Respuesta: (a × b) ÷ c</p>",
+          "duration": "Lectura de 10 min"
+        },
+        {
+          "id": "lesson-1-5-video",
+          "title": "Video: Conceptos de Proporcionalidad",
+          "content_type": "video",
+          "video_url": "https://www.youtube.com/embed/vIwQ-pjDdWE",
+          "duration": "11:30",
+          "description": "Refuerzo visual sobre proporciones directas, inversas y regla de tres"
+        }
+      ]
+    },
+    {
+      "title": "Álgebra Lineal: Introducción",
+      "duration": "2 horas 30 minutos",
+      "lessons": [
+        {
+          "id": "lesson-2-1",
+          "title": "¿Qué es el Álgebra Lineal?",
+          "content_type": "text",
+          "content": "<h3>Definición y Contexto</h3><p>El álgebra lineal es la rama de las matemáticas que estudia objetos algebraicos llamados vectores, matrices y espacios vectoriales. A diferencia del álgebra clásica que trabaja principalmente con números individuales, el álgebra lineal trabaja con colecciones de números organizados en estructuras.</p><h3>¿Por qué es Importante?</h3><p>El álgebra lineal es fundamental en muchas disciplinas modernas:</p><ul><li><strong>Ingeniería:</strong> Diseño de estructuras, análisis de circuitos eléctricos</li><li><strong>Informática:</strong> Gráficos por computadora, machine learning, compresión de datos</li><li><strong>Física:</strong> Representación de fuerzas, campos electromagnéticos, mecánica cuántica</li><li><strong>Economía:</strong> Modelos de sistemas económicos, programación lineal</li><li><strong>Estadística:</strong> Análisis de datos, regresión lineal</li></ul><h3>Conceptos Clave que Aprenderemos</h3><p><strong>Vectores:</strong> Objetos que tienen magnitud y dirección, representados como flechas en el espacio o como listas de números.</p><p><strong>Matrices:</strong> Arreglos rectangulares de números organizados en filas y columnas. Muy útiles para resolver sistemas de ecuaciones y transformar espacios.</p><p><strong>Transformaciones Lineales:</strong> Formas de cambiar vectores de manera predecible y proporcional.</p><p><strong>Sistemas de Ecuaciones Lineales:</strong> Conjuntos de múltiples ecuaciones que deben satisfacerse simultáneamente.</p><p>En este curso introductorio, nos enfocaremos en construir una base sólida en estos conceptos fundamentales que luego podrás aplicar a problemas complejos en tu carrera profesional.</p>",
+          "duration": "Lectura de 8 min"
+        },
+        {
+          "id": "lesson-2-2",
+          "title": "Introducción a Vectores",
+          "content_type": "text",
+          "content": "<h3>¿Qué es un Vector?</h3><p>Un vector es un objeto matemático que tiene dos características principales: magnitud (longitud) y dirección. En la geometría, un vector se representa como una flecha que comienza en un punto inicial y termina en un punto terminal.</p><h3>Representación de Vectores</h3><p><strong>Notación:</strong> Los vectores generalmente se denotan con letras en negrita (v) o con una flecha encima (→v). Por ejemplo: v = (3, 4) o v = ⟨3, 4⟩</p><p><strong>En dos dimensiones (2D):</strong> Un vector se describe con dos componentes (x, y). Por ejemplo, el vector v = (3, 4) significa moverse 3 unidades en la dirección x y 4 unidades en la dirección y desde el origen (0, 0).</p><p><strong>En tres dimensiones (3D):</strong> Un vector se describe con tres componentes (x, y, z). Por ejemplo, v = (1, 2, 3) representa movimiento en el espacio tridimensional.</p><h3>Magnitud de un Vector</h3><p>La magnitud (o longitud) de un vector v = (x, y) se calcula usando el teorema de Pitágoras:</p><p>||v|| = √(x² + y²)</p><p>Ejemplo: Para v = (3, 4), la magnitud es √(3² + 4²) = √(9 + 16) = √25 = 5</p><h3>Vector Unitario</h3><p>Un vector unitario es un vector con magnitud igual a 1. Es útil para indicar dirección sin preocuparse por la longitud. Se obtiene dividiendo cada componente por la magnitud total:</p><p>ũ = v / ||v||</p><p>Para v = (3, 4) con magnitud 5: ũ = (3/5, 4/5) = (0.6, 0.8)</p><h3>Vectores Especiales</h3><p><strong>Vector cero:</strong> Es el vector (0, 0) o (0, 0, 0). No tiene dirección ni magnitud.</p><p><strong>Vectores base:</strong> En 2D, los vectores unitarios i = (1, 0) y j = (0, 1) forman la base estándar. Cualquier vector en 2D puede expresarse como combinación de estos.</p>",
+          "duration": "Lectura de 10 min"
+        },
+        {
+          "id": "lesson-2-2-video",
+          "title": "Video: Introducción a Vectores",
+          "content_type": "video",
+          "video_url": "https://www.youtube.com/embed/r4bH66vYjss",
+          "duration": "18:45",
+          "description": "Refuerzo visual de conceptos de vectores, componentes y representación geométrica"
+        },
+        {
+          "id": "lesson-2-3",
+          "title": "Operaciones con Vectores",
+          "content_type": "text",
+          "content": "<h3>Suma de Vectores</h3><p>Para sumar dos vectores, sumamos sus componentes correspondientes. Si u = (u₁, u₂) y v = (v₁, v₂), entonces u + v = (u₁ + v₁, u₂ + v₂).</p><p><strong>Ejemplo:</strong> Si u = (2, 3) y v = (1, 4), entonces u + v = (2+1, 3+4) = (3, 7)</p><p><strong>Interpretación geométrica:</strong> La suma de vectores se puede visualizar como colocar el inicio de un vector en la punta del otro. El vector resultante va desde el inicio del primero hasta la punta del segundo.</p><h3>Resta de Vectores</h3><p>Para restar vectores, restamos sus componentes: u - v = (u₁ - v₁, u₂ - v₂).</p><p><strong>Ejemplo:</strong> Si u = (5, 3) y v = (2, 1), entonces u - v = (5-2, 3-1) = (3, 2)</p><p><strong>Nota importante:</strong> La resta u - v es equivalente a sumar u con el opuesto de v: u - v = u + (-v)</p><h3>Multiplicación por un Escalar</h3><p>Un escalar es simplemente un número real. Multiplicar un vector por un escalar magnifica o reduce su magnitud y puede cambiar su dirección (si el escalar es negativo).</p><p>Si v = (v₁, v₂) y k es un escalar, entonces kv = (kv₁, kv₂)</p><p><strong>Ejemplo:</strong> Si v = (2, 3) y k = 2, entonces 2v = (4, 6). El nuevo vector tiene el doble de longitud.</p><p><strong>Casos especiales:</strong></p><ul><li>k = 1: El vector no cambia</li><li>k = -1: El vector se invierte de dirección pero mantiene su magnitud</li><li>0 < k < 1: El vector se acorta</li><li>k > 1: El vector se alarga</li><li>k < 0: El vector cambia de dirección</li></ul><h3>Producto Punto (Producto Escalar)</h3><p>El producto punto de dos vectores produce un número (escalar), no un vector. Si u = (u₁, u₂) y v = (v₁, v₂), entonces:</p><p>u · v = u₁v₁ + u₂v₂</p><p><strong>Ejemplo:</strong> Si u = (2, 3) y v = (4, 1), entonces u · v = (2)(4) + (3)(1) = 8 + 3 = 11</p><p><strong>Interpretación geométrica:</strong> El producto punto mide qué tanto \"apunta\" un vector en la dirección del otro. Si es cero, los vectores son perpendiculares.</p><p><strong>Fórmula alternativa:</strong> u · v = ||u|| ||v|| cos(θ), donde θ es el ángulo entre los vectores</p>",
+          "duration": "Lectura de 12 min"
+        },
+        {
+          "id": "lesson-2-3-video",
+          "title": "Video: Operaciones con Vectores",
+          "content_type": "video",
+          "video_url": "https://www.youtube.com/embed/Ejs3YLHUc70",
+          "duration": "15:20",
+          "description": "Refuerzo visual sobre suma, resta y multiplicación escalar de vectores"
+        },
+        {
+          "id": "lesson-2-4",
+          "title": "Introducción a Matrices",
+          "content_type": "text",
+          "content": "<h3>¿Qué es una Matriz?</h3><p>Una matriz es un arreglo rectangular de números organizados en filas (horizontales) y columnas (verticales). Las matrices son herramientas poderosas para resolver sistemas de ecuaciones lineales, representar transformaciones geométricas y procesar datos.</p><h3>Notación y Dimensión</h3><p>Una matriz se denota usualmente con una letra mayúscula como A, B, C, etc. Las dimensiones se expresan como m × n, donde m es el número de filas y n es el número de columnas.</p><p><strong>Ejemplo de matriz 3 × 3:</strong></p><p>A = ⎡1  2  3⎤<br>    ⎢4  5  6⎥<br>    ⎣7  8  9⎦</p><p>Los elementos se denotan como a₍ᵢⱼ₎, donde i es la fila y j es la columna. Por ejemplo, a₍₂,₃₎ = 6 (fila 2, columna 3).</p><h3>Tipos de Matrices</h3><p><strong>Matriz cuadrada:</strong> Tiene el mismo número de filas y columnas (m = n). Ejemplo: matriz 2 × 2.</p><p><strong>Matriz rectangular:</strong> Tiene diferente número de filas y columnas. Ejemplo: matriz 3 × 2.</p><p><strong>Vector fila:</strong> Una matriz con una sola fila. Ejemplo: [1  2  3] (matriz 1 × 3).</p><p><strong>Vector columna:</strong> Una matriz con una sola columna. Ejemplo: ⎡1⎤<br>                  ⎢2⎥ (matriz 3 × 1)<br>                  ⎣3⎦</p><p><strong>Matriz diagonal:</strong> Una matriz cuadrada donde todos los elementos fuera de la diagonal principal son cero:</p><p>D = ⎡2  0  0⎤<br>    ⎢0  5  0⎥<br>    ⎣0  0  3⎦</p><p><strong>Matriz identidad (I):</strong> Una matriz diagonal especial donde todos los elementos de la diagonal son 1:</p><p>I = ⎡1  0  0⎤<br>    ⎢0  1  0⎥<br>    ⎣0  0  1⎦</p><p><strong>Matriz transpuesta (Aᵀ):</strong> Se obtiene intercambiando filas por columnas. Si A es 3 × 2, entonces Aᵀ es 2 × 3.</p><p><strong>Matriz cero:</strong> Todos sus elementos son 0:</p><p>O = ⎡0  0⎤<br>    ⎢0  0⎥</p>",
+          "duration": "Lectura de 12 min"
+        },
+        {
+          "id": "lesson-2-4-video",
+          "title": "Video: Introducción a Matrices",
+          "content_type": "video",
+          "video_url": "https://www.youtube.com/embed/ROIZQ2Pc2Fc",
+          "duration": "16:32",
+          "description": "Refuerzo visual sobre concepto de matriz, tipos de matrices y notación matricial"
+        },
+        {
+          "id": "lesson-2-5",
+          "title": "Operaciones Básicas con Matrices",
+          "content_type": "text",
+          "content": "<h3>Suma de Matrices</h3><p>Para sumar dos matrices, deben tener las mismas dimensiones. Se suma elemento por elemento en las posiciones correspondientes.</p><p><strong>Ejemplo:</strong> Si A = ⎡1  2⎤ y B = ⎡3  1⎤, entonces:</p><p>            ⎢3  4⎥      ⎢2  5⎥</p><p>A + B = ⎡1+3  2+1⎤ = ⎡4  3⎤<br>        ⎢3+2  4+5⎥   ⎢5  9⎥</p><h3>Resta de Matrices</h3><p>Funciona igual que la suma, pero se restan los elementos correspondientes:</p><p>A - B = ⎡1-3  2-1⎤ = ⎡-2  1⎤<br>        ⎢3-2  4-5⎥   ⎢1  -1⎥</p><h3>Multiplicación por un Escalar</h3><p>Se multiplica cada elemento de la matriz por el escalar k:</p><p><strong>Ejemplo:</strong> Si A = ⎡1  2⎤ y k = 3, entonces:</p><p>            ⎢3  4⎥</p><p>3A = ⎡3×1  3×2⎤ = ⎡3   6⎤<br>     ⎢3×3  3×4⎥   ⎢9  12⎥</p><h3>Multiplicación de Matrices</h3><p>La multiplicación de matrices es más compleja. Para multiplicar A (dimensión m × n) por B (dimensión n × p), el número de columnas de A debe ser igual al número de filas de B. El resultado es una matriz de dimensión m × p.</p><p><strong>Cómo se calcula:</strong> El elemento (i, j) de la matriz resultante AB es el producto punto de la fila i de A con la columna j de B.</p><p><strong>Ejemplo: Matriz 2 × 2 por Matriz 2 × 2</strong></p><p>A = ⎡1  2⎤    B = ⎡5  6⎤<br>    ⎢3  4⎥        ⎢7  8⎥</p><p>AB = ⎡(1×5 + 2×7)  (1×6 + 2×8)⎤ = ⎡19  22⎤<br>     ⎢(3×5 + 4×7)  (3×6 + 4×8)⎥   ⎢43  50⎥</p><p><strong>Propiedades importantes:</strong></p><ul><li><strong>No es conmutativa:</strong> AB ≠ BA en general</li><li><strong>Es asociativa:</strong> (AB)C = A(BC)</li><li><strong>Distributiva:</strong> A(B + C) = AB + AC</li><li><strong>Multiplicación por identidad:</strong> AI = IA = A</li></ul><h3>Transposición de Matrices</h3><p>La transpuesta de una matriz A (denotada Aᵀ) se obtiene intercambiando filas y columnas.</p><p><strong>Ejemplo:</strong> Si A = ⎡1  2  3⎤, entonces Aᵀ = ⎡1  4⎤<br>                  ⎢4  5  6⎥              ⎢2  5⎥<br>                                         ⎣3  6⎦</p><p>Note que A es 2 × 3 y Aᵀ es 3 × 2.</p><p><strong>Propiedades:</strong></p><ul><li>(Aᵀ)ᵀ = A (la transpuesta de la transpuesta es la original)</li><li>(A + B)ᵀ = Aᵀ + Bᵀ</li><li>(AB)ᵀ = BᵀAᵀ (¡el orden se invierte!)</li></ul>",
+          "duration": "Lectura de 12 min"
+        },
+        {
+          "id": "lesson-2-5-video",
+          "title": "Video: Operaciones con Matrices",
+          "content_type": "video",
+          "video_url": "https://www.youtube.com/embed/example-matrix-ops",
+          "duration": "17:15",
+          "description": "Refuerzo visual sobre suma, multiplicación y transposición de matrices"
+        },
+        {
+          "id": "lesson-2-6",
+          "title": "Sistemas de Ecuaciones Lineales",
+          "content_type": "text",
+          "content": "<h3>¿Qué es un Sistema de Ecuaciones Lineales?</h3><p>Un sistema de ecuaciones lineales es un conjunto de dos o más ecuaciones lineales que comparten las mismas variables. El objetivo es encontrar los valores de las variables que satisfacen todas las ecuaciones simultáneamente.</p><p><strong>Ejemplo de sistema 2 × 2:</strong></p><p>2x + y = 5<br>x - y = 1</p><p><strong>Tipos de sistemas:</strong></p><ul><li><strong>Sistema compatible determinado:</strong> Tiene exactamente una solución</li><li><strong>Sistema compatible indeterminado:</strong> Tiene infinitas soluciones</li><li><strong>Sistema incompatible:</strong> No tiene solución</li></ul><h3>Métodos de Resolución</h3><p><strong>Método de sustitución:</strong> Despeja una variable en una ecuación y sustituye en la otra.</p><p><strong>Ejemplo:</strong> Del sistema anterior, despejamos x de la segunda ecuación: x = y + 1<br>Sustituimos en la primera: 2(y + 1) + y = 5 → 2y + 2 + y = 5 → 3y = 3 → y = 1<br>Luego x = 1 + 1 = 2. Solución: (2, 1)</p><p><strong>Método de eliminación:</strong> Suma o resta ecuaciones para eliminar una variable.</p><p><strong>Ejemplo:</strong> Sumamos las dos ecuaciones directamente:<br>(2x + y) + (x - y) = 5 + 1 → 3x = 6 → x = 2<br>Sustituimos en cualquier ecuación: 2(2) + y = 5 → 4 + y = 5 → y = 1</p><p><strong>Método de matrices:</strong> Representa el sistema como AX = B, donde A es la matriz de coeficientes, X es el vector de variables y B es el vector de términos independientes.</p><p>Para nuestro ejemplo:<br>A = ⎡2   1⎤, X = ⎡x⎤, B = ⎡5⎤<br>    ⎢1  -1⎥      ⎢y⎥      ⎢1⎥</p><p>La solución sería X = A⁻¹B (si A es invertible)</p><h3>Interpretación Geométrica</h3><p>En dos dimensiones, cada ecuación representa una recta. La solución del sistema es el punto de intersección de las rectas:</p><ul><li>Una solución: las rectas se cortan en un punto</li><li>Infinitas soluciones: las rectas son coincidentes</li><li>Sin solución: las rectas son paralelas</li></ul>",
+          "duration": "Lectura de 10 min"
+        },
+        {
+          "id": "lesson-2-6-video",
+          "title": "Video: Sistemas de Ecuaciones Lineales",
+          "content_type": "video",
+          "video_url": "https://www.youtube.com/embed/example-systems",
+          "duration": "14:45",
+          "description": "Refuerzo visual sobre métodos de resolución de sistemas lineales"
+        },
+        {
+          "id": "lesson-2-7",
+          "title": "Ejercicios Prácticos Integradores",
+          "content_type": "text",
+          "content": "<h3>Problemas de Aplicación</h3><p>Ahora aplicaremos todos los conceptos aprendidos para resolver problemas del mundo real.</p><p><strong>Problema 1: Mezcla de Soluciones</strong></p><p>Tenemos dos soluciones de sal: la solución A contiene 20% de sal y la solución B contiene 50% de sal. ¿Cuántos litros de cada solución debemos mezclar para obtener 10 litros de una solución con 35% de sal?</p><p><strong>Solución:</strong> Sea x = litros de solución A, y = litros de solución B<br>Ecuación 1 (volumen total): x + y = 10<br>Ecuación 2 (contenido de sal): 0.20x + 0.50y = 0.35(10) = 3.5<br>Resolviendo: x = 5 litros, y = 5 litros</p><p><strong>Problema 2: Análisis de Circuitos Eléctricos</strong></p><p>En un circuito simple con dos resistencias en paralelo, la resistencia total Rₜ está dada por:<br>1/Rₜ = 1/R₁ + 1/R₂<br>Si R₁ = 4Ω y Rₜ = 2Ω, encuentra R₂.</p><p><strong>Solución:</strong> 1/2 = 1/4 + 1/R₂ → 1/R₂ = 1/2 - 1/4 = 1/4 → R₂ = 4Ω</p><p><strong>Problema 3: Transformación Geométrica</strong></p><p>Dado el vector v = (2, 3) y la matriz de rotación:<br>A = ⎡cos(90°)  -sin(90°)⎤ = ⎡0  -1⎤<br>    ⎢sin(90°)   cos(90°)⎥   ⎢1   0⎥<br>Calcula Av (rotación de 90° en sentido antihorario).</p><p><strong>Solución:</strong> Av = ⎡0  -1⎤ ⎡2⎤ = ⎡(0)(2) + (-1)(3)⎤ = ⎡-3⎤<br>         ⎢1   0⎥ ⎢3⎥   ⎢(1)(2) + (0)(3) ⎥   ⎢ 2⎥</p><h3>Consejos para el Estudio</h3><ul><li>Practica regularmente con ejercicios de dificultad creciente</li><li>Verifica siempre tus respuestas sustituyendo en las ecuaciones originales</li><li>Dibuja diagramas para problemas geométricos</li><li>Usa software como GeoGebra o calculadoras matriciales para verificar resultados</li><li>Enfócate en entender los conceptos, no solo en memorizar procedimientos</li></ul>",
+          "duration": "Lectura de 15 min"
+        }
+      ]
+    }
+  ]
+}

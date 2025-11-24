@@ -1,0 +1,545 @@
+{
+  "id": "intro-ingenieria",
+  "title": {
+    "es": "Introducción a la Ingeniería",
+    "en": "Introduction to Engineering",
+    "fr": "Introduction à l'ingénierie",
+    "it": "Introduzione all'ingegneria",
+    "de": "Einführung in die Technik"
+  },
+  "career": {
+    "es": "Ingeniería",
+    "en": "Engineering",
+    "fr": "Ingénierie",
+    "it": "Ingegneria",
+    "de": "Technik"
+  },
+  "difficulty": "beginner",
+  "duration": {
+    "es": "4 horas 30 minutos",
+    "en": "4 hours 30 minutes",
+    "fr": "4 heures 30 minutes",
+    "it": "4 ore e 30 minuti",
+    "de": "4 Stunden 30 Minuten"
+  },
+  "description": {
+    "es": "Curso introductorio que explora el fascinante mundo de la ingeniería. Descubre qué hace realmente un ingeniero, desarrolla habilidades de pensamiento algorítmico y domina metodologías sistemáticas para resolver problemas complejos. Perfecto para futuros ingenieros y cualquier persona interesada en el pensamiento sistemático y la resolución creativa de problemas.",
+    "en": "Introductory course that explores the fascinating world of engineering. Discover what an engineer really does, develop algorithmic thinking skills and master systematic methodologies for solving complex problems. Perfect for future engineers and anyone interested in systematic thinking and creative problem solving.",
+    "fr": "Un cours d'introduction qui explore le monde fascinant de l'ingénierie. Découvrez ce que fait réellement un ingénieur, développez des compétences de pensée algorithmique et maîtrisez des méthodologies systématiques pour résoudre des problèmes complexes. Parfait pour les futurs ingénieurs et toute personne intéressée par la pensée systématique et la résolution créative de problèmes.",
+    "it": "Un corso introduttivo che esplora l'affascinante mondo dell'ingegneria. Scoprite cosa fa davvero un ingegnere, sviluppate le capacità di pensiero algoritmico e padroneggiate metodologie sistematiche per risolvere problemi complessi. Perfetto per i futuri ingegneri e per chiunque sia interessato al pensiero sistematico e alla risoluzione creativa dei problemi.",
+    "de": "Ein Einführungskurs, der die faszinierende Welt der Technik erkundet. Entdecken Sie, was ein Ingenieur wirklich tut, entwickeln Sie Fähigkeiten im algorithmischen Denken und beherrschen Sie systematische Methoden zur Lösung komplexer Probleme. Perfekt für angehende Ingenieure und alle, die sich für systematisches Denken und kreative Problemlösungen interessieren."
+  },
+  "thumbnail_url": "/img/courses/ingenieria-intro.png",
+  "tags": {
+    "es": [
+      "Ingeniería",
+      "Pensamiento Algorítmico",
+      "Resolución de Problemas",
+      "Diseño",
+      "Sistemas",
+      "Metodología"
+    ],
+    "en": [
+      "Engineering",
+      "Algorithmic Thinking",
+      "Troubleshooting",
+      "Design",
+      "Systems",
+      "Methodology"
+    ],
+    "fr": [
+      "Ingénierie",
+      "Pensée algorithmique",
+      "Dépannage",
+      "Conception",
+      "Systèmes",
+      "Méthodologie"
+    ],
+    "it": [
+      "Ingegneria",
+      "Pensiero algoritmico",
+      "Risoluzione dei problemi",
+      "Design",
+      "Sistemi",
+      "Metodologia"
+    ],
+    "de": [
+      "Technik",
+      "Algorithmisches Denken",
+      "Fehlersuche",
+      "Gestaltung",
+      "Systeme",
+      "Methodik"
+    ]
+  },
+  "modules": [
+    {
+      "title": {
+        "es": "¿Qué Hace un Ingeniero?",
+        "en": "what Does an Engineer Do?",
+        "fr": "que fait un ingénieur ?",
+        "it": "cosa fa un ingegnere?",
+        "de": "was macht ein Ingenieur?"
+      },
+      "duration": {
+        "es": "1 hora 30 minutos",
+        "en": "1 hour 30 minutes",
+        "fr": "1 heure 30 minutes",
+        "it": "1 ora e 30 minuti",
+        "de": "1 Stunde 30 Minuten"
+      },
+      "lessons": [
+        {
+          "id": "lesson-1-1",
+          "title": {
+            "es": "La Esencia de la Ingeniería",
+            "en": "The Essence of Engineering",
+            "fr": "L'essence de l'ingénierie",
+            "it": "L'essenza dell'ingegneria",
+            "de": "Die Essenz der Technik"
+          },
+          "content_type": "text",
+          "content": {
+            "es": "<h3>Definición y Propósito de la Ingeniería</h3><p>La ingeniería es la aplicación de principios científicos, matemáticos y técnicos para diseñar, construir y mantener estructuras, máquinas, dispositivos, sistemas, materiales y procesos. El objetivo fundamental de la ingeniería es resolver problemas prácticos y mejorar la calidad de vida de las personas.</p><p><strong>Características distintivas de la ingeniería:</strong></p><ul><li><strong>Aplicación práctica:</strong> Transforma conocimiento teórico en soluciones reales</li><li><strong>Enfoque sistemático:</strong> Sigue metodologías estructuradas</li><li><strong>Optimización:</strong> Busca el mejor equilibrio entre coste, eficiencia y seguridad</li><li><strong>Creatividad técnica:</strong> Diseña soluciones innovadoras dentro de restricciones</li></ul><h3>Campos Principales de la Ingeniería</h3><p><strong>Ingeniería Civil:</strong> Diseña y construye infraestructuras como puentes, carreteras, edificios y sistemas de agua.</p><p><strong>Ingeniería Mecánica:</strong> Desarrolla máquinas, sistemas térmicos y dispositivos mecánicos.</p><p><strong>Ingeniería Eléctrica:</strong> Trabaja con sistemas eléctricos, electrónicos y de comunicaciones.</p><p><strong>Ingeniería Química:</strong> Diseña procesos para transformar materias primas en productos útiles.</p><p><strong>Ingeniería de Software:</strong> Desarrolla sistemas y aplicaciones informáticas.</p><p><strong>Ingeniería Industrial:</strong> Optimiza sistemas y procesos productivos.</p><p><strong>Ingeniería Biomédica:</strong> Aplica principios de ingeniería a problemas médicos y biológicos.</p><h3>El Proceso de Diseño en Ingeniería</h3><p>Los ingenieros siguen un proceso sistemático para desarrollar soluciones:</p><p><strong>1. Identificación del Problema:</strong> Comprender claramente qué necesita resolverse</p><p><strong>2. Investigación y Análisis:</strong> Recopilar información relevante y analizar restricciones</p><p><strong>3. Generación de Conceptos:</strong> Crear múltiples ideas y enfoques posibles</p><p><strong>4. Evaluación y Selección:</strong> Comparar alternativas usando criterios objetivos</p><p><strong>5. Desarrollo Detallado:</strong> Elaborar diseños específicos y planos</p><p><strong>6. Pruebas y Validación:</strong> Verificar que la solución funciona como se espera</p><p><strong>7. Implementación:</strong> Construir o implementar la solución</p><p><strong>8. Mejora Continua:</strong> Monitorear y optimizar el desempeño</p><h3>Habilidades Clave del Ingeniero</h3><p><strong>Habilidades Técnicas:</strong></p><ul><li>Matemáticas y ciencias aplicadas</li><li>Análisis y modelado</li><li>Uso de herramientas y software especializado</li></ul><p><strong>Habilidades de Pensamiento:</strong></p><ul><li>Pensamiento crítico y analítico</li><li>Resolución de problemas</li><li>Creatividad e innovación</li></ul><p><strong>Habilidades Interpersonales:</strong></p><ul><li>Comunicación efectiva</li><li>Trabajo en equipo</li><li>Gestión de proyectos</li></ul><h3>Ética y Responsabilidad Profesional</h3><p>Los ingenieros tienen una responsabilidad especial porque sus decisiones afectan la seguridad pública y el medio ambiente. Los principios éticos incluyen:</p><ul><li>Priorizar la seguridad y el bienestar público</li><li>Ser honestos e imparciales</li><li>Mantener la competencia profesional</li><li>Actuar como agentes fieles para empleadores y clientes</li></ul>",
+            "en": "<h3>Definition and Purpose of Engineering</h3><p>Engineering is the application of scientific, mathematical and technical principles to design, build and maintain structures, machines, devices, systems, materials and processes. The fundamental purpose of engineering is to solve practical problems and improve the quality of people's lives.</p><p><strong>Distinctive characteristics of engineering:</strong></p><ul><li><strong>Practical application:</strong> Transforms theoretical knowledge into real solutions</li><li><strong>Systematic approach:</strong> Follows structured methodologies<strong></strong> </li><li><strong>Optimization:</strong> Seeks the best balance between cost, efficiency and safety</li><li><strong>Technical creativity:</strong> Design innovative solutions within constraints<strong></strong> </li></ul><h3>Main Engineering Fields</h3><p><strong>Civil Engineering:</strong> Designs and builds infrastructure such as bridges, roads, buildings and water systems.</p><p><strong>Mechanical Engineering:</strong> Develops machines, thermal systems and mechanical devices.</p><p><strong>Electrical Engineering:</strong> Works with electrical, electronic and communications systems.</p><p><strong>Chemical Engineering:</strong> Designs processes to transform raw materials into useful products.</p><p><strong>Software Engineering:</strong> Develops computer systems and applications.</p><p><strong>Industrial Engineering:</strong> Optimizes production systems and processes.</p><p><strong>Biomedical Engineering:</strong> Applies engineering principles to medical and biological problems.</p><h3>The Engineering Design Process</h3><p>Engineers follow a systematic process to develop solutions:</p><p>1.<strong>Problem Identification:</strong> Clearly understand what needs to be solved</p><p>2.<strong>Research and Analysis:</strong> Gather relevant information and analyze constraints</p><p><strong>3. Concept Generation:</strong> Create multiple possible ideas and approaches</p><p><strong>4. Evaluation and Selection:</strong> Compare alternatives using objective criteria</p><p><strong>5. Detailed Development:</strong> Develop specific designs and plans</p><p><strong>6. Testing and Validation:</strong> Verify that the solution performs as expected</p><p><strong>7. Implementation:</strong> Build or implement the solution</p><p><strong>8. Continuous Improvement:</strong> Monitor and optimize performance</p><h3>Key Engineer Skills</h3><p><strong>Technical Skills:</strong></p><ul><li>Mathematics and applied sciences</li><li>Analysis and modeling</li><li>Use of specialized tools and software</li></ul><p><strong>Thinking Skills:</strong></p><ul><li>Critical and analytical thinking</li><li>Problem solving</li><li>Creativity and innovation</li></ul><p><strong>Interpersonal Skills:</strong></p><ul><li>Effective communication</li><li>Team work</li><li>Project Management</li></ul><h3>Professional Ethics and Responsibility</h3><p>Engineers have a special responsibility because their decisions affect public safety and the environment. Ethical principles include:</p><ul><li>Prioritizing public safety and welfare</li><li>Be honest and impartial</li><li>Maintain professional competence</li><li>Acting as faithful agents for employers and clients</li></ul>",
+            "fr": "<h3>Définition et objectif de l'ingénierie</h3><p>L'ingénierie est l'application de principes scientifiques, mathématiques et techniques pour concevoir, construire et entretenir des structures, des machines, des dispositifs, des systèmes, des matériaux et des processus. L'objectif fondamental de l'ingénierie est de résoudre des problèmes pratiques et d'améliorer la qualité de vie des gens.</p><p><strong>Caractéristiques distinctives de l'ingénierie :</strong></p><ul><li><strong>Application pratique :</strong> transforme les connaissances théoriques en solutions réelles</li><li><strong>Approche systématique :</strong> suit des méthodologies structurées<strong></strong> </li><li><strong>Optimisation :</strong> recherche du meilleur équilibre entre le coût, l'efficacité et la sécurité</li><li><strong>Créativité technique :</strong> concevoir des solutions innovantes en tenant compte des contraintes</li></ul><h3>Principaux domaines de l'ingénierie</h3><p><strong>Génie civil :</strong> conçoit et construit des infrastructures telles que des ponts, des routes, des bâtiments et des systèmes d'adduction d'eau.</p><p><strong>Ingénierie mécanique :</strong> développe des machines, des systèmes thermiques et des dispositifs mécaniques.</p><p><strong>Génie électrique :</strong> travaille sur des systèmes électriques, électroniques et de communication.</p><p><strong>Génie chimique :</strong> conçoit des processus pour transformer les matières premières en produits utiles.</p><p><strong>Génie logiciel :</strong> développe des systèmes et des applications informatiques.</p><p><strong>Génie industriel :</strong> optimise les systèmes et les processus de production.</p><p><strong>Ingénierie biomédicale :</strong> Applique les principes de l'ingénierie aux problèmes médicaux et biologiques.</p><h3>Le processus de conception technique</h3><p>Les ingénieurs suivent un processus systématique pour développer des solutions :</p><p>1.<strong>Identification du problème :</strong> comprendre clairement ce qui doit être résolu</p><p>2.<strong>Recherche et analyse :</strong> recueillir les informations pertinentes et analyser les contraintes</p><p><strong>3. Génération de concepts :</strong> Créer plusieurs idées et approches possibles</p><p><strong>4. Évaluation et sélection :</strong> comparer les alternatives à l'aide de critères objectifs</p><p><strong>5. Développement détaillé :</strong> élaborer des conceptions et des plans spécifiques</p><p><strong>6. Test et validation :</strong> vérifier que la solution fonctionne comme prévu</p><p><strong>7. Mise en œuvre :</strong> construire ou mettre en œuvre la solution</p><p><strong>8. Amélioration continue :</strong> surveiller et optimiser les performances</p><h3>Compétences clés de l'ingénieur</h3><p><strong>Compétences techniques :</strong></p><ul><li>Mathématiques et sciences appliquées</li><li>Analyse et modélisation</li><li>Utilisation d'outils et de logiciels spécialisés</li></ul><p><strong>Capacité de réflexion :</strong></p><ul><li>Pensée critique et analytique</li><li>Résolution de problèmes</li><li>Créativité et innovation</li></ul><p><strong>Compétences interpersonnelles :</strong></p><ul><li>Communication efficace</li><li>Travail en équipe</li><li>Gestion de projet</li></ul><h3>Éthique et responsabilité professionnelles</h3><p>Les ingénieurs ont une responsabilité particulière car leurs décisions affectent la sécurité publique et l'environnement. Les principes éthiques comprennent</p><ul><li>Donner la priorité à la sécurité et au bien-être du public</li><li>Être honnête et impartial</li><li>Maintenir la compétence professionnelle</li><li>Agir en tant qu'agents loyaux pour les employeurs et les clients</li></ul>",
+            "it": "<h3>Definizione e scopo dell'ingegneria</h3><p>L'ingegneria è l'applicazione di principi scientifici, matematici e tecnici per progettare, costruire e mantenere strutture, macchine, dispositivi, sistemi, materiali e processi. Lo scopo fondamentale dell'ingegneria è risolvere problemi pratici e migliorare la qualità della vita delle persone.</p><p><strong>Caratteristiche distintive dell'ingegneria:</strong></p><ul><li><strong>Applicazione pratica:</strong> trasforma le conoscenze teoriche in soluzioni reali</li><li><strong>Approccio sistematico:</strong> segue metodologie strutturate<strong></strong> </li><li><strong>Ottimizzazione:</strong> ricerca il miglior equilibrio tra costi, efficienza e sicurezza</li><li><strong>Creatività tecnica:</strong> progetta soluzioni innovative nel rispetto dei vincoli</li></ul><h3>Principali settori dell'ingegneria</h3><p><strong>Ingegneria civile:</strong> progetta e costruisce infrastrutture come ponti, strade, edifici e sistemi idrici.</p><p><strong>Ingegneria meccanica:</strong> sviluppa macchine, sistemi termici e dispositivi meccanici.</p><p><strong>Ingegneria elettrica:</strong> lavora con sistemi elettrici, elettronici e di comunicazione.</p><p><strong>Ingegneria chimica:</strong> progetta processi per trasformare le materie prime in prodotti utili.</p><p><strong>Ingegneria del software:</strong> sviluppa sistemi e applicazioni informatiche.</p><p><strong>Ingegneria industriale:</strong> ottimizza i sistemi e i processi di produzione.</p><p><strong>Ingegneria biomedica:</strong> Applica i principi dell'ingegneria a problemi medici e biologici.</p><h3>Il processo di progettazione ingegneristica</h3><p>Gli ingegneri seguono un processo sistematico per sviluppare soluzioni:</p><p>1.<strong>Identificazione del problema:</strong> comprendere chiaramente ciò che deve essere risolto</p><p>2.<strong>Ricerca e analisi:</strong> raccogliere informazioni rilevanti e analizzare i vincoli</p><p><strong>3. Generazione di concetti:</strong> Creare più idee e approcci possibili</p><p><strong>4. Valutazione e selezione:</strong> confrontare le alternative utilizzando criteri oggettivi</p><p><strong>5. Sviluppo dettagliato:</strong> sviluppo di progetti e piani specifici</p><p><strong>6. Test e convalida:</strong> verifica che la soluzione funzioni come previsto</p><p><strong>7. Implementazione:</strong> costruire o implementare la soluzione</p><p><strong>8. Miglioramento continuo:</strong> monitorare e ottimizzare le prestazioni<strong></strong> </p><h3>Competenze chiave dell'ingegnere</h3><p><strong>Competenze tecniche:</strong></p><ul><li>Matematica e scienze applicate</li><li>Analisi e modellazione</li><li>Uso di strumenti e software specializzati</li></ul><p><strong>Capacità di pensiero:</strong></p><ul><li>Pensiero critico e analitico</li><li>Risoluzione di problemi</li><li>Creatività e innovazione</li></ul><p><strong>Abilità interpersonali:</strong></p><ul><li>Comunicazione efficace</li><li>Lavoro di squadra</li><li>Gestione del progetto</li></ul><h3>Etica professionale e responsabilità</h3><p>Gli ingegneri hanno una responsabilità particolare perché le loro decisioni influiscono sulla sicurezza pubblica e sull'ambiente. I principi etici comprendono</p><ul><li>Dare priorità alla sicurezza e al benessere del pubblico</li><li>Essere onesti e imparziali</li><li>Mantenere la competenza professionale</li><li>Agire come agenti fedeli per i datori di lavoro e i clienti</li></ul>",
+            "de": "<h3>Definition und Zweck des Ingenieurwesens</h3><p>Ingenieurwesen ist die Anwendung wissenschaftlicher, mathematischer und technischer Prinzipien, um Strukturen, Maschinen, Geräte, Systeme, Materialien und Prozesse zu entwerfen, zu bauen und zu warten. Der Hauptzweck des Ingenieurwesens besteht darin, praktische Probleme zu lösen und die Lebensqualität der Menschen zu verbessern.</p><p><strong>Unterscheidungsmerkmale der Ingenieurwissenschaften:</strong></p><ul><li><strong>Praktische Anwendung:</strong> Setzt theoretisches Wissen in reale Lösungen um</li><li><strong>Systematischer Ansatz:</strong> Folgt strukturierten Methoden<strong></strong> </li><li><strong>Optimierung:</strong> Suche nach dem besten Gleichgewicht zwischen Kosten, Effizienz und Sicherheit</li><li><strong>Technische Kreativität:</strong> Entwerfen innovativer Lösungen innerhalb bestimmter Grenzen</li></ul><h3>Hauptbereiche des Ingenieurwesens</h3><p><strong>Bauingenieurwesen:</strong> Entwirft und baut Infrastrukturen wie Brücken, Straßen, Gebäude und Wassersysteme.</p><p><strong>Maschinenbau:</strong> Entwickelt Maschinen, thermische Systeme und mechanische Geräte.</p><p><strong>Elektrotechnik:</strong> Arbeitet mit elektrischen, elektronischen und Kommunikationssystemen.</p><p><strong>Chemieingenieurwesen:</strong> Entwickelt Verfahren zur Umwandlung von Rohstoffen in nützliche Produkte.</p><p><strong>Softwaretechnik:</strong> Entwickelt Computersysteme und -anwendungen.</p><p><strong>Wirtschaftsingenieurwesen:</strong> Optimiert Produktionssysteme und -prozesse.</p><p><strong>Biomedizinische Technik:</strong> Wendet ingenieurwissenschaftliche Prinzipien auf medizinische und biologische Probleme an.</p><h3>Der technische Entwurfsprozess</h3><p>Ingenieure folgen einem systematischen Prozess, um Lösungen zu entwickeln:</p><p>1.<strong>Problemidentifizierung:</strong> Klar verstehen, was gelöst werden muss</p><p>2.<strong>Recherche und Analyse:</strong> Sammeln relevanter Informationen und Analyse von Randbedingungen</p><p><strong>3. Konzeptentwicklung:</strong> Entwicklung mehrerer möglicher Ideen und Ansätze</p><p><strong>4. Bewertung und Auswahl:</strong> Vergleich von Alternativen anhand objektiver Kriterien</p><p><strong>5. Detaillierte Entwicklung:</strong> Entwicklung spezifischer Designs und Pläne</p><p><strong>6. Testen und Validieren:</strong> Überprüfen, ob die Lösung wie erwartet funktioniert</p><p><strong>7. Implementierung:</strong> Aufbau oder Implementierung der Lösung</p><p><strong>8. Kontinuierliche Verbesserung:</strong> Überwachen und Optimieren der Leistung</p><h3>Schlüsselqualifikationen des Ingenieurs</h3><p><strong>Technische Fertigkeiten:</strong></p><ul><li>Mathematik und angewandte Wissenschaften</li><li>Analyse und Modellierung</li><li>Einsatz von Spezialwerkzeugen und Software</li></ul><p><strong>Denkfähigkeiten:</strong></p><ul><li>Kritisches und analytisches Denken</li><li>Problemlösung</li><li>Kreativität und Innovation</li></ul><p><strong>Zwischenmenschliche Fertigkeiten:</strong></p><ul><li>Effektive Kommunikation</li><li>Teamarbeit</li><li>Projektleitung</li></ul><h3>Berufsethik und Verantwortung</h3><p>Ingenieure tragen eine besondere Verantwortung, da ihre Entscheidungen Auswirkungen auf die öffentliche Sicherheit und die Umwelt haben. Zu den ethischen Grundsätzen gehören:</p><ul><li>Vorrang für die öffentliche Sicherheit und das Wohlergehen</li><li>Ehrlich und unparteiisch sein</li><li>Aufrechterhaltung der beruflichen Kompetenz</li><li>Als treue Vertreter von Arbeitgebern und Kunden handeln</li></ul>"
+          },
+          "duration": {
+            "es": "Lectura de 12 min",
+            "en": "12 min reading",
+            "fr": "12 min de lecture",
+            "it": "12 min di lettura",
+            "de": "12 min Lesen"
+          }
+        },
+        {
+          "id": "lesson-1-1-video",
+          "title": {
+            "es": "Video: ¿Qué es la Ingeniería?",
+            "en": "Video: What is Engineering?",
+            "fr": "Vidéo : Qu'est-ce que l'ingénierie ?",
+            "it": "Video: Che cos'è l'ingegneria?",
+            "de": "Video: Was ist Technik?"
+          },
+          "content_type": "video",
+          "video_url": "https://www.youtube.com/embed/example-engineering",
+          "description": {
+            "es": "Refuerzo visual sobre la esencia de la ingeniería y sus diferentes campos",
+            "en": "Visual reinforcement on the essence of engineering and its different fields",
+            "fr": "Refuerzo visual sobre la esencia de la ingeniería y sus diferentes campos",
+            "it": "Rinforzo visivo sull'essenza dell'ingegneria e dei suoi diversi campi",
+            "de": "Visuelle Verstärkung des Wesens der Technik und ihrer verschiedenen Bereiche"
+          },
+          "duration": {
+            "es": "10:45",
+            "en": "10:45",
+            "fr": "10:45",
+            "it": "10:45",
+            "de": "10:45"
+          }
+        },
+        {
+          "id": "lesson-1-2",
+          "title": {
+            "es": "Grandes Logros de la Ingeniería",
+            "en": "Great Engineering Achievements",
+            "fr": "Grandes réalisations en matière d'ingénierie",
+            "it": "Grandi successi ingegneristici",
+            "de": "Große technische Errungenschaften"
+          },
+          "content_type": "text",
+          "content": {
+            "es": "<h3>Ingeniería que Transformó el Mundo</h3><p><strong>El Acueducto Romano:</strong> Sistemas de distribución de agua que permitieron el crecimiento de ciudades.</p><p><strong>La Revolución Industrial:</strong> Máquinas de vapor y procesos de manufactura que cambiaron la producción.</p><p><strong>La Red Eléctrica:</strong> Sistemas de generación y distribución de energía eléctrica.</p><p><strong>Internet y las Comunicaciones:</strong> Infraestructura digital que conecta al mundo.</p><p><strong>Exploración Espacial:</strong> Cohetes, satélites y naves espaciales.</p><p><strong>Dispositivos Médicos:</strong> Marcapasos, prótesis y equipos de diagnóstico.</p><h3>Ingenieros Famosos y sus Contribuciones</h3><p><strong>Leonardo da Vinci:</strong> Diseños visionarios de máquinas y dispositivos.</p><p><strong>Isambard Kingdom Brunel:</strong> Puentes, barcos de vapor y ferrocarriles.</p><p><strong>Nikola Tesla:</strong> Sistemas de corriente alterna y transmisión inalámbrica.</p><p><strong>Grace Hopper:</strong> Desarrollo de lenguajes de programación.</p><p><strong>Elon Musk:</strong> Vehículos eléctricos y tecnología espacial reutilizable.</p><h3>Desafíos Actuales de la Ingeniería</h3><p><strong>Sostenibilidad Ambiental:</strong> Diseñar sistemas que minimicen el impacto ambiental.</p><p><strong>Energía Renovable:</strong> Desarrollar fuentes de energía limpias y eficientes.</p><p><strong>Infraestructura Resiliente:</strong> Crear sistemas que resistan desastres naturales.</p><p><strong>Salud y Biotecnología:</strong> Avances en ingeniería médica y dispositivos de diagnóstico.</p><p><strong>Inteligencia Artificial:</strong> Sistemas autónomos y machine learning.</p>",
+            "en": "<h3>Engineering that Transformed the World</h3><p><strong>The Roman Aqueduct:</strong> Water distribution systems that allowed cities to grow.</p><p><strong>The Industrial Revolution:</strong> Steam engines and manufacturing processes that changed production.</p><p><strong>The Electric Grid:</strong> Electric power generation and distribution systems.</p><p><strong>Internet and Communications:</strong> Digital infrastructure that connects the world.</p><p><strong>Space Exploration:</strong> Rockets, satellites and spacecraft.</p><p><strong>Medical Devices:</strong> Pacemakers, prosthetics and diagnostic equipment.</p><h3>Famous Engineers and their Contributions</h3><p><strong>Leonardo da Vinci:</strong> Visionary designs of machines and devices.</p><p><strong>Isambard Kingdom Brunel:</strong> Bridges, steamships and railroads.</p><p><strong>Nikola Tesla:</strong> Alternating current systems and wireless transmission.</p><p><strong>Grace Hopper:</strong> Development of programming languages.</p><p><strong>Elon Musk:</strong> Electric vehicles and reusable space technology.</p><h3>Current Engineering Challenges</h3><p><strong>Environmental Sustainability:</strong> Design systems that minimize environmental impact.</p><p><strong>Renewable Energy:</strong> Develop clean and efficient energy sources.</p><p><strong>Resilient Infrastructure:</strong> Create systems that withstand natural disasters.</p><p><strong>Health and Biotechnology:</strong> Advances in medical engineering and diagnostic devices.</p><p><strong>Artificial Intelligence:</strong> Autonomous systems and machine learning.</p>",
+            "fr": "<h3>L'ingénierie qui a transformé le monde</h3><p><strong>L'aqueduc romain :</strong> systèmes de distribution d'eau qui ont permis aux villes de se développer.</p><p><strong>La révolution industrielle : les</strong> moteurs à vapeur et les procédés de fabrication qui ont changé la production.</p><p><strong>Le réseau électrique :</strong> systèmes de production et de distribution d'électricité.</p><p><strong>L'internet et les communications :</strong> Infrastructure numérique reliant le monde entier.</p><p><strong>Exploration spatiale :</strong> fusées, satellites et engins spatiaux.</p><p><strong>Dispositifs médicaux :</strong> stimulateurs cardiaques, prothèses et équipements de diagnostic.</p><h3>Ingénieurs célèbres et leurs contributions</h3><p><strong>Léonard de Vinci :</strong> conception visionnaire de machines et d'appareils.</p><p><strong>Isambard Kingdom Brunel :</strong> ponts, navires à vapeur et chemins de fer.</p><p><strong>Nikola Tesla :</strong> systèmes à courant alternatif et transmission sans fil.</p><p><strong>Grace Hopper :</strong> développement de langages de programmation.</p><p><strong>Elon Musk :</strong> véhicules électriques et technologie spatiale réutilisable.</p><h3>Défis actuels en matière d'ingénierie</h3><p><strong>Durabilité environnementale :</strong> concevoir des systèmes qui minimisent l'impact sur l'environnement.</p><p><strong>Énergies renouvelables :</strong> développer des sources d'énergie propres et efficaces.</p><p><strong>Infrastructure résiliente :</strong> Créer des systèmes qui résistent aux catastrophes naturelles.</p><p><strong>Santé et biotechnologie :</strong> progrès dans le domaine de l'ingénierie médicale et des dispositifs de diagnostic.</p><p><strong>Intelligence artificielle :</strong> systèmes autonomes et apprentissage automatique.</p>",
+            "it": "<h3>L'ingegneria che ha trasformato il mondo</h3><p><strong>L'acquedotto romano:</strong> sistemi di distribuzione dell'acqua che hanno permesso la crescita delle città.</p><p><strong>La rivoluzione industriale:</strong> motori a vapore e processi produttivi che hanno cambiato la produzione.</p><p><strong>La rete elettrica:</strong> sistemi di generazione e distribuzione dell'energia elettrica.</p><p><strong>Internet e le comunicazioni:</strong> Infrastruttura digitale che collega il mondo.</p><p><strong>Esplorazione dello spazio:</strong> razzi, satelliti e veicoli spaziali.</p><p><strong>Dispositivi medici:</strong> pacemaker, protesi e apparecchiature diagnostiche.</p><h3>Ingegneri famosi e il loro contributo</h3><p><strong>Leonardo da Vinci:</strong> progettazione visionaria di macchine e dispositivi.</p><p><strong>Isambard Kingdom Brunel:</strong> ponti, piroscafi e ferrovie.</p><p><strong>Nikola Tesla:</strong> sistemi a corrente alternata e trasmissione wireless.</p><p><strong>Grace Hopper:</strong> sviluppo di linguaggi di programmazione.</p><p><strong>Elon Musk:</strong> veicoli elettrici e tecnologia spaziale riutilizzabile.</p><h3>Sfide attuali dell'ingegneria</h3><p><strong>Sostenibilità ambientale:</strong> progettare sistemi che riducano al minimo l'impatto ambientale.</p><p><strong>Energia rinnovabile:</strong> sviluppare fonti energetiche pulite ed efficienti.</p><p><strong>Infrastrutture resilienti:</strong> Creare sistemi in grado di resistere ai disastri naturali.</p><p><strong>Salute e biotecnologia:</strong> progressi nell'ingegneria medica e nei dispositivi diagnostici.</p><p><strong>Intelligenza artificiale:</strong> sistemi autonomi e apprendimento automatico.</p>",
+            "de": "<h3>Technik, die die Welt veränderte</h3><p><strong>Das römische Aquädukt:</strong> Wasserverteilungssysteme, die das Wachstum der Städte ermöglichten.</p><p><strong>Die industrielle Revolution:</strong> Dampfmaschinen und Fertigungsverfahren, die die Produktion veränderten.</p><p><strong>Das Stromnetz:</strong> Systeme zur Erzeugung und Verteilung elektrischer Energie.</p><p><strong>Internet und Kommunikation:</strong> Digitale Infrastruktur, die die Welt verbindet.</p><p><strong>Erforschung des Weltraums:</strong> Raketen, Satelliten und Raumfahrzeuge.</p><p><strong>Medizinische Geräte:</strong> Herzschrittmacher, Prothesen und Diagnosegeräte.</p><h3>Berühmte Ingenieure und ihre Beiträge</h3><p><strong>Leonardo da Vinci:</strong> Visionäre Entwürfe von Maschinen und Geräten.</p><p><strong>Isambard Kingdom Brunel:</strong> Brücken, Dampfschiffe und Eisenbahnen.</p><p><strong>Nikola Tesla:</strong> Wechselstromsysteme und drahtlose Übertragung.</p><p><strong>Grace Hopper:</strong> Entwicklung von Programmiersprachen.</p><p><strong>Elon Musk:</strong> Elektrofahrzeuge und wiederverwendbare Raumfahrttechnik.</p><h3>Aktuelle technische Herausforderungen</h3><p><strong>Ökologische Nachhaltigkeit:</strong> Entwicklung von Systemen, die die Umwelt so wenig wie möglich belasten.</p><p><strong>Erneuerbare Energien:</strong> Entwicklung sauberer und effizienter Energiequellen.</p><p><strong>Widerstandsfähige Infrastruktur:</strong> Systeme schaffen, die Naturkatastrophen standhalten.</p><p><strong>Gesundheit und Biotechnologie:</strong> Fortschritte in der Medizintechnik und bei Diagnosegeräten.</p><p><strong>Künstliche Intelligenz:</strong> Autonome Systeme und maschinelles Lernen.</p>"
+          },
+          "duration": {
+            "es": "Lectura de 10 min",
+            "en": "10 min reading",
+            "fr": "10 min de lecture",
+            "it": "10 minuti di lettura",
+            "de": "10 min Lesen"
+          }
+        },
+        {
+          "id": "lesson-1-2-video",
+          "title": {
+            "es": "Video: Logros de la Ingeniería",
+            "en": "Video: Engineering Achievements",
+            "fr": "Vidéo : Réalisations en matière d'ingénierie",
+            "it": "Video: Realizzazioni ingegneristiche",
+            "de": "Video: Technische Errungenschaften"
+          },
+          "content_type": "video",
+          "video_url": "https://www.youtube.com/embed/example-achievements",
+          "description": {
+            "es": "Refuerzo visual sobre grandes logros de la ingeniería a través de la historia",
+            "en": "Visual reinforcement on great engineering achievements throughout history",
+            "fr": "Renforcement visuel des grandes réalisations techniques à travers l'histoire",
+            "it": "Rafforzamento visivo delle grandi conquiste ingegneristiche nel corso della storia",
+            "de": "Visuelle Verstärkung der großen technischen Errungenschaften im Laufe der Geschichte"
+          },
+          "duration": {
+            "es": "12:20",
+            "en": "12:20",
+            "fr": "12:20",
+            "it": "12:20",
+            "de": "12:20"
+          }
+        },
+        {
+          "id": "lesson-1-3",
+          "title": {
+            "es": "El Rol del Ingeniero en la Sociedad",
+            "en": "The Role of the Engineer in Society",
+            "fr": "Le rôle de l'ingénieur dans la société",
+            "it": "Il ruolo dell'ingegnere nella società",
+            "de": "Die Rolle des Ingenieurs in der Gesellschaft"
+          },
+          "content_type": "text",
+          "content": {
+            "es": "<h3>Impacto Social de la Ingeniería</h3><p>Los ingenieros juegan un papel crucial en el desarrollo social y económico:</p><p><strong>Mejora de la Calidad de Vida:</strong> Acceso a agua limpia, energía, comunicaciones y transporte.</p><p><strong>Desarrollo Económico:</strong> Infraestructura que permite el comercio y la industria.</p><p><strong>Innovación Tecnológica:</strong> Nuevos productos y servicios que crean oportunidades.</p><p><strong>Seguridad Pública:</strong> Estructuras y sistemas seguros para la comunidad.</p><h3>Responsabilidades Profesionales</h3><p><strong>Seguridad:</strong> Garantizar que los diseños no pongan en riesgo a las personas.</p><p><strong>Sostenibilidad:</strong> Considerar el impacto ambiental a largo plazo.</p><p><strong>Eficiencia:</strong> Optimizar el uso de recursos.</p><p><strong>Accesibilidad:</strong> Diseñar soluciones que beneficien a todos.</p><h3>Tendencias Futuras en Ingeniería</h3><p><strong>Ingeniería Interdisciplinaria:</strong> Colaboración entre diferentes especialidades.</p><p><strong>Digitalización:</strong> Uso de BIM, IoT y otras tecnologías digitales.</p><p><strong>Economía Circular:</strong> Diseño de sistemas que minimicen residuos.</p><p><strong>Ingeniería Global:</strong> Soluciones para desafíos que trascienden fronteras.</p>",
+            "en": "<h3>Social Impact of Engineering</h3><p>Engineers play a crucial role in social and economic development:</p><p><strong>Improved Quality of Life:</strong> Access to clean water, energy, communications and transportation.</p><p><strong>Economic Development:</strong> Infrastructure that enables commerce and industry.</p><p><strong>Technological Innovation:</strong> New products and services that create opportunities.</p><p><strong>Public Safety:</strong> Safe structures and systems for the community.</p><h3>Professional Responsibilities</h3><p><strong>Safety:</strong> Ensuring that designs do not put people at risk.</p><p><strong>Sustainability:</strong> Consider long-term environmental impact.</p><p><strong>Efficiency:</strong> Optimize the use of resources.</p><p><strong>Accessibility:</strong> Design solutions that benefit everyone.</p><h3>Future Trends in Engineering</h3><p><strong>Interdisciplinary Engineering:</strong> Collaboration between different specialties.</p><p><strong>Digitalization:</strong> Use of BIM, IoT and other digital technologies.</p><p><strong>Circular Economy:</strong> Designing systems that minimize waste.</p><p><strong>Global Engineering:</strong> Solutions for challenges that transcend borders.</p>",
+            "fr": "<h3>Impact social de l'ingénierie</h3><p>Les ingénieurs jouent un rôle crucial dans le développement social et économique :</p><p><strong>Amélioration de la qualité de vie :</strong> accès à l'eau potable, à l'énergie, aux communications et aux transports.</p><p><strong>Développement économique :</strong> infrastructures permettant le commerce et l'industrie.</p><p><strong>Innovation technologique :</strong> nouveaux produits et services qui créent des opportunités.</p><p><strong>Sécurité publique :</strong> structures et systèmes sûrs pour la communauté.</p><h3>Responsabilités professionnelles</h3><p><strong>Sécurité :</strong> veiller à ce que les conceptions ne mettent pas les personnes en danger.</p><p><strong>Durabilité :</strong> prendre en compte l'impact environnemental à long terme.</p><p><strong>Efficacité :</strong> optimiser l'utilisation des ressources.</p><p><strong>Accessibilité :</strong> concevoir des solutions qui profitent à tous.</p><h3>Tendances futures de l'ingénierie</h3><p><strong>Ingénierie interdisciplinaire :</strong> collaboration entre différentes spécialités.</p><p><strong>Digitalisation :</strong> utilisation du BIM, de l'IoT et d'autres technologies numériques.</p><p><strong>Économie circulaire :</strong> conception de systèmes qui minimisent les déchets.</p><p><strong>Ingénierie mondiale :</strong> solutions pour des défis qui dépassent les frontières.</p>",
+            "it": "<h3>Impatto sociale dell'ingegneria</h3><p>Gli ingegneri svolgono un ruolo cruciale nello sviluppo sociale ed economico:</p><p><strong>Miglioramento della qualità della vita:</strong> accesso ad acqua pulita, energia, comunicazioni e trasporti.</p><p><strong>Sviluppo economico:</strong> infrastrutture che consentono il commercio e l'industria.</p><p><strong>Innovazione tecnologica:</strong> nuovi prodotti e servizi che creano opportunità.</p><p><strong>Sicurezza pubblica:</strong> strutture e sistemi sicuri per la comunità.</p><h3>Responsabilità professionali</h3><p><strong>Sicurezza:</strong> garantire che i progetti non mettano a rischio le persone.</p><p><strong>Sostenibilità:</strong> considerare l'impatto ambientale a lungo termine.</p><p><strong>Efficienza:</strong> ottimizzare l'uso delle risorse.</p><p><strong>Accessibilità:</strong> progettare soluzioni che vadano a beneficio di tutti.</p><h3>Tendenze future dell'ingegneria</h3><p><strong>Ingegneria interdisciplinare:</strong> collaborazione tra diverse specialità.</p><p><strong>Digitalizzazione:</strong> utilizzo di BIM, IoT e altre tecnologie digitali.</p><p><strong>Economia circolare:</strong> progettazione di sistemi che riducono al minimo i rifiuti.</p><p><strong>Ingegneria globale:</strong> soluzioni per sfide che superano i confini.</p>",
+            "de": "<h3>Soziale Auswirkungen des Ingenieurwesens</h3><p>Ingenieure spielen eine entscheidende Rolle bei der sozialen und wirtschaftlichen Entwicklung:</p><p><strong>Verbesserte Lebensqualität:</strong> Zugang zu sauberem Wasser, Energie, Kommunikation und Transport.</p><p><strong>Wirtschaftliche Entwicklung:</strong> Infrastruktur, die Handel und Industrie ermöglicht.</p><p><strong>Technologische Innovation:</strong> Neue Produkte und Dienstleistungen, die neue Möglichkeiten schaffen.</p><p><strong>Öffentliche Sicherheit:</strong> Sichere Strukturen und Systeme für die Gemeinschaft.</p><h3>Professionelle Verantwortlichkeiten</h3><p><strong>Sicherheit:</strong> Sicherstellen, dass Entwürfe keine Gefahr für Menschen darstellen.</p><p><strong>Nachhaltigkeit:</strong> Berücksichtigung der langfristigen Umweltauswirkungen.</p><p><strong>Effizienz:</strong> Optimierung des Ressourceneinsatzes.</p><p><strong>Zugänglichkeit:</strong> Entwicklung von Lösungen, die allen zugute kommen.</p><h3>Zukünftige Trends im Ingenieurwesen</h3><p><strong>Interdisziplinäres Engineering:</strong> Zusammenarbeit zwischen verschiedenen Fachbereichen.</p><p><strong>Digitalisierung:</strong> Einsatz von BIM, IoT und anderen digitalen Technologien.</p><p><strong>Kreislaufwirtschaft:</strong> Entwurf von Systemen, die Abfälle minimieren.</p><p><strong>Global Engineering:</strong> Lösungen für Herausforderungen, die über Grenzen hinausgehen.</p>"
+          },
+          "duration": {
+            "es": "Lectura de 8 min",
+            "en": "8 min reading",
+            "fr": "8 min de lecture",
+            "it": "8 min lettura",
+            "de": "8 min Lesen"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "es": "Pensamiento Algorítmico",
+        "en": "Algorithmic Thinking",
+        "fr": "Pensée algorithmique",
+        "it": "Pensiero algoritmico",
+        "de": "Algorithmisches Denken"
+      },
+      "duration": {
+        "es": "1 hora 30 minutos",
+        "en": "1 hour 30 minutes",
+        "fr": "1 heure 30 minutes",
+        "it": "1 ora e 30 minuti",
+        "de": "1 Stunde 30 Minuten"
+      },
+      "lessons": [
+        {
+          "id": "lesson-2-1",
+          "title": {
+            "es": "Fundamentos del Pensamiento Algorítmico",
+            "en": "Fundamentals of Algorithmic Thinking",
+            "fr": "Principes fondamentaux de la pensée algorithmique",
+            "it": "Fondamenti del pensiero algoritmico",
+            "de": "Grundlagen des algorithmischen Denkens"
+          },
+          "content_type": "text",
+          "content": {
+            "es": "<h3>¿Qué es un Algoritmo?</h3><p>Un algoritmo es un conjunto de pasos definidos y ordenados para resolver un problema o realizar una tarea. Es la base del pensamiento computacional y se aplica en todas las áreas de la ingeniería.</p><p><strong>Características de un buen algoritmo:</strong></p><ul><li><strong>Preciso:</strong> Cada paso está claramente definido</li><li><strong>Determinista:</strong> Siempre produce el mismo resultado con las mismas entradas</li><li><strong>Finito:</strong> Termina después de un número finito de pasos</li><li><strong>Eficiente:</strong> Utiliza recursos de manera óptima</li></ul><h3>Componentes Básicos de los Algoritmos</h3><p><strong>Secuencias:</strong> Pasos que se ejecutan en orden</p><p><strong>Condicionales:</strong> Decisiones basadas en condiciones (si-entonces-si no)</p><p><strong>Bucles:</strong> Repetición de pasos mientras se cumpla una condición</p><p><strong>Variables:</strong> Almacenamiento de datos que pueden cambiar</p><h3>Representación de Algoritmos</h3><p><strong>Diagramas de Flujo:</strong> Representación visual usando símbolos estándar</p><p><strong>Pseudocódigo:</strong> Descripción en lenguaje natural estructurado</p><p><strong>Lenguajes de Programación:</strong> Implementación en código ejecutable</p><h3>Ejemplos de Algoritmos Cotidianos</h3><p><strong>Preparar una Taza de Té:</strong></p><ol><li>Hervir agua</li><li>Poner una bolsa de té en la taza</li><li>Verter agua caliente en la taza</li><li>Esperar 3 minutos</li><li>Remover la bolsa de té</li><li>Añadir azúcar si se desea</li></ol><p><strong>Encontrar un Libro en una Biblioteca:</strong></p><ol><li>Ir al catálogo</li><li>Buscar por título o autor</li><li>Anotar la ubicación</li><li>Ir a la sección correspondiente</li><li>Buscar el libro en los estantes</li></ol>",
+            "en": "<h3>what is an Algorithm?</h3><p>An algorithm is a set of defined and ordered steps to solve a problem or perform a task. It is the basis of computational thinking and is applied in all areas of engineering.</p><p><strong>Characteristics of a good algorithm:</strong></p><ul><li><strong>Precise:</strong> Each step is clearly defined</li><li><strong>Deterministic:</strong> It always produces the same result with the same inputs</li><li><strong>Finite:</strong> Terminates after a finite number of steps</li><li><strong>Efficient:</strong> Uses resources optimally</li></ul><h3>Basic Components of Algorithms</h3><p><strong>Sequences:</strong> Steps that are executed in order</p><p><strong>Conditional:</strong> Decisions based on conditions (if-then-if-if-not)</p><p><strong>Loops:</strong> Repetition of steps as long as a condition is met</p><p><strong>Variables:</strong> Storage of data that can change</p><h3>Algorithm Representation</h3><p><strong>Flowcharts:</strong> Visual representation using standard symbols</p><p><strong>Pseudocode:</strong> Description in structured natural language</p><p><strong>Programming Languages:</strong> Implementation in executable code</p><h3>Examples of Everyday Algorithms</h3><p><strong>Prepare a Cup of Tea:</strong></p><ol><li>Boil water</li><li>Put a tea bag in the cup</li><li>Pour hot water into the cup</li><li>Wait 3 minutes</li><li>Remove the tea bag</li><li>Add sugar if desired</li></ol><p><strong>Find a Book in a Library:</strong></p><ol><li>Go to the catalog</li><li>Search by title or author</li><li>Note the location</li><li>Go to the corresponding section</li><li>Find the book on the shelves</li></ol>",
+            "fr": "<h3>qu'est-ce qu'un algorithme ?</h3><p>Un algorithme est un ensemble d'étapes définies et ordonnées permettant de résoudre un problème ou d'effectuer une tâche. Il constitue la base de la pensée informatique et s'applique à tous les domaines de l'ingénierie.</p><p><strong>Caractéristiques d'un bon algorithme</strong></p><ul><li><strong>Précis :</strong> chaque étape est clairement définie</li><li><strong>Déterministe :</strong> il produit toujours le même résultat avec les mêmes entrées</li><li><strong>Fini :</strong> il se termine après un nombre fini d'étapes</li><li><strong>Efficace :</strong> Utilise les ressources de manière optimale</li></ul><h3>Composants de base des algorithmes</h3><p><strong>Séquences :</strong> étapes exécutées dans l'ordre</p><p><strong>Conditionnel :</strong> décisions basées sur des conditions (si-alors-si-si-non)</p><p><strong>Boucles :</strong> répétition des étapes tant qu'une condition est remplie<strong></strong> </p><p><strong>Variables :</strong> stockage de données susceptibles de changer</p><h3>Représentation des algorithmes</h3><p><strong>Organigrammes :</strong> représentation visuelle à l'aide de symboles standard</p><p><strong>Pseudocode :</strong> descriptions structurées en langage naturel</p><p><strong>Langages de programmation :</strong> mise en œuvre sous forme de code exécutable</p><h3>Exemples d'algorithmes quotidiens</h3><p><strong>Préparer une tasse de thé :</strong></p><ol><li>Faire bouillir de l'eau</li><li>Mettre un sachet de thé dans la tasse</li><li>Verser de l'eau chaude dans la tasse</li><li>Attendre 3 minutes</li><li>Retirer le sachet de thé</li><li>Ajouter du sucre si désiré</li></ol><p><strong>Trouvez un livre dans une bibliothèque :</strong></p><ol><li>Aller au catalogue</li><li>Recherche par titre ou par auteur</li><li>Noter la localisation</li><li>Aller à la section correspondante</li><li>Trouver le livre sur les étagères</li></ol>",
+            "it": "<h3>che cos'è un algoritmo?</h3><p>Un algoritmo è un insieme di passaggi definiti e ordinati per risolvere un problema o eseguire un compito. È la base del pensiero computazionale e viene applicato in tutti i settori dell'ingegneria.</p><p><strong>Caratteristiche di un buon algoritmo:</strong></p><ul><li><strong>Preciso:</strong> ogni passo è chiaramente definito</li><li><strong>Deterministico:</strong> produce sempre lo stesso risultato con gli stessi input</li><li><strong>Finito:</strong> termina dopo un numero finito di passi</li><li><strong>Efficiente:</strong> Utilizza le risorse in modo ottimale</li></ul><h3>Componenti di base degli algoritmi</h3><p><strong>Sequenze:</strong> passi che vengono eseguiti in ordine sparso</p><p><strong>Condizionale:</strong> Decisioni basate su condizioni (se-quando-se-quando-non)</p><p><strong>Loop:</strong> ripetizione di passi finché viene soddisfatta una condizione</p><p><strong>Variabili:</strong> memorizzazione di dati che possono cambiare</p><h3>Rappresentazione degli algoritmi</h3><p><strong>Diagrammi di flusso:</strong> rappresentazione visiva con simboli standard</p><p><strong>Pseudocodice:</strong> descrizioni strutturate in linguaggio naturale</p><p><strong>Linguaggi di programmazione:</strong> implementazione in codice eseguibile</p><h3>Esempi di algoritmi quotidiani</h3><p><strong>Preparare una tazza di tè:</strong></p><ol><li>Far bollire l'acqua</li><li>Mettere una bustina di tè nella tazza</li><li>Versare l'acqua calda nella tazza</li><li>Attendere 3 minuti</li><li>Rimuovere la bustina di tè</li><li>Aggiungere lo zucchero, se desiderato</li></ol><p><strong>Trovare un libro in una biblioteca:</strong></p><ol><li>Vai al catalogo</li><li>Cercare per titolo o autore</li><li>Annotare la posizione</li><li>Andare alla sezione pertinente</li><li>Trovare il libro sugli scaffali</li></ol>",
+            "de": "<h3>was ist ein Algorithmus?</h3><p>Ein Algorithmus ist eine Reihe von definierten und geordneten Schritten zur Lösung eines Problems oder zur Durchführung einer Aufgabe. Er ist die Grundlage des rechnergestützten Denkens und wird in allen Bereichen der Technik angewendet.</p><p><strong>Merkmale eines guten Algorithmus:</strong></p><ul><li><strong>Präzise:</strong> Jeder Schritt ist klar definiert</li><li><strong>Deterministisch:</strong> Er liefert bei gleichen Eingaben immer das gleiche Ergebnis</li><li><strong>Endlich:</strong> Er endet nach einer endlichen Anzahl von Schritten</li><li><strong>Effizient:</strong> Nutzt die Ressourcen optimal</li></ul><h3>Grundlegende Bestandteile von Algorithmen</h3><p><strong>Sequenzen:</strong> Schritte, die der Reihe nach ausgeführt werden</p><p><strong>Konditional:</strong> Entscheidungen auf der Grundlage von Bedingungen (wenn-dann-wenn-nicht)</p><p><strong>Schleifen:</strong> Wiederholung von Schritten, solange eine Bedingung erfüllt ist</p><p><strong>Variablen:</strong> Speicherung von Daten, die sich ändern können</p><h3>Algorithmus-Darstellung</h3><p><strong>Flussdiagramme:</strong> Visuelle Darstellung mit Standardsymbolen</p><p><strong>Pseudocode:</strong> Strukturierte Beschreibungen in natürlicher Sprache</p><p><strong>Programmiersprachen:</strong> Implementierung in ausführbarem Code</p><h3>Beispiele für alltägliche Algorithmen</h3><p><strong>Eine Tasse Tee zubereiten:</strong></p><ol><li>Wasser kochen</li><li>Einen Teebeutel in die Tasse legen</li><li>Gieße heißes Wasser in die Tasse</li><li>3 Minuten warten</li><li>Teebeutel herausnehmen</li><li>Falls gewünscht, Zucker hinzufügen</li></ol><p><strong>Finde ein Buch in einer Bibliothek:</strong></p><ol><li>Zum Katalog gehen</li><li>Suche nach Titel oder Autor</li><li>Notieren Sie den Standort</li><li>Gehen Sie zu der entsprechenden Abteilung</li><li>Das Buch in den Regalen finden</li></ol>"
+          },
+          "duration": {
+            "es": "Lectura de 10 min",
+            "en": "10 min reading",
+            "fr": "10 min de lecture",
+            "it": "10 minuti di lettura",
+            "de": "10 min Lesen"
+          }
+        },
+        {
+          "id": "lesson-2-1-video",
+          "title": {
+            "es": "Video: Introducción a los Algoritmos",
+            "en": "Video: Introduction to Algorithms",
+            "fr": "Vidéo : Introduction aux algorithmes",
+            "it": "Video: Introduzione agli algoritmi",
+            "de": "Video: Einführung in Algorithmen"
+          },
+          "content_type": "video",
+          "video_url": "https://www.youtube.com/embed/example-algorithms",
+          "description": {
+            "es": "Refuerzo visual sobre conceptos básicos de algoritmos y su representación",
+            "en": "Visual reinforcement on basic concepts of algorithms and their representation",
+            "fr": "Renforcement visuel des concepts de base des algorithmes et de leur représentation",
+            "it": "Rafforzamento visivo dei concetti di base degli algoritmi e della loro rappresentazione",
+            "de": "Visuelle Verstärkung der grundlegenden Konzepte von Algorithmen und ihrer Darstellung"
+          },
+          "duration": {
+            "es": "11:30",
+            "en": "11:30",
+            "fr": "11:30",
+            "it": "11:30",
+            "de": "11:30"
+          }
+        },
+        {
+          "id": "lesson-2-2",
+          "title": {
+            "es": "Diseño y Análisis de Algoritmos",
+            "en": "Algorithm Design and Analysis",
+            "fr": "Conception et analyse d'algorithmes",
+            "it": "Progettazione e analisi degli algoritmi",
+            "de": "Entwurf und Analyse von Algorithmen"
+          },
+          "content_type": "text",
+          "content": {
+            "es": "<h3>Metodologías de Diseño de Algoritmos</h3><p><strong>Divide y Vencerás:</strong> Dividir un problema grande en subproblemas más pequeños</p><p><strong>Programación Dinámica:</strong> Resolver subproblemas y almacenar resultados</p><p><strong>Algoritmos Voraces:</strong> Tomar la mejor decisión local en cada paso</p><p><strong>Backtracking:</strong> Explorar sistemáticamente todas las posibilidades</p><h3>Complejidad Algorítmica</h3><p><strong>Tiempo de Ejecución:</strong> Cómo crece el tiempo requerido con el tamaño de la entrada</p><p><strong>Espacio de Memoria:</strong> Cantidad de memoria requerida</p><p><strong>Notación O Grande (Big O):</strong> Clasificación de la eficiencia de algoritmos</p><ul><li>O(1): Tiempo constante</li><li>O(log n): Tiempo logarítmico</li><li>O(n): Tiempo lineal</li><li>O(n²): Tiempo cuadrático</li></ul><h3>Algoritmos Fundamentales</h3><p><strong>Algoritmos de Búsqueda:</strong></p><ul><li>Búsqueda lineal: Revisar elemento por elemento</li><li>Búsqueda binaria: Dividir repetidamente el espacio de búsqueda</li></ul><p><strong>Algoritmos de Ordenamiento:</strong></p><ul><li>Bubble Sort: Comparar e intercambiar elementos adyacentes</li><li>Quick Sort: Dividir usando un pivote</li><li>Merge Sort: Dividir y combinar recursivamente</li></ul><h3>Prueba y Verificación de Algoritmos</h3><p><strong>Casos de Prueba:</strong> Verificar con entradas conocidas</p><p><strong>Condiciones Límite:</strong> Probar con valores extremos</p><p><strong>Corrección Formal:</strong> Demostrar matemáticamente que el algoritmo es correcto</p>",
+            "en": "<h3>Algorithm Design Methodologies</h3><p><strong>Divide and Conquer:</strong> Divide a large problem into smaller subproblems</p><p><strong>Dynamic Programming:</strong> Solving subproblems and storing results</p><p><strong>Voracious Algorithms:</strong> Make the best local decision at each step</p><p><strong>Backtracking:</strong> Systematically explore all possibilities</p><h3>Algorithmic Complexity</h3><p><strong>Execution Time:</strong> How the time required grows with the input size</p><p><strong>Memory Space:</strong> Amount of memory required</p><p><strong>Big O Notation (Big O):</strong> Classification of algorithm efficiency</p><ul><li>O(1): Constant time</li><li>O(log n): Logarithmic time</li><li>O(n): Linear time</li><li>O(n²): Quadratic time</li></ul><h3>Fundamental Algorithms</h3><p><strong>Search Algorithms:</strong></p><ul><li>Linear search: Review element by element</li><li>Binary search: Repeatedly split the search space</li></ul><p><strong>Sorting Algorithms:</strong></p><ul><li>Bubble Sort: Compare and swap adjacent elements</li><li>Quick Sort: Split using a pivot</li><li>Merge Sort: Split and combine recursively</li></ul><h3>Algorithm Testing and Verification</h3><p><strong>Test Cases:</strong> Verify with known inputs</p><p><strong>Boundary Conditions:</strong> Testing with extreme values</p><p><strong>Formal Correctness:</strong> Prove mathematically that the algorithm is correct</p>",
+            "fr": "<h3>Méthodologies de conception d'algorithmes</h3><p><strong>Diviser pour mieux régner :</strong> Décomposer un problème important en sous-problèmes plus petits</p><p><strong>Programmation dynamique :</strong> résolution de sous-problèmes et stockage des résultats</p><p><strong>Algorithmes voraces :</strong> Prendre la meilleure décision locale à chaque étape</p><p><strong>Retour en arrière :</strong> explorer systématiquement toutes les possibilités</p><h3>Complexité algorithmique</h3><p><strong>Temps d'exécution :</strong> comment le temps nécessaire augmente avec la taille de l'entrée</p><p><strong>Espace mémoire :</strong> quantité de mémoire nécessaire</p><p><strong>Notation Big O :</strong> classification de l'efficacité des algorithmes</p><ul><li>O(1) : temps constant</li><li>O(log n) : temps logarithmique</li><li>O(n) : Temps linéaire</li><li>O(n²) : temps quadratique</li></ul><h3>Algorithmes fondamentaux</h3><p><strong>Algorithmes de recherche :</strong></p><ul><li>Recherche linéaire : examen élément par élément</li><li>Recherche binaire : division répétée de l'espace de recherche</li></ul><p><strong>Algorithmes de tri :</strong></p><ul><li>Tri à bulles : comparaison et échange d'éléments adjacents</li><li>Tri rapide : séparation à l'aide d'un pivot</li><li>Tri par fusion : fractionnement et combinaison récursifs</li></ul><h3>Test et vérification des algorithmes</h3><p><strong>Cas de test :</strong> vérification à l'aide d'entrées connues</p><p><strong>Conditions limites :</strong> test avec des valeurs extrêmes</p><p><strong>Correction formelle :</strong> prouver mathématiquement que l'algorithme est correct</p>",
+            "it": "<h3>Metodologie di progettazione degli algoritmi</h3><p><strong>Dividi e conquista:</strong> Suddivisione di un problema di grandi dimensioni in sottoproblemi più piccoli</p><p><strong>Programmazione dinamica:</strong> risolvere sottoproblemi e memorizzare i risultati</p><p><strong>Algoritmi voraci:</strong> Prendere la migliore decisione locale ad ogni passo</p><p><strong>Backtracking:</strong> esplorare sistematicamente tutte le possibilità</p><h3>Complessità algoritmica</h3><p><strong>Tempo di esecuzione:</strong> come il tempo richiesto cresce con la dimensione dell'input</p><p><strong>Spazio di memoria:</strong> quantità di memoria richiesta</p><p><strong>Notazione Big O:</strong> classificazione dell'efficienza degli algoritmi</p><ul><li>O(1): tempo costante</li><li>O(log n): tempo logaritmico</li><li>O(n): Tempo lineare</li><li>O(n²): Tempo quadratico</li></ul><h3>Algoritmi fondamentali</h3><p><strong>Algoritmi di ricerca:</strong></p><ul><li>Ricerca lineare: esame elemento per elemento</li><li>Ricerca binaria: suddivisione ripetuta dello spazio di ricerca</li></ul><p><strong>Algoritmi di ordinamento:</strong></p><ul><li>Ordinamento a bolle: confrontare e scambiare elementi adiacenti</li><li>Ordinamento rapido: suddivisione utilizzando un perno</li><li>Merge Sort: Suddivisione e combinazione ricorsive</li></ul><h3>Test e verifica dell'algoritmo</h3><p><strong>Casi di test:</strong> verifica con ingressi noti</p><p><strong>Condizioni limite:</strong> verifica con valori estremi</p><p><strong>Correttezza formale:</strong> dimostrare matematicamente che l'algoritmo è corretto<strong></strong> </p>",
+            "de": "<h3>Algorithmenentwurfsmethoden</h3><p><strong>Aufteilen und erobern:</strong> Aufteilung eines großen Problems in kleinere Teilprobleme</p><p><strong>Dynamische Programmierung:</strong> Lösen von Teilproblemen und Speichern der Ergebnisse</p><p><strong>Vorausschauende Algorithmen:</strong> In jedem Schritt die beste lokale Entscheidung treffen</p><p><strong>Backtracking:</strong> Systematisches Erkunden aller Möglichkeiten</p><h3>Algorithmische Komplexität</h3><p><strong>Ausführungszeit:</strong> Wie die benötigte Zeit mit der Größe der Eingabe wächst</p><p><strong>Speicherplatz:</strong> Menge des benötigten Speichers</p><p><strong>Big O Notation:</strong> Ranking der Effizienz von Algorithmen</p><ul><li>O(1): Konstante Zeit</li><li>O(log n): Logarithmische Zeit</li><li>O(n): Lineare Zeit</li><li>O(n²): Quadratische Zeit</li></ul><h3>Grundlegende Algorithmen</h3><p><strong>Such-Algorithmen:</strong></p><ul><li>Lineare Suche: Überprüfung Element für Element</li><li>Binäre Suche: Wiederholtes Aufteilen des Suchraums</li></ul><p><strong>Sortier-Algorithmen:</strong></p><ul><li>Bubble Sort: Vergleich und Vertauschung benachbarter Elemente</li><li>Quick Sort: Aufteilung mit einem Pivot</li><li>Merge Sort: Rekursives Aufspalten und Kombinieren</li></ul><h3>Testen und Überprüfen von Algorithmen</h3><p><strong>Testfälle:</strong> Überprüfen mit bekannten Eingaben</p><p><strong>Randbedingungen:</strong> Testen mit Extremwerten</p><p><strong>Formale Korrektheit:</strong> Mathematischer Nachweis, dass der Algorithmus korrekt ist</p>"
+          },
+          "duration": {
+            "es": "Lectura de 12 min",
+            "en": "12 min reading",
+            "fr": "12 min de lecture",
+            "it": "12 min di lettura",
+            "de": "12 min Lesen"
+          }
+        },
+        {
+          "id": "lesson-2-2-video",
+          "title": {
+            "es": "Video: Diseño de Algoritmos",
+            "en": "Video: Algorithm Design",
+            "fr": "Vidéo : Conception d'algorithmes",
+            "it": "Video: Progettazione di algoritmi",
+            "de": "Video: Algorithmus-Entwurf"
+          },
+          "content_type": "video",
+          "video_url": "https://www.youtube.com/embed/example-algorithm-design",
+          "description": {
+            "es": "Refuerzo visual sobre metodologías de diseño y análisis de algoritmos",
+            "en": "Visual reinforcement on algorithm design and analysis methodologies",
+            "fr": "Renforcement visuel des méthodologies de conception et d'analyse d'algorithmes",
+            "it": "Rafforzamento visivo delle metodologie di progettazione e analisi degli algoritmi",
+            "de": "Visuelle Unterstützung bei der Entwicklung von Algorithmen und Analysemethoden"
+          },
+          "duration": {
+            "es": "13:15",
+            "en": "13:15",
+            "fr": "13:15",
+            "it": "13:15",
+            "de": "13:15"
+          }
+        },
+        {
+          "id": "lesson-2-3",
+          "title": {
+            "es": "Aplicaciones del Pensamiento Algorítmico",
+            "en": "Applications of Algorithmic Thinking",
+            "fr": "Applications de la pensée algorithmique",
+            "it": "Applicazioni del pensiero algoritmico",
+            "de": "Anwendungen des algorithmischen Denkens"
+          },
+          "content_type": "text",
+          "content": {
+            "es": "<h3>Algoritmos en la Vida Cotidiana</h3><p><strong>Navegación GPS:</strong> Algoritmos para encontrar la ruta más corta</p><p><strong>Recomendaciones en Línea:</strong> Sistemas de filtrado colaborativo</p><p><strong>Búsqueda en Internet:</strong> Algoritmos de ranking y recuperación de información</p><p><strong>Transacciones Bancarias:</strong> Sistemas de procesamiento y seguridad</p><h3>Algoritmos en Ingeniería</h3><p><strong>Diseño Asistido por Computadora (CAD):</strong> Algoritmos de renderizado y simulación</p><p><strong>Control de Procesos:</strong> Algoritmos de retroalimentación y control</p><p><strong>Optimización Estructural:</strong> Algoritmos para minimizar materiales manteniendo resistencia</p><p><strong>Análisis de Datos:</strong> Algoritmos de machine learning y estadística</p><h3>Ejercicios Prácticos</h3><p><strong>Problema 1: Ordenar una Lista de Números</strong></p><p>Diseña un algoritmo para ordenar una lista de números de menor a mayor.</p><p><strong>Problema 2: Encontrar el Camino Más Corto</strong></p><p>Desarrolla un algoritmo para encontrar la ruta más corta entre dos puntos en un mapa.</p><p><strong>Problema 3: Programación de Tareas</strong></p><p>Crea un algoritmo para programar tareas minimizando el tiempo total.</p>",
+            "en": "<h3>Algorithms in Everyday Life</h3><p><strong>GPS Navigation:</strong> Algorithms for Finding the Shortest Route</p><p><strong>Online Recommendations:</strong> Collaborative Filtering Systems</p><p><strong>Internet Searching:</strong> Algorithms for ranking and retrieving information</p><p><strong>Banking Transactions:</strong> Processing and security systems</p><h3>Algorithms in Engineering</h3><p><strong>Computer Aided Design (CAD):</strong> Rendering and Simulation Algorithms</p><p><strong>Process Control:</strong> Feedback and Control Algorithms</p><p><strong>Structural Optimization:</strong> Algorithms for minimizing materials while maintaining strength</p><p><strong>Data Analysis:</strong> Machine learning and statistical algorithms</p><h3>Practical Exercises</h3><p><strong>Problem 1: Sorting a List of Numbers</strong></p><p>Design an algorithm to sort a list of numbers from smallest to largest.</p><p><strong>Problem 2: Find the Shortest Path</strong></p><p>Develop an algorithm to find the shortest path between two points on a map.</p><p><strong>Problem 3: Scheduling Tasks</strong></p><p>Create an algorithm to schedule tasks while minimizing the total time.</p>",
+            "fr": "<h3>Les algorithmes dans la vie quotidienne</h3><p><strong>Navigation GPS :</strong> algorithmes pour trouver l'itinéraire le plus court</p><p><strong>Recommandations en ligne :</strong> systèmes de filtrage collaboratif</p><p><strong>Recherche sur Internet :</strong> algorithmes de classement et de récupération des informations</p><p><strong>Transactions bancaires :</strong> systèmes de traitement et de sécurité</p><h3>Algorithmes dans l'ingénierie</h3><p><strong>Conception assistée par ordinateur (CAO) :</strong> algorithmes de rendu et de simulation</p><p><strong>Contrôle des processus :</strong> algorithmes de rétroaction et de contrôle</p><p><strong>Optimisation structurelle :</strong> algorithmes pour minimiser les matériaux tout en maintenant la résistance</p><p><strong>Analyse des données :</strong> Algorithmes pour l'apprentissage automatique et les statistiques</p><h3>Exercices pratiques</h3><p><strong>Problème 1 : Tri d'une liste de nombres</strong></p><p>Concevoir un algorithme pour trier une liste de nombres du plus petit au plus grand.</p><p><strong>Problème 2 : Trouver le chemin le plus court</strong></p><p>Développer un algorithme pour trouver le chemin le plus court entre deux points sur une carte.</p><p><strong>Problème 3 : Planifier des tâches</strong></p><p>Créez un algorithme pour planifier des tâches tout en minimisant le temps total.</p>",
+            "it": "<h3>Algoritmi nella vita quotidiana</h3><p><strong>Navigazione GPS:</strong> algoritmi per trovare il percorso più breve</p><p><strong>Raccomandazioni online:</strong> sistemi di filtraggio collaborativo</p><p><strong>Ricerca su Internet:</strong> algoritmi per classificare e recuperare le informazioni</p><p><strong>Transazioni bancarie:</strong> sistemi di elaborazione e sicurezza</p><h3>Algoritmi in ingegneria</h3><p><strong>Progettazione assistita da computer (CAD):</strong> algoritmi di rendering e simulazione</p><p><strong>Controllo dei processi:</strong> algoritmi di retroazione e controllo</p><p><strong>Ottimizzazione strutturale:</strong> Algoritmi per ridurre al minimo i materiali mantenendo la resistenza</p><p><strong>Analisi dei dati:</strong> Algoritmi per l'apprendimento automatico e la statistica</p><h3>Esercizi pratici</h3><p><strong>Problema 1: Ordinamento di una lista di numeri</strong></p><p>Progettate un algoritmo per ordinare un elenco di numeri dal più piccolo al più grande.</p><p><strong>Problema 2: Trovare il percorso più breve</strong></p><p>Sviluppare un algoritmo per trovare il percorso più breve tra due punti su una mappa.</p><p><strong>Problema 3: Pianificare le attività</strong></p><p>Creare un algoritmo per programmare i compiti minimizzando il tempo totale.</p>",
+            "de": "<h3>Algorithmen im alltäglichen Leben</h3><p><strong>GPS-Navigation:</strong> Algorithmen zur Ermittlung der kürzesten Route</p><p><strong>Online-Empfehlungen:</strong> Kollaborative Filtersysteme</p><p><strong>Internetsuche:</strong> Algorithmen zum Ranking und Abrufen von Informationen</p><p><strong>Banktransaktionen:</strong> Verarbeitungs- und Sicherheitssysteme</p><h3>Algorithmen in der Technik</h3><p><strong>Computer Aided Design (CAD):</strong> Rendering- und Simulationsalgorithmen</p><p><strong>Prozesssteuerung:</strong> Rückkopplungs- und Regelungsalgorithmen</p><p><strong>Strukturoptimierung:</strong> Algorithmen zur Minimierung des Materialverbrauchs bei gleichbleibender Festigkeit</p><p><strong>Datenanalyse:</strong> Algorithmen für maschinelles Lernen und Statistik</p><h3>Praktische Übungen</h3><p><strong>Aufgabe 1: Sortieren einer Liste von Zahlen</strong></p><p>Entwerfen Sie einen Algorithmus, um eine Liste von Zahlen von der kleinsten zur größten Zahl zu sortieren.</p><p><strong>Problem 2: Finden des kürzesten Pfades</strong></p><p>Entwickeln Sie einen Algorithmus, um den kürzesten Weg zwischen zwei Punkten auf einer Landkarte zu finden.</p><p><strong>Problem 3: Planen von Aufgaben</strong></p><p>Entwickeln Sie einen Algorithmus, um Aufgaben zu planen und dabei die Gesamtzeit zu minimieren.</p>"
+          },
+          "duration": {
+            "es": "Lectura de 10 min",
+            "en": "10 min reading",
+            "fr": "10 min de lecture",
+            "it": "10 minuti di lettura",
+            "de": "10 min Lesen"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "es": "Resolución de Problemas",
+        "en": "Troubleshooting",
+        "fr": "Dépannage",
+        "it": "Risoluzione dei problemi",
+        "de": "Fehlersuche"
+      },
+      "duration": {
+        "es": "1 hora 30 minutos",
+        "en": "1 hour 30 minutes",
+        "fr": "1 heure 30 minutes",
+        "it": "1 ora e 30 minuti",
+        "de": "1 Stunde 30 Minuten"
+      },
+      "lessons": [
+        {
+          "id": "lesson-3-1",
+          "title": {
+            "es": "Metodología de Resolución de Problemas",
+            "en": "Problem Solving Methodology",
+            "fr": "Méthodologie de résolution des problèmes",
+            "it": "Metodologia di risoluzione dei problemi",
+            "de": "Methodik der Problemlösung"
+          },
+          "content_type": "text",
+          "content": {
+            "es": "<h3>El Enfoque Sistémico en Ingeniería</h3><p>La resolución de problemas en ingeniería sigue un enfoque sistemático que garantiza soluciones efectivas y eficientes.</p><h3>Proceso de Resolución de Problemas</h3><p><strong>Paso 1: Definir el Problema</strong></p><ul><li>Identificar claramente qué se necesita resolver</li><li>Establecer objetivos y criterios de éxito</li><li>Definir restricciones y limitaciones</li></ul><p><strong>Paso 2: Analizar el Problema</strong></p><ul><li>Recopilar información relevante</li><li>Identificar causas raíz</li><li>Analizar relaciones entre variables</li></ul><p><strong>Paso 3: Generar Soluciones</strong></p><ul><li>Brainstorming de ideas</li><li>Considerar múltiples enfoques</li><li>No descartar ideas prematuramente</li></ul><p><strong>Paso 4: Evaluar y Seleccionar</strong></p><ul><li>Analizar ventajas y desventajas</li><li>Evaluar factibilidad técnica y económica</li><li>Seleccionar la mejor opción</li></ul><p><strong>Paso 5: Implementar</strong></p><ul><li>Desarrollar plan detallado</li><li>Asignar recursos</li><li>Ejecutar la solución</li></ul><p><strong>Paso 6: Evaluar Resultados</strong></p><ul><li>Medir efectividad</li><li>Identificar mejoras</li><li>Documentar lecciones aprendidas</li></ul><h3>Herramientas de Análisis</h3><p><strong>Diagrama de Ishikawa (Espina de Pescado):</strong> Para identificar causas raíz</p><p><strong>Análisis FODA:</strong> Fortalezas, Oportunidades, Debilidades, Amenazas</p><p><strong>Análisis de Pareto:</strong> Identificar los problemas más importantes</p><p><strong>Diagramas de Flujo:</strong> Visualizar procesos y secuencias</p>",
+            "en": "<h3>The Systems Approach in Engineering</h3><p>Problem solving in engineering follows a systematic approach that ensures effective and efficient solutions.</p><h3>Problem Solving Process</h3><p><strong>Step 1: Define the Problem</strong></p><ul><li>Clearly identify what needs to be solved</li><li>Establish objectives and success criteria</li><li>Define constraints and limitations</li></ul><p><strong>Step 2: Analyze the Problem</strong></p><ul><li>Gather relevant information</li><li>Identify root causes</li><li>Analyze relationships between variables</li></ul><p><strong>Step 3: Generate Solutions</strong></p><ul><li>Brainstorm ideas</li><li>Consider multiple approaches</li><li>Do not prematurely discard ideas</li></ul><p><strong>Step 4: Evaluate and Select</strong></p><ul><li>Analyze advantages and disadvantages</li><li>Evaluate technical and economic feasibility</li><li>Select the best option</li></ul><p><strong>Step 5: Implement</strong></p><ul><li>Develop detailed plan</li><li>Allocate resources</li><li>Execute the solution</li></ul><p><strong>Step 6: Evaluate Results</strong></p><ul><li>Measure effectiveness</li><li>Identify improvements</li><li>Document lessons learned</li></ul><h3>Analysis Tools</h3><p><strong>Ishikawa (Fishbone) Diagram:</strong> To identify root causes</p><p><strong>SWOT Analysis:</strong> Strengths, Weaknesses, Opportunities, Threats, and Opportunities</p><p><strong>Pareto Analysis:</strong> To identify the most important problems</p><p><strong>Flow Diagrams:</strong> To visualize processes and sequences</p>",
+            "fr": "<h3>L'approche systémique de l'ingénierie</h3><p>La résolution de problèmes en ingénierie suit une approche systématique qui garantit des solutions efficaces et efficientes.</p><h3>Processus de résolution de problèmes</h3><p><strong>Étape 1 : Définir le problème</strong></p><ul><li>Identifier clairement ce qui doit être résolu</li><li>Établir des objectifs et des critères de réussite</li><li>Définir les contraintes et les limites</li></ul><p><strong>Étape 2 : Analyser le problème</strong></p><ul><li>Recueillir les informations pertinentes</li><li>Identifier les causes profondes</li><li>Analyser les relations entre les variables</li></ul><p><strong>Étape 3 : Générer des solutions</strong></p><ul><li>Lancer des idées</li><li>Envisager plusieurs approches</li><li>Ne pas rejeter les idées prématurément</li></ul><p><strong>Étape 4 : Évaluer et sélectionner</strong></p><ul><li>Analyser les avantages et les inconvénients</li><li>Évaluer la faisabilité technique et économique</li><li>Sélectionner la meilleure option</li></ul><p><strong>Étape 5 : Mise en œuvre</strong></p><ul><li>Élaborer un plan détaillé</li><li>Affecter les ressources</li><li>Exécuter la solution</li></ul><p><strong>Étape 6 : Évaluer les résultats</strong></p><ul><li>Mesurer l'efficacité</li><li>Identifier les améliorations</li><li>Documenter les enseignements tirés</li></ul><h3>Outils d'analyse</h3><p><strong>Diagramme d'Ishikawa (en arête de poisson) :</strong> pour identifier les causes profondes<strong></strong> </p><p><strong>Analyse SWOT (</strong> Strengths, Weaknesses, Opportunities, Threats, Opportunities)<strong>:</strong> pour identifier les forces, les faiblesses, les opportunités et les menaces</p><p><strong>Analyse de Pareto :</strong> pour identifier les problèmes les plus importants</p><p><strong>Diagrammes de flux :</strong> pour visualiser les processus et les séquences</p>",
+            "it": "<h3>L'approccio sistemico all'ingegneria</h3><p>La soluzione dei problemi in ingegneria segue un approccio sistematico che garantisce soluzioni efficaci ed efficienti.</p><h3>Processo di risoluzione dei problemi</h3><p><strong>Fase 1: Definizione del problema</strong></p><ul><li>Identificare chiaramente ciò che deve essere risolto</li><li>Stabilire obiettivi e criteri di successo</li><li>Definire vincoli e limitazioni</li></ul><p><strong>Fase 2: analizzare il problema</strong></p><ul><li>Raccogliere le informazioni rilevanti</li><li>Identificare le cause principali</li><li>Analizzare le relazioni tra le variabili</li></ul><p><strong>Fase 3: Generare soluzioni</strong></p><ul><li>Fare un brainstorming di idee</li><li>Considerare più approcci</li><li>Non scartare le idee prima del tempo</li></ul><p><strong>Fase 4: Valutare e selezionare</strong></p><ul><li>Analizzare vantaggi e svantaggi</li><li>Valutare la fattibilità tecnica ed economica</li><li>Selezionare l'opzione migliore</li></ul><p><strong>Fase 5: Attuazione</strong></p><ul><li>Sviluppare un piano dettagliato</li><li>Assegnare le risorse</li><li>Esecuzione della soluzione</li></ul><p><strong>Fase 6: valutare i risultati</strong></p><ul><li>Misurare l'efficacia</li><li>Identificare i miglioramenti</li><li>Documentare le lezioni apprese</li></ul><h3>Strumenti di analisi</h3><p><strong>Diagramma di Ishikawa (a lisca di pesce):</strong> per identificare le cause principali<strong></strong> </p><p><strong>Analisi SWOT:</strong> punti di forza, debolezze, opportunità, minacce, opportunità</p><p><strong>Analisi di Pareto:</strong> per identificare i problemi più importanti</p><p><strong>Diagrammi di flusso:</strong> per visualizzare i processi e le sequenze</p>",
+            "de": "<h3>Der systemische Ansatz in der Technik</h3><p>Die Problemlösung im Ingenieurwesen folgt einem systematischen Ansatz, der effektive und effiziente Lösungen gewährleistet.</p><h3>Problemlösungsprozess</h3><p><strong>Schritt 1: Definieren Sie das Problem</strong></p><ul><li>Eindeutige Identifizierung des zu lösenden Problems</li><li>Festlegen von Zielen und Erfolgskriterien</li><li>Definition von Zwängen und Beschränkungen</li></ul><p><strong>Schritt 2: Analysieren Sie das Problem</strong></p><ul><li>Sammeln Sie relevante Informationen</li><li>Identifizieren Sie die Grundursachen</li><li>Analyse der Beziehungen zwischen den Variablen</li></ul><p><strong>Schritt 3: Lösungen generieren</strong></p><ul><li>Brainstorming von Ideen</li><li>Mehrere Ansätze in Betracht ziehen</li><li>Verwerfen Sie Ideen nicht vorschnell</li></ul><p><strong>Schritt 4: Bewerten und auswählen</strong></p><ul><li>Analyse der Vor- und Nachteile</li><li>Bewerten Sie die technische und wirtschaftliche Machbarkeit</li><li>Wählen Sie die beste Option</li></ul><p><strong>Schritt 5: Umsetzung</strong></p><ul><li>Detaillierten Plan entwickeln</li><li>Ressourcen zuteilen</li><li>Ausführen der Lösung</li></ul><p><strong>Schritt 6: Ergebnisse auswerten</strong></p><ul><li>Effektivität messen</li><li>Verbesserungen identifizieren</li><li>Dokumentation der gewonnenen Erkenntnisse</li></ul><h3>Analyse-Werkzeuge</h3><p><strong>Ishikawa-Diagramm (Fishbone-Diagramm):</strong> Zur Identifizierung der Grundursachen</p><p><strong>SWOT-Analyse:</strong> Stärken, Schwächen, Möglichkeiten, Bedrohungen, Chancen</p><p><strong>Pareto-Analyse:</strong> Zur Ermittlung der wichtigsten Probleme</p><p><strong>Flussdiagramme:</strong> Zur Visualisierung von Prozessen und Abläufen</p>"
+          },
+          "duration": {
+            "es": "Lectura de 12 min",
+            "en": "12 min reading",
+            "fr": "12 min de lecture",
+            "it": "12 min di lettura",
+            "de": "12 min Lesen"
+          }
+        },
+        {
+          "id": "lesson-3-1-video",
+          "title": {
+            "es": "Video: Metodología de Resolución de Problemas",
+            "en": "Video: Problem Solving Methodology",
+            "fr": "Vidéo : Méthodologie de résolution des problèmes",
+            "it": "Video: Metodologia di risoluzione dei problemi",
+            "de": "Video: Problemlösungsmethodik"
+          },
+          "content_type": "video",
+          "video_url": "https://www.youtube.com/embed/example-problem-solving",
+          "description": {
+            "es": "Refuerzo visual sobre el proceso sistemático de resolución de problemas",
+            "en": "Visual reinforcement of the systematic problem-solving process",
+            "fr": "Renforcement visuel du processus systématique de résolution de problèmes",
+            "it": "Rinforzo visivo del processo di risoluzione sistematica dei problemi",
+            "de": "Visuelle Verstärkung des systematischen Problemlösungsprozesses"
+          },
+          "duration": {
+            "es": "11:45",
+            "en": "11:45",
+            "fr": "11:45",
+            "it": "11:45",
+            "de": "11:45"
+          }
+        },
+        {
+          "id": "lesson-3-2",
+          "title": {
+            "es": "Técnicas Creativas para Solución de Problemas",
+            "en": "Creative Problem Solving Techniques",
+            "fr": "Techniques créatives de résolution de problèmes",
+            "it": "Tecniche di risoluzione creativa dei problemi",
+            "de": "Kreative Problemlösungstechniken"
+          },
+          "content_type": "text",
+          "content": {
+            "es": "<h3>Pensamiento Lateral y Creatividad</h3><p><strong>Brainstorming:</strong> Generar ideas sin críticas iniciales</p><p><strong>Pensamiento Inverso:</strong> Considerar el problema desde perspectivas opuestas</p><p><strong>Analogías:</strong> Aplicar soluciones de otros campos</p><p><strong>SCAMPER:</strong> Sustituir, Combinar, Adaptar, Modificar, Proponer otros usos, Eliminar, Revertir</p><h3>Enfoques Estructurados</h3><p><strong>Método de los Seis Sombreros:</strong> Considerar diferentes perspectivas</p><p><strong>TRIZ:</strong> Teoría para Resolución Inventiva de Problemas</p><p><strong>Design Thinking:</strong> Enfoque centrado en el usuario</p><p><strong>Pensamiento Sistémico:</strong> Analizar interacciones entre componentes</p><h3>Superación de Obstáculos</h3><p><strong>Bloqueos Mentales:</strong></p><ul><li>Fijación funcional: Ver objetos solo con su uso tradicional</li><li>Sesgos cognitivos: Preferencias que distorsionan el juicio</li><li>Falta de confianza: Dudar de la capacidad para resolver</li></ul><p><strong>Estrategias para Superar Bloqueos:</strong></p><ul><li>Cambiar de perspectiva</li><li>Trabajar en equipo</li><li>Tomar descansos</li><li>Buscar inspiración en otras disciplinas</li></ul>",
+            "en": "<h3>Lateral Thinking and Creativity</h3><p><strong>Brainstorming:</strong> Generate ideas without initial criticisms</p><p><strong>Reverse Thinking:</strong> Consider the problem from opposite perspectives</p><p><strong>Analogies:</strong> Apply solutions from other fields<strong></strong> </p><p><strong>SCAMPER:</strong> Substitute, Combine, Adapt, Modify, Propose other uses, Eliminate, Reverse</p><h3>Structured Approaches</h3><p><strong>Six Hats Method:</strong> Considering different perspectives</p><p><strong>TRIZ:</strong> Theory for Inventive Problem Solving</p><p><strong>Design Thinking:</strong> User-Centered Approach</p><p><strong>Systems Thinking:</strong> Analyzing interactions between components</p><h3>Overcoming Obstacles</h3><p><strong>Mental Blocks:</strong></p><ul><li>Functional Fixation: Seeing objects only in their traditional use</li><li>Cognitive Biases: Preferences that distort judgement</li><li>Lack of confidence: Doubt in ability to resolve</li></ul><p><strong>Strategies to Overcome Blockages:</strong></p><ul><li>Changing perspective</li><li>Working in a team</li><li>Take breaks</li><li>Seek inspiration from other disciplines</li></ul>",
+            "fr": "<h3>Pensée latérale et créativité</h3><p><strong>Brainstorming :</strong> Générer des idées sans critique initiale</p><p><strong>Pensée inversée :</strong> considérer le problème sous des angles opposés</p><p><strong>Analogies :</strong> appliquer des solutions provenant d'autres domaines</p><p><strong>SCAMPER :</strong> substituer, combiner, adapter, modifier, proposer d'autres utilisations, éliminer, inverser</p><h3>Approches structurées</h3><p><strong>Méthode des six chapeaux :</strong> prise en compte de différents points de vue</p><p><strong>TRIZ :</strong> Théorie de la résolution inventive de problèmes</p><p>Pensée<strong>conceptuelle :</strong> approche centrée sur l'utilisateur</p><p><strong>Pensée systémique :</strong> analyse des interactions entre les composants</p><h3>Surmonter les obstacles</h3><p><strong>Blocs mentaux :</strong></p><ul><li>Fixation fonctionnelle : ne voir les objets que dans leur utilisation traditionnelle</li><li>Biais cognitifs : préférences qui faussent le jugement</li><li>Manque de confiance : douter de sa capacité à résoudre les problèmes</li></ul><p><strong>Stratégies pour surmonter les blocages :</strong></p><ul><li>Changer de perspective</li><li>Travailler en équipe</li><li>Faire des pauses</li><li>S'inspirer d'autres disciplines</li></ul>",
+            "it": "<h3>Pensiero laterale e creatività</h3><p><strong>Brainstorming:</strong> generazione di idee senza critiche iniziali</p><p><strong>Pensiero inverso:</strong> considerare il problema da prospettive opposte</p><p><strong>Analogie:</strong> applicare soluzioni da altri campi</p><p><strong>SCAMPER:</strong> Sostituire, Combinare, Adattare, Modificare, Proporre altri usi, Eliminare, Invertire</p><h3>Approcci strutturati</h3><p><strong>Metodo dei sei cappelli:</strong> considerare prospettive diverse</p><p><strong>TRIZ:</strong> Teoria per la soluzione di problemi inventivi</p><p><strong>Design Thinking:</strong> approccio centrato sull'utente</p><p><strong>Systems Thinking:</strong> analisi delle interazioni tra i componenti</p><h3>Superare gli ostacoli</h3><p><strong>Blocchi mentali:</strong></p><ul><li>Fissazione funzionale: vedere gli oggetti solo nel loro uso tradizionale</li><li>Pregiudizi cognitivi: preferenze che distorcono il giudizio</li><li>Mancanza di fiducia: dubbi sulla capacità di risolvere i problemi</li></ul><p><strong>Strategie per superare i blocchi:</strong></p><ul><li>Cambiare prospettiva</li><li>Lavorare in gruppo</li><li>Fare delle pause</li><li>Cercare ispirazione da altre discipline</li></ul>",
+            "de": "<h3>Laterales Denken und Kreativität</h3><p><strong>Brainstorming:</strong> Ideengenerierung ohne erste Kritik</p><p><strong>Umkehrung des Denkens:</strong> Betrachtung des Problems aus entgegengesetzten Perspektiven</p><p><strong>Analogien:</strong> Anwendung von Lösungen aus anderen Bereichen</p><p><strong>SCAMPER:</strong> Ersetzen, Kombinieren, Anpassen, Ändern, Vorschlagen anderer Verwendungen, Eliminieren, Umkehren</p><h3>Strukturierte Vorgehensweisen</h3><p><strong>Sechs-Hüte-Methode:</strong> Berücksichtigung verschiedener Perspektiven</p><p><strong>TRIZ:</strong> Theorie zur erfinderischen Problemlösung</p><p><strong>Design Thinking:</strong> Benutzerzentrierter Ansatz</p><p><strong>Systems Thinking:</strong> Analyse der Wechselwirkungen zwischen Komponenten</p><h3>Überwindung von Hindernissen</h3><p><strong>Mentale Blockaden:</strong></p><ul><li>Funktionsfixierung: Objekte nur in ihrer traditionellen Verwendung sehen</li><li>Kognitive Verzerrungen: Vorlieben, die das Urteilsvermögen verzerren</li><li>Mangelndes Vertrauen: Zweifel an der Fähigkeit, eine Lösung zu finden</li></ul><p><strong>Strategien zur Überwindung von Blockaden:</strong></p><ul><li>Wechsel der Perspektive</li><li>Arbeiten im Team</li><li>Pausen einlegen</li><li>Sich von anderen Disziplinen inspirieren lassen</li></ul>"
+          },
+          "duration": {
+            "es": "Lectura de 10 min",
+            "en": "10 min reading",
+            "fr": "10 min de lecture",
+            "it": "10 minuti di lettura",
+            "de": "10 min Lesen"
+          }
+        },
+        {
+          "id": "lesson-3-2-video",
+          "title": {
+            "es": "Video: Técnicas Creativas",
+            "en": "Video: Creative Techniques",
+            "fr": "Vidéo : Techniques créatives",
+            "it": "Video: Tecniche creative",
+            "de": "Video: Kreative Techniken"
+          },
+          "content_type": "video",
+          "video_url": "https://www.youtube.com/embed/example-creative-techniques",
+          "description": {
+            "es": "Refuerzo visual sobre técnicas creativas para solución de problemas",
+            "en": "Visual reinforcement of creative problem-solving techniques",
+            "fr": "Renforcement visuel des techniques de résolution créative de problèmes",
+            "it": "Rinforzo visivo sulle tecniche di problem solving creativo",
+            "de": "Visuelle Verstärkung von kreativen Problemlösungstechniken"
+          },
+          "duration": {
+            "es": "10:30",
+            "en": "10:30",
+            "fr": "10:30",
+            "it": "10:30",
+            "de": "10:30"
+          }
+        },
+        {
+          "id": "lesson-3-3",
+          "title": {
+            "es": "Casos de Estudio y Aplicación Práctica",
+            "en": "Case Studies and Practical Application",
+            "fr": "Études de cas et application pratique",
+            "it": "Casi di studio e applicazioni pratiche",
+            "de": "Fallstudien und praktische Anwendung"
+          },
+          "content_type": "text",
+          "content": {
+            "es": "<h3>Problemas de Ingeniería Clásicos</h3><p><strong>Caso 1: El Puente Colgante</strong></p><p>Problema: Diseñar un puente que cruce un río ancho con fuerte corriente. Restricciones: Presupuesto limitado, materiales disponibles localmente, debe soportar tráfico pesado.</p><p><strong>Solución:</strong> Usar diseño de puente colgante que distribuye cargas eficientemente y minimiza materiales.</p><p><strong>Caso 2: Sistema de Suministro de Agua</strong></p><p>Problema: Proveer agua potable a una comunidad remota. Restricciones: Sin acceso a red eléctrica, terreno montañoso, bajo mantenimiento.</p><p><strong>Solución:</strong> Sistema de bombeo por gravedad usando tanques elevados y filtros de arena.</p><h3>Ejercicios Prácticos</h3><p><strong>Problema 1: Optimización de Ruta</strong></p><p>Un camión de reparto debe visitar 10 ubicaciones en una ciudad. Diseña la ruta más eficiente considerando tráfico y distancias.</p><p><strong>Problema 2: Diseño de Producto</strong></p><p>Crea un dispositivo que ayude a personas con movilidad reducida a alcanzar objetos en estantes altos.</p><p><strong>Problema 3: Eficiencia Energética</strong></p><p>Diseña un sistema para reducir el consumo de energía en un edificio de oficinas.</p><h3>Evaluación de Soluciones</h3><p><strong>Criterios de Evaluación:</strong></p><ul><li>Efectividad: ¿Resuelve el problema?</li><li>Eficiencia: ¿Usa recursos óptimamente?</li><li>Sostenibilidad: ¿Impacto ambiental aceptable?</li><li>Factibilidad: ¿Se puede implementar con recursos disponibles?</li><li>Seguridad: ¿Es seguro para usuarios y medio ambiente?</li></ul><h3>Desarrollo de Habilidades</h3><p><strong>Práctica Continua:</strong> Resolver problemas regularmente</p><p><strong>Aprendizaje de Fallos:</strong> Analizar qué salió mal y por qué</p><p><strong>Colaboración:</strong> Trabajar con otros para obtener perspectivas diferentes</p><p><strong>Actualización Constante:</strong> Mantenerse al día con nuevas metodologías y herramientas</p>",
+            "en": "<h3>Classic Engineering Problems</h3><p><strong>Case 1: The Suspension Bridge</strong></p><p>Problem: Design a bridge that crosses a wide river with strong current. Constraints: Limited budget, locally available materials, must support heavy traffic.</p><p><strong>Solution:</strong> Use suspension bridge design that distributes loads efficiently and minimizes materials.</p><p><strong>Case 2: Water Supply System</strong></p><p>Problem: Provide potable water to a remote community. Constraints: No access to power grid, mountainous terrain, low maintenance.</p><p><strong>Solution:</strong> Gravity pumped system using elevated tanks and sand filters.</p><h3>Practical Exercises</h3><p><strong>Problem 1: Route Optimization</strong></p><p>A delivery truck must visit 10 locations in a city. Design the most efficient route considering traffic and distances.</p><p><strong>Problem 2: Product Design</strong></p><p>Create a device that helps people with reduced mobility to reach objects on high shelves.</p><p><strong>Problem 3: Energy Efficiency</strong></p><p>Design a system to reduce energy consumption in an office building.</p><h3>Solution Evaluation</h3><p><strong>Evaluation Criteria:</strong></p><ul><li>Effectiveness: Does it solve the problem?</li><li>Efficiency: Does it use resources optimally?</li><li>Sustainability: Acceptable environmental impact?</li><li>Feasibility: Can it be implemented with available resources?</li><li>Safety: Is it safe for users and the environment?</li></ul><h3>Skills Development</h3><p><strong>Continuous Practice:</strong> Solve problems regularly</p><p><strong>Learning from Failures:</strong> Analyze what went wrong and why</p><p><strong>Collaboration:</strong> Work with others to gain different perspectives</p><p><strong>Constant Updating:</strong> Keeping up to date with new methodologies and tools</p>",
+            "fr": "<h3>Problèmes classiques d'ingénierie</h3><p><strong>Cas 1 : Le pont suspendu</strong></p><p>Problème : Concevoir un pont enjambant une large rivière avec un fort courant. Contraintes : Budget limité, matériaux disponibles localement, nécessité de supporter un trafic important.</p><p><strong>Solution :</strong> concevoir un pont suspendu qui répartit efficacement les charges et minimise les matériaux.</p><p><strong>Cas 2 : Système d'approvisionnement en eau</strong></p><p>Problème : Fournir de l'eau potable à une communauté isolée. Contraintes : Pas d'accès au réseau électrique, terrain montagneux, peu d'entretien.</p><p><strong>Solution :</strong> système de pompage par gravité utilisant des réservoirs surélevés et des filtres à sable.</p><h3>Exercices pratiques</h3><p><strong>Problème 1 : Optimisation des itinéraires</strong></p><p>Un camion de livraison doit se rendre à 10 endroits dans une ville. Concevez l'itinéraire le plus efficace en tenant compte du trafic et des distances.</p><p><strong>Problème 2 : Conception d'un produit</strong></p><p>Créez un dispositif qui aide les personnes à mobilité réduite à atteindre les objets situés sur des étagères en hauteur.</p><p><strong>Problème 3 : Efficacité énergétique</strong></p><p>Concevoir un système permettant de réduire la consommation d'énergie dans un immeuble de bureaux.</p><h3>Évaluation des solutions</h3><p><strong>Critères d'évaluation :</strong></p><ul><li>Efficacité : la solution résout-elle le problème ?</li><li>Efficacité : utilise-t-elle les ressources de manière optimale ?</li><li>Durabilité : impact acceptable sur l'environnement ?</li><li>Faisabilité : la solution peut-elle être mise en œuvre avec les ressources disponibles ?</li><li>Sécurité : est-elle sans danger pour les utilisateurs et l'environnement ?</li></ul><h3>Développement des compétences</h3><p><strong>Pratique continue :</strong> résoudre régulièrement les problèmes</p><p><strong>Tirer les leçons de l'échec :</strong> analyser ce qui n'a pas fonctionné et pourquoi</p><p><strong>Collaboration :</strong> travailler avec d'autres personnes pour obtenir des points de vue différents</p><p><strong>Mise à jour constante :</strong> se tenir au courant des nouvelles méthodologies et des nouveaux outils</p>",
+            "it": "<h3>Problemi classici di ingegneria</h3><p><strong>Caso 1: Il ponte sospeso</strong></p><p>Problema: progettare un ponte che attraversi un ampio fiume con una forte corrente. Vincoli: Budget limitato, materiali disponibili localmente, necessità di sostenere il traffico pesante.</p><p><strong>Soluzione:</strong> utilizzare un progetto di ponte sospeso che distribuisca i carichi in modo efficiente e riduca al minimo i materiali.</p><p><strong>Caso 2: Sistema di approvvigionamento idrico</strong></p><p>Problema: fornire acqua potabile a una comunità remota. Vincoli: Nessun accesso alla rete elettrica, terreno montuoso, scarsa manutenzione.</p><p><strong>Soluzione:</strong> sistema di pompaggio a gravità con serbatoi sopraelevati e filtri a sabbia.</p><h3>Esercizi pratici</h3><p><strong>Problema 1: Ottimizzazione del percorso</strong></p><p>Un camion per le consegne deve visitare 10 località in una città. Progettate il percorso più efficiente tenendo conto del traffico e delle distanze.</p><p><strong>Problema 2: Progettazione di un prodotto</strong></p><p>Create un dispositivo che aiuti le persone a mobilità ridotta a raggiungere gli oggetti sugli scaffali alti.</p><p><strong>Problema 3: Efficienza energetica</strong></p><p>Progettate un sistema per ridurre il consumo di energia in un edificio per uffici.</p><h3>Valutazione delle soluzioni</h3><p><strong>Criteri di valutazione:</strong></p><ul><li>Efficacia: risolve il problema?</li><li>Efficienza: utilizza le risorse in modo ottimale?</li><li>Sostenibilità: impatto ambientale accettabile?</li><li>Fattibilità: può essere implementata con le risorse disponibili?</li><li>Sicurezza: è sicuro per gli utenti e per l'ambiente?</li></ul><h3>Sviluppo delle competenze</h3><p><strong>Pratica continua:</strong> risolvere regolarmente i problemi</p><p><strong>Imparare dai fallimenti:</strong> analizzare cosa è andato storto e perché</p><p><strong>Collaborazione:</strong> lavorare con altri per ottenere prospettive diverse</p><p><strong>Aggiornamento costante:</strong> mantenersi aggiornati su nuove metodologie e strumenti<strong></strong> </p>",
+            "de": "<h3>Klassische technische Probleme</h3><p><strong>Fall 1: Die Hängebrücke</strong></p><p>Problem: Entwurf einer Brücke über einen breiten Fluss mit starker Strömung. Beschränkungen: Begrenztes Budget, lokal verfügbare Materialien, muss starkem Verkehr standhalten.</p><p><strong>Lösung:</strong> Entwurf einer Hängebrücke, die die Lasten effizient verteilt und möglichst wenig Material benötigt.</p><p><strong>Fall 2: Wasserversorgungssystem</strong></p><p>Problem: Bereitstellung von Trinkwasser für eine abgelegene Gemeinde. Sachzwänge: Kein Zugang zum Stromnetz, bergiges Gelände, geringer Wartungsaufwand.</p><p><strong>Lösung:</strong> Schwerkraftpumpensystem mit Hochtanks und Sandfiltern.</p><h3>Praktische Übungen</h3><p><strong>Problem 1: Optimierung der Route</strong></p><p>Ein Lieferwagen muss 10 Orte in einer Stadt anfahren. Entwerfen Sie die effizienteste Route unter Berücksichtigung des Verkehrs und der Entfernungen.</p><p><strong>Aufgabe 2: Produktdesign</strong></p><p>Entwerfen Sie ein Gerät, das Menschen mit eingeschränkter Mobilität hilft, Gegenstände in hohen Regalen zu erreichen.</p><p><strong>Aufgabe 3: Energie-Effizienz</strong></p><p>Entwerfen Sie ein System zur Reduzierung des Energieverbrauchs in einem Bürogebäude.</p><h3>Bewertung der Lösungen</h3><p><strong>Kriterien für die Bewertung:</strong></p><ul><li>Effektivität: Löst sie das Problem?</li><li>Effizienz: Werden die Ressourcen optimal genutzt?</li><li>Nachhaltigkeit: Sind die Umweltauswirkungen akzeptabel?</li><li>Durchführbarkeit: Kann sie mit den verfügbaren Ressourcen umgesetzt werden?</li><li>Sicherheit: Ist es für die Nutzer und die Umwelt sicher?</li></ul><h3>Entwicklung von Fertigkeiten</h3><p><strong>Kontinuierliche Praxis:</strong> Probleme regelmäßig lösen</p><p><strong>Aus Fehlern lernen:</strong> Analysieren, was schief gelaufen ist und warum</p><p><strong>Zusammenarbeit:</strong> Mit anderen zusammenarbeiten, um verschiedene Perspektiven zu gewinnen</p><p><strong>Ständige Aktualisierung:</strong> Sich über neue Methoden und Werkzeuge auf dem Laufenden halten</p>"
+          },
+          "duration": {
+            "es": "Lectura de 12 min",
+            "en": "12 min reading",
+            "fr": "12 min de lecture",
+            "it": "12 min di lettura",
+            "de": "12 min Lesen"
+          }
+        },
+        {
+          "id": "lesson-3-3-video",
+          "title": {
+            "es": "Video: Casos de Estudio en Ingeniería",
+            "en": "Video: Engineering Case Studies",
+            "fr": "Vidéo : Études de cas d'ingénierie",
+            "it": "Video: Casi di studio di ingegneria",
+            "de": "Video: Technische Fallstudien"
+          },
+          "content_type": "video",
+          "video_url": "https://www.youtube.com/embed/example-case-studies",
+          "description": {
+            "es": "Refuerzo visual sobre casos reales de resolución de problemas en ingeniería",
+            "en": "Visual reinforcement of real engineering problem solving cases",
+            "fr": "Renforcement visuel sur des cas réels de résolution de problèmes d'ingénierie",
+            "it": "Rinforzo visivo su casi reali di risoluzione di problemi ingegneristici",
+            "de": "Visuelle Verstärkung bei realen technischen Problemlösungsfällen"
+          },
+          "duration": {
+            "es": "13:20",
+            "en": "13:20",
+            "fr": "13:20",
+            "it": "13:20",
+            "de": "13:20"
+          }
+        }
+      ]
+    }
+  ],
+  "intro": {
+    "es": "La ingeniería es la disciplina que aplica conocimientos científicos y matemáticos para diseñar, construir y optimizar sistemas, estructuras y procesos que resuelvan problemas reales y mejoren la calidad de vida de las personas.",
+    "en": "Engineering is the discipline that applies scientific and mathematical knowledge to design, build and optimize systems, structures and processes that solve real problems and improve people's quality of life.",
+    "fr": "L'ingénierie est la discipline qui applique des connaissances scientifiques et mathématiques pour concevoir, construire et optimiser des systèmes, des structures et des processus qui résolvent des problèmes réels et améliorent la qualité de vie des personnes.",
+    "it": "L'ingegneria è la disciplina che applica conoscenze scientifiche e matematiche per progettare, costruire e ottimizzare sistemi, strutture e processi che risolvono problemi reali e migliorano la qualità della vita delle persone.",
+    "de": "Ingenieurwesen ist die Disziplin, die wissenschaftliche und mathematische Kenntnisse anwendet, um Systeme, Strukturen und Prozesse zu entwerfen, zu bauen und zu optimieren, die reale Probleme lösen und die Lebensqualität der Menschen verbessern."
+  }
+}
